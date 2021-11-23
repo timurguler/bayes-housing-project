@@ -1,0 +1,4 @@
+Business applications - https://www.census.gov/econ/bfs/index.html
+Housing prices - [Walter]
+MSA Code Crosswalk - https://www.census.gov/geographies/reference-files/time-series/demo/metro-micro/delineation-files.html
+Population data - https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-metro-and-micro-statistical-areas.html
