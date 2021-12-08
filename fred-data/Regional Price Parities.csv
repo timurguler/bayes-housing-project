@@ -1,1153 +1,289 @@
-date,Regional Price Parities,state,msa,city
-2008-01-01,120.4,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2009-01-01,121.2,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2010-01-01,122.2,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2011-01-01,122.4,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2012-01-01,122.4,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2013-01-01,121.4,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2014-01-01,121.3,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2015-01-01,122.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2016-01-01,123.6,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2017-01-01,124.6,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2018-01-01,125.3,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2019-01-01,125.7,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2008-01-01,107.1,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2009-01-01,107.1,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2010-01-01,108.1,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2011-01-01,108.8,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2012-01-01,109.4,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2013-01-01,109.6,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2014-01-01,109.5,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2015-01-01,109.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2016-01-01,109.4,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2017-01-01,109.8,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2018-01-01,109.9,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2019-01-01,109.9,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2008-01-01,118.5,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2009-01-01,118.9,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2010-01-01,119.3,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2011-01-01,119.1,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2012-01-01,118.6,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2013-01-01,116.9,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2014-01-01,116.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2015-01-01,117.8,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2016-01-01,120.5,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2017-01-01,123.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2018-01-01,123.3,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2019-01-01,123.5,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2008-01-01,155.1,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2009-01-01,157.1,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2010-01-01,155.4,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2011-01-01,156.5,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2012-01-01,157.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2013-01-01,156.1,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2014-01-01,156.1,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2015-01-01,155.3,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2016-01-01,155.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2017-01-01,153.5,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2018-01-01,152.9,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2019-01-01,151.8,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
-2008-01-01,116.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2009-01-01,116.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2010-01-01,118.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2011-01-01,118.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2012-01-01,118.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2013-01-01,117.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2014-01-01,117.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2015-01-01,116.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2016-01-01,116.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2017-01-01,117.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2018-01-01,118.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2019-01-01,118.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2008-01-01,103.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2009-01-01,103.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2010-01-01,103.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2011-01-01,103.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2012-01-01,103.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2013-01-01,104.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2014-01-01,104.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2015-01-01,104.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2016-01-01,105.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2017-01-01,105.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2018-01-01,105.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2019-01-01,105.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2008-01-01,108.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2009-01-01,108.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2010-01-01,108.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2011-01-01,108.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2012-01-01,107.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2013-01-01,107.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2014-01-01,107.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2015-01-01,106.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2016-01-01,104.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2017-01-01,106.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2018-01-01,106.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2019-01-01,106.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2008-01-01,172.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2009-01-01,174.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2010-01-01,171.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2011-01-01,170.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2012-01-01,168.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2013-01-01,166.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2014-01-01,165.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2015-01-01,164.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2016-01-01,165.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2017-01-01,165.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2018-01-01,167.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2019-01-01,169.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
-2008-01-01,106.4,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2009-01-01,107.1,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2010-01-01,106.8,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2011-01-01,106.9,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2012-01-01,106.3,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2013-01-01,104.5,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2014-01-01,103.8,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2015-01-01,103.7,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2016-01-01,103.5,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2017-01-01,102.9,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2018-01-01,102.9,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2019-01-01,102.8,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2008-01-01,104.7,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2009-01-01,104.6,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2010-01-01,104.7,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2011-01-01,104.2,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2012-01-01,103.5,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2013-01-01,101.8,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2014-01-01,100.3,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2015-01-01,99.7,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2016-01-01,99.7,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2017-01-01,100.3,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2018-01-01,100.2,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2019-01-01,100.2,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2008-01-01,102.6,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2009-01-01,103.9,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2010-01-01,103.5,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2011-01-01,104.3,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2012-01-01,104.1,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2013-01-01,101.8,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2014-01-01,101.8,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2015-01-01,102.3,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2016-01-01,101.9,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2017-01-01,100.2,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2018-01-01,100.2,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2019-01-01,100.1,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2008-01-01,118.2,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2009-01-01,119.5,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2010-01-01,117.9,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2011-01-01,118.4,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2012-01-01,117.5,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2013-01-01,116.7,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2014-01-01,116.1,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2015-01-01,115.4,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2016-01-01,114.5,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2017-01-01,113.7,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2018-01-01,113.3,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2019-01-01,112.4,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
-2008-01-01,101.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2009-01-01,101.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2010-01-01,100.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2011-01-01,100.5,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2012-01-01,100.1,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2013-01-01,99.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2014-01-01,99.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2015-01-01,99.5,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2016-01-01,99.7,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2017-01-01,100.2,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2018-01-01,100.7,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2019-01-01,101.2,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2008-01-01,99.6,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2009-01-01,98.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2010-01-01,98.2,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2011-01-01,97.7,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2012-01-01,97.6,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2013-01-01,97.6,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2014-01-01,99.2,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2015-01-01,99.1,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2016-01-01,99.1,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2017-01-01,99.0,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2018-01-01,98.9,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2019-01-01,98.9,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2008-01-01,104.7,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2009-01-01,105.6,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2010-01-01,105.1,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2011-01-01,104.6,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2012-01-01,103.4,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2013-01-01,102.0,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2014-01-01,100.1,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2015-01-01,99.0,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2016-01-01,98.4,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2017-01-01,98.3,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2018-01-01,98.4,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2019-01-01,98.6,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2008-01-01,101.3,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2009-01-01,101.2,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2010-01-01,98.9,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2011-01-01,99.2,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2012-01-01,99.7,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2013-01-01,100.4,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2014-01-01,100.6,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2015-01-01,101.4,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2016-01-01,103.0,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2017-01-01,105.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2018-01-01,108.2,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2019-01-01,109.9,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
-2008-01-01,100.3,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2009-01-01,100.8,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2010-01-01,100.7,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2011-01-01,100.7,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2012-01-01,100.2,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2013-01-01,100.5,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2014-01-01,100.9,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2015-01-01,101.1,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2016-01-01,101.3,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2017-01-01,101.6,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2018-01-01,101.7,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2019-01-01,101.7,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2008-01-01,98.9,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2009-01-01,99.2,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2010-01-01,98.7,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2011-01-01,98.0,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2012-01-01,96.5,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2013-01-01,96.3,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2014-01-01,96.3,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2015-01-01,95.6,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2016-01-01,95.7,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2017-01-01,95.8,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2018-01-01,95.6,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2019-01-01,95.6,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2008-01-01,102.4,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2009-01-01,103.2,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2010-01-01,104.2,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2011-01-01,104.8,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2012-01-01,105.4,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2013-01-01,106.1,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2014-01-01,107.3,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2015-01-01,108.0,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2016-01-01,107.4,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2017-01-01,106.8,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2018-01-01,106.8,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2019-01-01,106.8,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2008-01-01,99.3,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2009-01-01,100.2,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2010-01-01,98.6,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2011-01-01,99.0,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2012-01-01,98.7,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2013-01-01,99.1,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2014-01-01,99.8,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2015-01-01,101.4,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2016-01-01,102.9,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2017-01-01,104.1,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2018-01-01,104.6,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2019-01-01,104.7,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
-2008-01-01,99.5,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2009-01-01,99.3,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2010-01-01,98.6,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2011-01-01,98.2,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2012-01-01,97.6,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2013-01-01,97.1,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2014-01-01,96.6,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2015-01-01,96.2,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2016-01-01,95.5,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2017-01-01,95.2,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2018-01-01,95.2,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2019-01-01,95.3,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2008-01-01,98.9,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2009-01-01,99.4,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2010-01-01,99.4,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2011-01-01,99.5,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2012-01-01,99.1,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2013-01-01,99.0,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2014-01-01,98.4,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2015-01-01,98.8,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2016-01-01,98.5,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2017-01-01,97.8,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2018-01-01,97.8,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2019-01-01,97.8,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2008-01-01,102.3,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2009-01-01,101.9,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2010-01-01,100.8,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2011-01-01,100.7,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2012-01-01,100.0,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2013-01-01,99.5,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2014-01-01,99.2,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2015-01-01,98.5,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2016-01-01,97.7,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2017-01-01,97.8,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2018-01-01,97.8,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2019-01-01,97.7,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2008-01-01,95.0,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2009-01-01,93.6,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2010-01-01,91.5,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2011-01-01,90.1,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2012-01-01,88.9,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2013-01-01,87.9,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2014-01-01,87.6,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2015-01-01,87.0,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2016-01-01,86.5,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2017-01-01,86.1,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2018-01-01,85.9,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2019-01-01,86.1,MI,"Detroit-Warren-Dearborn, MI",Detroit
-2008-01-01,94.4,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2009-01-01,92.8,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2010-01-01,91.7,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2011-01-01,90.9,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2012-01-01,90.3,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2013-01-01,89.6,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2014-01-01,89.9,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2015-01-01,90.1,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2016-01-01,90.0,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2017-01-01,90.8,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2018-01-01,90.7,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2019-01-01,90.6,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2008-01-01,95.5,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2009-01-01,94.7,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2010-01-01,93.8,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2011-01-01,92.7,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2012-01-01,92.5,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2013-01-01,92.8,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2014-01-01,94.7,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2015-01-01,95.2,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2016-01-01,95.5,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2017-01-01,96.1,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2018-01-01,96.0,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2019-01-01,95.9,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2008-01-01,98.6,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2009-01-01,96.2,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2010-01-01,95.0,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2011-01-01,94.0,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2012-01-01,93.0,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2013-01-01,91.2,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2014-01-01,91.1,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2015-01-01,91.2,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2016-01-01,91.0,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2017-01-01,92.5,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2018-01-01,92.5,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2019-01-01,92.3,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2008-01-01,83.6,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2009-01-01,82.1,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2010-01-01,80.5,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2011-01-01,80.4,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2012-01-01,80.3,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2013-01-01,79.8,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2014-01-01,78.9,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2015-01-01,78.9,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2016-01-01,78.4,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2017-01-01,78.5,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2018-01-01,78.6,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2019-01-01,78.5,OH,"Cincinnati, OH-KY-IN",Cincinnati
-2008-01-01,96.1,SC,"Charleston-North Charleston, SC",Charleston
-2009-01-01,96.2,SC,"Charleston-North Charleston, SC",Charleston
-2010-01-01,95.6,SC,"Charleston-North Charleston, SC",Charleston
-2011-01-01,95.8,SC,"Charleston-North Charleston, SC",Charleston
-2012-01-01,95.8,SC,"Charleston-North Charleston, SC",Charleston
-2013-01-01,96.0,SC,"Charleston-North Charleston, SC",Charleston
-2014-01-01,96.2,SC,"Charleston-North Charleston, SC",Charleston
-2015-01-01,96.2,SC,"Charleston-North Charleston, SC",Charleston
-2016-01-01,96.4,SC,"Charleston-North Charleston, SC",Charleston
-2017-01-01,96.1,SC,"Charleston-North Charleston, SC",Charleston
-2018-01-01,96.7,SC,"Charleston-North Charleston, SC",Charleston
-2019-01-01,97.1,SC,"Charleston-North Charleston, SC",Charleston
-2008-01-01,98.6,SC,"Charleston-North Charleston, SC",Charleston
-2009-01-01,98.6,SC,"Charleston-North Charleston, SC",Charleston
-2010-01-01,97.8,SC,"Charleston-North Charleston, SC",Charleston
-2011-01-01,97.6,SC,"Charleston-North Charleston, SC",Charleston
-2012-01-01,97.6,SC,"Charleston-North Charleston, SC",Charleston
-2013-01-01,97.5,SC,"Charleston-North Charleston, SC",Charleston
-2014-01-01,98.0,SC,"Charleston-North Charleston, SC",Charleston
-2015-01-01,98.2,SC,"Charleston-North Charleston, SC",Charleston
-2016-01-01,97.5,SC,"Charleston-North Charleston, SC",Charleston
-2017-01-01,96.6,SC,"Charleston-North Charleston, SC",Charleston
-2018-01-01,96.6,SC,"Charleston-North Charleston, SC",Charleston
-2019-01-01,96.6,SC,"Charleston-North Charleston, SC",Charleston
-2008-01-01,95.2,SC,"Charleston-North Charleston, SC",Charleston
-2009-01-01,94.8,SC,"Charleston-North Charleston, SC",Charleston
-2010-01-01,94.3,SC,"Charleston-North Charleston, SC",Charleston
-2011-01-01,94.4,SC,"Charleston-North Charleston, SC",Charleston
-2012-01-01,94.4,SC,"Charleston-North Charleston, SC",Charleston
-2013-01-01,94.0,SC,"Charleston-North Charleston, SC",Charleston
-2014-01-01,93.4,SC,"Charleston-North Charleston, SC",Charleston
-2015-01-01,93.5,SC,"Charleston-North Charleston, SC",Charleston
-2016-01-01,94.6,SC,"Charleston-North Charleston, SC",Charleston
-2017-01-01,95.1,SC,"Charleston-North Charleston, SC",Charleston
-2018-01-01,95.1,SC,"Charleston-North Charleston, SC",Charleston
-2019-01-01,95.1,SC,"Charleston-North Charleston, SC",Charleston
-2008-01-01,92.9,SC,"Charleston-North Charleston, SC",Charleston
-2009-01-01,94.1,SC,"Charleston-North Charleston, SC",Charleston
-2010-01-01,93.4,SC,"Charleston-North Charleston, SC",Charleston
-2011-01-01,94.7,SC,"Charleston-North Charleston, SC",Charleston
-2012-01-01,95.0,SC,"Charleston-North Charleston, SC",Charleston
-2013-01-01,96.3,SC,"Charleston-North Charleston, SC",Charleston
-2014-01-01,97.2,SC,"Charleston-North Charleston, SC",Charleston
-2015-01-01,96.9,SC,"Charleston-North Charleston, SC",Charleston
-2016-01-01,97.3,SC,"Charleston-North Charleston, SC",Charleston
-2017-01-01,96.8,SC,"Charleston-North Charleston, SC",Charleston
-2018-01-01,99.3,SC,"Charleston-North Charleston, SC",Charleston
-2019-01-01,101.4,SC,"Charleston-North Charleston, SC",Charleston
-2008-01-01,94.5,UT,"Ogden-Clearfield, UT",Ogden
-2009-01-01,95.3,UT,"Ogden-Clearfield, UT",Ogden
-2010-01-01,96.3,UT,"Ogden-Clearfield, UT",Ogden
-2011-01-01,96.9,UT,"Ogden-Clearfield, UT",Ogden
-2012-01-01,96.4,UT,"Ogden-Clearfield, UT",Ogden
-2013-01-01,96.2,UT,"Ogden-Clearfield, UT",Ogden
-2014-01-01,95.6,UT,"Ogden-Clearfield, UT",Ogden
-2015-01-01,94.8,UT,"Ogden-Clearfield, UT",Ogden
-2016-01-01,93.6,UT,"Ogden-Clearfield, UT",Ogden
-2017-01-01,92.8,UT,"Ogden-Clearfield, UT",Ogden
-2018-01-01,93.6,UT,"Ogden-Clearfield, UT",Ogden
-2019-01-01,94.3,UT,"Ogden-Clearfield, UT",Ogden
-2008-01-01,96.1,UT,"Ogden-Clearfield, UT",Ogden
-2009-01-01,96.9,UT,"Ogden-Clearfield, UT",Ogden
-2010-01-01,97.3,UT,"Ogden-Clearfield, UT",Ogden
-2011-01-01,97.7,UT,"Ogden-Clearfield, UT",Ogden
-2012-01-01,97.1,UT,"Ogden-Clearfield, UT",Ogden
-2013-01-01,96.6,UT,"Ogden-Clearfield, UT",Ogden
-2014-01-01,95.8,UT,"Ogden-Clearfield, UT",Ogden
-2015-01-01,95.6,UT,"Ogden-Clearfield, UT",Ogden
-2016-01-01,94.1,UT,"Ogden-Clearfield, UT",Ogden
-2017-01-01,93.4,UT,"Ogden-Clearfield, UT",Ogden
-2018-01-01,93.4,UT,"Ogden-Clearfield, UT",Ogden
-2019-01-01,93.4,UT,"Ogden-Clearfield, UT",Ogden
-2008-01-01,97.7,UT,"Ogden-Clearfield, UT",Ogden
-2009-01-01,99.1,UT,"Ogden-Clearfield, UT",Ogden
-2010-01-01,99.8,UT,"Ogden-Clearfield, UT",Ogden
-2011-01-01,100.3,UT,"Ogden-Clearfield, UT",Ogden
-2012-01-01,100.8,UT,"Ogden-Clearfield, UT",Ogden
-2013-01-01,102.2,UT,"Ogden-Clearfield, UT",Ogden
-2014-01-01,101.5,UT,"Ogden-Clearfield, UT",Ogden
-2015-01-01,100.9,UT,"Ogden-Clearfield, UT",Ogden
-2016-01-01,99.5,UT,"Ogden-Clearfield, UT",Ogden
-2017-01-01,98.3,UT,"Ogden-Clearfield, UT",Ogden
-2018-01-01,98.6,UT,"Ogden-Clearfield, UT",Ogden
-2019-01-01,98.8,UT,"Ogden-Clearfield, UT",Ogden
-2008-01-01,84.7,UT,"Ogden-Clearfield, UT",Ogden
-2009-01-01,85.1,UT,"Ogden-Clearfield, UT",Ogden
-2010-01-01,87.7,UT,"Ogden-Clearfield, UT",Ogden
-2011-01-01,88.6,UT,"Ogden-Clearfield, UT",Ogden
-2012-01-01,86.8,UT,"Ogden-Clearfield, UT",Ogden
-2013-01-01,85.1,UT,"Ogden-Clearfield, UT",Ogden
-2014-01-01,85.6,UT,"Ogden-Clearfield, UT",Ogden
-2015-01-01,83.7,UT,"Ogden-Clearfield, UT",Ogden
-2016-01-01,84.2,UT,"Ogden-Clearfield, UT",Ogden
-2017-01-01,83.7,UT,"Ogden-Clearfield, UT",Ogden
-2018-01-01,87.2,UT,"Ogden-Clearfield, UT",Ogden
-2019-01-01,89.8,UT,"Ogden-Clearfield, UT",Ogden
-2008-01-01,91.3,KS,"Wichita, KS",Wichita
-2009-01-01,91.1,KS,"Wichita, KS",Wichita
-2010-01-01,91.0,KS,"Wichita, KS",Wichita
-2011-01-01,91.3,KS,"Wichita, KS",Wichita
-2012-01-01,91.2,KS,"Wichita, KS",Wichita
-2013-01-01,90.9,KS,"Wichita, KS",Wichita
-2014-01-01,90.3,KS,"Wichita, KS",Wichita
-2015-01-01,89.6,KS,"Wichita, KS",Wichita
-2016-01-01,89.1,KS,"Wichita, KS",Wichita
-2017-01-01,88.8,KS,"Wichita, KS",Wichita
-2018-01-01,88.4,KS,"Wichita, KS",Wichita
-2019-01-01,87.9,KS,"Wichita, KS",Wichita
-2008-01-01,96.1,KS,"Wichita, KS",Wichita
-2009-01-01,96.8,KS,"Wichita, KS",Wichita
-2010-01-01,96.9,KS,"Wichita, KS",Wichita
-2011-01-01,97.2,KS,"Wichita, KS",Wichita
-2012-01-01,97.4,KS,"Wichita, KS",Wichita
-2013-01-01,97.6,KS,"Wichita, KS",Wichita
-2014-01-01,97.1,KS,"Wichita, KS",Wichita
-2015-01-01,96.1,KS,"Wichita, KS",Wichita
-2016-01-01,95.4,KS,"Wichita, KS",Wichita
-2017-01-01,94.8,KS,"Wichita, KS",Wichita
-2018-01-01,94.7,KS,"Wichita, KS",Wichita
-2019-01-01,94.7,KS,"Wichita, KS",Wichita
-2008-01-01,95.3,KS,"Wichita, KS",Wichita
-2009-01-01,94.7,KS,"Wichita, KS",Wichita
-2010-01-01,94.4,KS,"Wichita, KS",Wichita
-2011-01-01,94.4,KS,"Wichita, KS",Wichita
-2012-01-01,94.2,KS,"Wichita, KS",Wichita
-2013-01-01,93.4,KS,"Wichita, KS",Wichita
-2014-01-01,93.3,KS,"Wichita, KS",Wichita
-2015-01-01,92.2,KS,"Wichita, KS",Wichita
-2016-01-01,92.3,KS,"Wichita, KS",Wichita
-2017-01-01,92.3,KS,"Wichita, KS",Wichita
-2018-01-01,92.2,KS,"Wichita, KS",Wichita
-2019-01-01,92.2,KS,"Wichita, KS",Wichita
-2008-01-01,73.9,KS,"Wichita, KS",Wichita
-2009-01-01,72.9,KS,"Wichita, KS",Wichita
-2010-01-01,71.6,KS,"Wichita, KS",Wichita
-2011-01-01,72.7,KS,"Wichita, KS",Wichita
-2012-01-01,72.6,KS,"Wichita, KS",Wichita
-2013-01-01,72.9,KS,"Wichita, KS",Wichita
-2014-01-01,72.1,KS,"Wichita, KS",Wichita
-2015-01-01,72.7,KS,"Wichita, KS",Wichita
-2016-01-01,72.0,KS,"Wichita, KS",Wichita
-2017-01-01,71.8,KS,"Wichita, KS",Wichita
-2018-01-01,71.0,KS,"Wichita, KS",Wichita
-2019-01-01,70.1,KS,"Wichita, KS",Wichita
-2008-01-01,94.6,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2009-01-01,94.6,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2010-01-01,92.8,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2011-01-01,92.9,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2012-01-01,92.5,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2013-01-01,92.4,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2014-01-01,91.1,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2015-01-01,90.8,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2016-01-01,91.5,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2017-01-01,92.1,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2018-01-01,91.8,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2019-01-01,92.2,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2008-01-01,97.7,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2009-01-01,97.6,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2010-01-01,96.7,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2011-01-01,96.4,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2012-01-01,96.3,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2013-01-01,96.1,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2014-01-01,96.4,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2015-01-01,96.5,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2016-01-01,96.2,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2017-01-01,95.5,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2018-01-01,95.5,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2019-01-01,95.5,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2008-01-01,94.1,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2009-01-01,93.8,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2010-01-01,93.6,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2011-01-01,93.8,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2012-01-01,94.0,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2013-01-01,94.1,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2014-01-01,93.5,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2015-01-01,93.5,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2016-01-01,94.6,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2017-01-01,95.1,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2018-01-01,95.1,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2019-01-01,95.2,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2008-01-01,90.3,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2009-01-01,90.9,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2010-01-01,87.8,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2011-01-01,88.3,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2012-01-01,87.3,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2013-01-01,86.8,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2014-01-01,83.7,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2015-01-01,82.7,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2016-01-01,83.8,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2017-01-01,85.7,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2018-01-01,84.4,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2019-01-01,85.0,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
-2008-01-01,110.9,NJ,"Trenton-Princeton, NJ",Trenton
-2009-01-01,111.5,NJ,"Trenton-Princeton, NJ",Trenton
-2010-01-01,112.2,NJ,"Trenton-Princeton, NJ",Trenton
-2011-01-01,113.0,NJ,"Trenton-Princeton, NJ",Trenton
-2012-01-01,112.3,NJ,"Trenton-Princeton, NJ",Trenton
-2013-01-01,111.5,NJ,"Trenton-Princeton, NJ",Trenton
-2014-01-01,111.5,NJ,"Trenton-Princeton, NJ",Trenton
-2015-01-01,112.1,NJ,"Trenton-Princeton, NJ",Trenton
-2016-01-01,109.2,NJ,"Trenton-Princeton, NJ",Trenton
-2017-01-01,107.0,NJ,"Trenton-Princeton, NJ",Trenton
-2018-01-01,106.5,NJ,"Trenton-Princeton, NJ",Trenton
-2019-01-01,106.2,NJ,"Trenton-Princeton, NJ",Trenton
-2008-01-01,99.8,NJ,"Trenton-Princeton, NJ",Trenton
-2009-01-01,99.3,NJ,"Trenton-Princeton, NJ",Trenton
-2010-01-01,99.8,NJ,"Trenton-Princeton, NJ",Trenton
-2011-01-01,101.3,NJ,"Trenton-Princeton, NJ",Trenton
-2012-01-01,101.8,NJ,"Trenton-Princeton, NJ",Trenton
-2013-01-01,102.3,NJ,"Trenton-Princeton, NJ",Trenton
-2014-01-01,102.4,NJ,"Trenton-Princeton, NJ",Trenton
-2015-01-01,101.8,NJ,"Trenton-Princeton, NJ",Trenton
-2016-01-01,100.9,NJ,"Trenton-Princeton, NJ",Trenton
-2017-01-01,100.5,NJ,"Trenton-Princeton, NJ",Trenton
-2018-01-01,100.3,NJ,"Trenton-Princeton, NJ",Trenton
-2019-01-01,100.2,NJ,"Trenton-Princeton, NJ",Trenton
-2008-01-01,113.0,NJ,"Trenton-Princeton, NJ",Trenton
-2009-01-01,114.6,NJ,"Trenton-Princeton, NJ",Trenton
-2010-01-01,117.3,NJ,"Trenton-Princeton, NJ",Trenton
-2011-01-01,117.8,NJ,"Trenton-Princeton, NJ",Trenton
-2012-01-01,117.3,NJ,"Trenton-Princeton, NJ",Trenton
-2013-01-01,115.2,NJ,"Trenton-Princeton, NJ",Trenton
-2014-01-01,114.6,NJ,"Trenton-Princeton, NJ",Trenton
-2015-01-01,116.1,NJ,"Trenton-Princeton, NJ",Trenton
-2016-01-01,111.3,NJ,"Trenton-Princeton, NJ",Trenton
-2017-01-01,106.4,NJ,"Trenton-Princeton, NJ",Trenton
-2018-01-01,106.0,NJ,"Trenton-Princeton, NJ",Trenton
-2019-01-01,105.5,NJ,"Trenton-Princeton, NJ",Trenton
-2008-01-01,133.0,NJ,"Trenton-Princeton, NJ",Trenton
-2009-01-01,133.5,NJ,"Trenton-Princeton, NJ",Trenton
-2010-01-01,128.3,NJ,"Trenton-Princeton, NJ",Trenton
-2011-01-01,128.4,NJ,"Trenton-Princeton, NJ",Trenton
-2012-01-01,123.7,NJ,"Trenton-Princeton, NJ",Trenton
-2013-01-01,122.4,NJ,"Trenton-Princeton, NJ",Trenton
-2014-01-01,122.4,NJ,"Trenton-Princeton, NJ",Trenton
-2015-01-01,123.6,NJ,"Trenton-Princeton, NJ",Trenton
-2016-01-01,120.1,NJ,"Trenton-Princeton, NJ",Trenton
-2017-01-01,119.9,NJ,"Trenton-Princeton, NJ",Trenton
-2018-01-01,119.8,NJ,"Trenton-Princeton, NJ",Trenton
-2019-01-01,121.0,NJ,"Trenton-Princeton, NJ",Trenton
-2008-01-01,93.6,NE,"Lincoln, NE",Lincoln
-2009-01-01,93.3,NE,"Lincoln, NE",Lincoln
-2010-01-01,93.1,NE,"Lincoln, NE",Lincoln
-2011-01-01,93.1,NE,"Lincoln, NE",Lincoln
-2012-01-01,93.1,NE,"Lincoln, NE",Lincoln
-2013-01-01,92.7,NE,"Lincoln, NE",Lincoln
-2014-01-01,92.4,NE,"Lincoln, NE",Lincoln
-2015-01-01,91.8,NE,"Lincoln, NE",Lincoln
-2016-01-01,91.3,NE,"Lincoln, NE",Lincoln
-2017-01-01,91.0,NE,"Lincoln, NE",Lincoln
-2018-01-01,90.9,NE,"Lincoln, NE",Lincoln
-2019-01-01,90.9,NE,"Lincoln, NE",Lincoln
-2008-01-01,96.1,NE,"Lincoln, NE",Lincoln
-2009-01-01,96.9,NE,"Lincoln, NE",Lincoln
-2010-01-01,97.0,NE,"Lincoln, NE",Lincoln
-2011-01-01,97.2,NE,"Lincoln, NE",Lincoln
-2012-01-01,97.5,NE,"Lincoln, NE",Lincoln
-2013-01-01,97.6,NE,"Lincoln, NE",Lincoln
-2014-01-01,97.2,NE,"Lincoln, NE",Lincoln
-2015-01-01,96.2,NE,"Lincoln, NE",Lincoln
-2016-01-01,95.4,NE,"Lincoln, NE",Lincoln
-2017-01-01,94.8,NE,"Lincoln, NE",Lincoln
-2018-01-01,94.7,NE,"Lincoln, NE",Lincoln
-2019-01-01,94.6,NE,"Lincoln, NE",Lincoln
-2008-01-01,95.4,NE,"Lincoln, NE",Lincoln
-2009-01-01,94.7,NE,"Lincoln, NE",Lincoln
-2010-01-01,94.4,NE,"Lincoln, NE",Lincoln
-2011-01-01,94.4,NE,"Lincoln, NE",Lincoln
-2012-01-01,94.2,NE,"Lincoln, NE",Lincoln
-2013-01-01,93.5,NE,"Lincoln, NE",Lincoln
-2014-01-01,93.3,NE,"Lincoln, NE",Lincoln
-2015-01-01,92.2,NE,"Lincoln, NE",Lincoln
-2016-01-01,92.3,NE,"Lincoln, NE",Lincoln
-2017-01-01,92.3,NE,"Lincoln, NE",Lincoln
-2018-01-01,92.2,NE,"Lincoln, NE",Lincoln
-2019-01-01,92.2,NE,"Lincoln, NE",Lincoln
-2008-01-01,84.4,NE,"Lincoln, NE",Lincoln
-2009-01-01,82.8,NE,"Lincoln, NE",Lincoln
-2010-01-01,82.2,NE,"Lincoln, NE",Lincoln
-2011-01-01,81.5,NE,"Lincoln, NE",Lincoln
-2012-01-01,81.8,NE,"Lincoln, NE",Lincoln
-2013-01-01,81.2,NE,"Lincoln, NE",Lincoln
-2014-01-01,81.2,NE,"Lincoln, NE",Lincoln
-2015-01-01,82.0,NE,"Lincoln, NE",Lincoln
-2016-01-01,81.3,NE,"Lincoln, NE",Lincoln
-2017-01-01,80.9,NE,"Lincoln, NE",Lincoln
-2018-01-01,81.3,NE,"Lincoln, NE",Lincoln
-2019-01-01,81.7,NE,"Lincoln, NE",Lincoln
-2008-01-01,92.2,IL,"Rockford, IL",Rockford
-2009-01-01,92.6,IL,"Rockford, IL",Rockford
-2010-01-01,91.9,IL,"Rockford, IL",Rockford
-2011-01-01,92.4,IL,"Rockford, IL",Rockford
-2012-01-01,91.9,IL,"Rockford, IL",Rockford
-2013-01-01,91.6,IL,"Rockford, IL",Rockford
-2014-01-01,90.8,IL,"Rockford, IL",Rockford
-2015-01-01,89.5,IL,"Rockford, IL",Rockford
-2016-01-01,88.8,IL,"Rockford, IL",Rockford
-2017-01-01,87.9,IL,"Rockford, IL",Rockford
-2018-01-01,87.3,IL,"Rockford, IL",Rockford
-2019-01-01,86.9,IL,"Rockford, IL",Rockford
-2008-01-01,96.4,IL,"Rockford, IL",Rockford
-2009-01-01,97.1,IL,"Rockford, IL",Rockford
-2010-01-01,97.2,IL,"Rockford, IL",Rockford
-2011-01-01,97.5,IL,"Rockford, IL",Rockford
-2012-01-01,97.7,IL,"Rockford, IL",Rockford
-2013-01-01,97.8,IL,"Rockford, IL",Rockford
-2014-01-01,97.3,IL,"Rockford, IL",Rockford
-2015-01-01,96.3,IL,"Rockford, IL",Rockford
-2016-01-01,96.1,IL,"Rockford, IL",Rockford
-2017-01-01,95.4,IL,"Rockford, IL",Rockford
-2018-01-01,95.4,IL,"Rockford, IL",Rockford
-2019-01-01,95.4,IL,"Rockford, IL",Rockford
-2008-01-01,95.7,IL,"Rockford, IL",Rockford
-2009-01-01,95.0,IL,"Rockford, IL",Rockford
-2010-01-01,94.6,IL,"Rockford, IL",Rockford
-2011-01-01,94.7,IL,"Rockford, IL",Rockford
-2012-01-01,94.4,IL,"Rockford, IL",Rockford
-2013-01-01,93.6,IL,"Rockford, IL",Rockford
-2014-01-01,93.4,IL,"Rockford, IL",Rockford
-2015-01-01,92.3,IL,"Rockford, IL",Rockford
-2016-01-01,91.6,IL,"Rockford, IL",Rockford
-2017-01-01,91.5,IL,"Rockford, IL",Rockford
-2018-01-01,91.4,IL,"Rockford, IL",Rockford
-2019-01-01,91.4,IL,"Rockford, IL",Rockford
-2008-01-01,77.8,IL,"Rockford, IL",Rockford
-2009-01-01,79.8,IL,"Rockford, IL",Rockford
-2010-01-01,76.4,IL,"Rockford, IL",Rockford
-2011-01-01,78.3,IL,"Rockford, IL",Rockford
-2012-01-01,76.7,IL,"Rockford, IL",Rockford
-2013-01-01,76.9,IL,"Rockford, IL",Rockford
-2014-01-01,74.9,IL,"Rockford, IL",Rockford
-2015-01-01,73.7,IL,"Rockford, IL",Rockford
-2016-01-01,72.1,IL,"Rockford, IL",Rockford
-2017-01-01,70.0,IL,"Rockford, IL",Rockford
-2018-01-01,68.9,IL,"Rockford, IL",Rockford
-2019-01-01,68.8,IL,"Rockford, IL",Rockford
-2008-01-01,94.5,WA,"Kennewick-Richland, WA",Kennewick
-2009-01-01,95.7,WA,"Kennewick-Richland, WA",Kennewick
-2010-01-01,96.2,WA,"Kennewick-Richland, WA",Kennewick
-2011-01-01,97.4,WA,"Kennewick-Richland, WA",Kennewick
-2012-01-01,97.8,WA,"Kennewick-Richland, WA",Kennewick
-2013-01-01,98.4,WA,"Kennewick-Richland, WA",Kennewick
-2014-01-01,97.7,WA,"Kennewick-Richland, WA",Kennewick
-2015-01-01,96.9,WA,"Kennewick-Richland, WA",Kennewick
-2016-01-01,97.3,WA,"Kennewick-Richland, WA",Kennewick
-2017-01-01,97.9,WA,"Kennewick-Richland, WA",Kennewick
-2018-01-01,98.0,WA,"Kennewick-Richland, WA",Kennewick
-2019-01-01,98.6,WA,"Kennewick-Richland, WA",Kennewick
-2008-01-01,95.8,WA,"Kennewick-Richland, WA",Kennewick
-2009-01-01,96.6,WA,"Kennewick-Richland, WA",Kennewick
-2010-01-01,97.1,WA,"Kennewick-Richland, WA",Kennewick
-2011-01-01,97.6,WA,"Kennewick-Richland, WA",Kennewick
-2012-01-01,96.9,WA,"Kennewick-Richland, WA",Kennewick
-2013-01-01,96.4,WA,"Kennewick-Richland, WA",Kennewick
-2014-01-01,95.5,WA,"Kennewick-Richland, WA",Kennewick
-2015-01-01,95.2,WA,"Kennewick-Richland, WA",Kennewick
-2016-01-01,96.4,WA,"Kennewick-Richland, WA",Kennewick
-2017-01-01,98.2,WA,"Kennewick-Richland, WA",Kennewick
-2018-01-01,98.1,WA,"Kennewick-Richland, WA",Kennewick
-2019-01-01,98.2,WA,"Kennewick-Richland, WA",Kennewick
-2008-01-01,97.6,WA,"Kennewick-Richland, WA",Kennewick
-2009-01-01,99.3,WA,"Kennewick-Richland, WA",Kennewick
-2010-01-01,100.2,WA,"Kennewick-Richland, WA",Kennewick
-2011-01-01,100.8,WA,"Kennewick-Richland, WA",Kennewick
-2012-01-01,101.3,WA,"Kennewick-Richland, WA",Kennewick
-2013-01-01,102.7,WA,"Kennewick-Richland, WA",Kennewick
-2014-01-01,102.0,WA,"Kennewick-Richland, WA",Kennewick
-2015-01-01,101.5,WA,"Kennewick-Richland, WA",Kennewick
-2016-01-01,101.6,WA,"Kennewick-Richland, WA",Kennewick
-2017-01-01,101.2,WA,"Kennewick-Richland, WA",Kennewick
-2018-01-01,101.6,WA,"Kennewick-Richland, WA",Kennewick
-2019-01-01,102.2,WA,"Kennewick-Richland, WA",Kennewick
-2008-01-01,85.1,WA,"Kennewick-Richland, WA",Kennewick
-2009-01-01,86.6,WA,"Kennewick-Richland, WA",Kennewick
-2010-01-01,86.8,WA,"Kennewick-Richland, WA",Kennewick
-2011-01-01,90.0,WA,"Kennewick-Richland, WA",Kennewick
-2012-01-01,92.6,WA,"Kennewick-Richland, WA",Kennewick
-2013-01-01,95.1,WA,"Kennewick-Richland, WA",Kennewick
-2014-01-01,95.3,WA,"Kennewick-Richland, WA",Kennewick
-2015-01-01,92.9,WA,"Kennewick-Richland, WA",Kennewick
-2016-01-01,92.5,WA,"Kennewick-Richland, WA",Kennewick
-2017-01-01,92.0,WA,"Kennewick-Richland, WA",Kennewick
-2018-01-01,92.3,WA,"Kennewick-Richland, WA",Kennewick
-2019-01-01,94.0,WA,"Kennewick-Richland, WA",Kennewick
-2008-01-01,99.6,VA,"Charlottesville, VA",Charlottesville
-2009-01-01,99.6,VA,"Charlottesville, VA",Charlottesville
-2010-01-01,98.6,VA,"Charlottesville, VA",Charlottesville
-2011-01-01,98.7,VA,"Charlottesville, VA",Charlottesville
-2012-01-01,98.2,VA,"Charlottesville, VA",Charlottesville
-2013-01-01,98.4,VA,"Charlottesville, VA",Charlottesville
-2014-01-01,97.8,VA,"Charlottesville, VA",Charlottesville
-2015-01-01,98.1,VA,"Charlottesville, VA",Charlottesville
-2016-01-01,98.8,VA,"Charlottesville, VA",Charlottesville
-2017-01-01,98.8,VA,"Charlottesville, VA",Charlottesville
-2018-01-01,98.9,VA,"Charlottesville, VA",Charlottesville
-2019-01-01,98.8,VA,"Charlottesville, VA",Charlottesville
-2008-01-01,98.1,VA,"Charlottesville, VA",Charlottesville
-2009-01-01,98.0,VA,"Charlottesville, VA",Charlottesville
-2010-01-01,97.2,VA,"Charlottesville, VA",Charlottesville
-2011-01-01,96.9,VA,"Charlottesville, VA",Charlottesville
-2012-01-01,96.8,VA,"Charlottesville, VA",Charlottesville
-2013-01-01,96.7,VA,"Charlottesville, VA",Charlottesville
-2014-01-01,97.0,VA,"Charlottesville, VA",Charlottesville
-2015-01-01,97.2,VA,"Charlottesville, VA",Charlottesville
-2016-01-01,97.2,VA,"Charlottesville, VA",Charlottesville
-2017-01-01,96.4,VA,"Charlottesville, VA",Charlottesville
-2018-01-01,96.4,VA,"Charlottesville, VA",Charlottesville
-2019-01-01,96.4,VA,"Charlottesville, VA",Charlottesville
-2008-01-01,94.7,VA,"Charlottesville, VA",Charlottesville
-2009-01-01,94.2,VA,"Charlottesville, VA",Charlottesville
-2010-01-01,93.9,VA,"Charlottesville, VA",Charlottesville
-2011-01-01,94.1,VA,"Charlottesville, VA",Charlottesville
-2012-01-01,94.2,VA,"Charlottesville, VA",Charlottesville
-2013-01-01,94.1,VA,"Charlottesville, VA",Charlottesville
-2014-01-01,93.5,VA,"Charlottesville, VA",Charlottesville
-2015-01-01,93.6,VA,"Charlottesville, VA",Charlottesville
-2016-01-01,94.6,VA,"Charlottesville, VA",Charlottesville
-2017-01-01,95.1,VA,"Charlottesville, VA",Charlottesville
-2018-01-01,95.1,VA,"Charlottesville, VA",Charlottesville
-2019-01-01,95.1,VA,"Charlottesville, VA",Charlottesville
-2008-01-01,113.9,VA,"Charlottesville, VA",Charlottesville
-2009-01-01,115.8,VA,"Charlottesville, VA",Charlottesville
-2010-01-01,112.4,VA,"Charlottesville, VA",Charlottesville
-2011-01-01,113.5,VA,"Charlottesville, VA",Charlottesville
-2012-01-01,110.5,VA,"Charlottesville, VA",Charlottesville
-2013-01-01,112.2,VA,"Charlottesville, VA",Charlottesville
-2014-01-01,108.6,VA,"Charlottesville, VA",Charlottesville
-2015-01-01,109.5,VA,"Charlottesville, VA",Charlottesville
-2016-01-01,110.5,VA,"Charlottesville, VA",Charlottesville
-2017-01-01,111.7,VA,"Charlottesville, VA",Charlottesville
-2018-01-01,112.7,VA,"Charlottesville, VA",Charlottesville
-2019-01-01,112.8,VA,"Charlottesville, VA",Charlottesville
-2008-01-01,91.8,GA,"Gainesville, GA",Gainesville
-2009-01-01,90.8,GA,"Gainesville, GA",Gainesville
-2010-01-01,90.0,GA,"Gainesville, GA",Gainesville
-2011-01-01,90.4,GA,"Gainesville, GA",Gainesville
-2012-01-01,90.9,GA,"Gainesville, GA",Gainesville
-2013-01-01,90.5,GA,"Gainesville, GA",Gainesville
-2014-01-01,89.2,GA,"Gainesville, GA",Gainesville
-2015-01-01,89.2,GA,"Gainesville, GA",Gainesville
-2016-01-01,89.3,GA,"Gainesville, GA",Gainesville
-2017-01-01,89.4,GA,"Gainesville, GA",Gainesville
-2018-01-01,90.6,GA,"Gainesville, GA",Gainesville
-2019-01-01,91.2,GA,"Gainesville, GA",Gainesville
-2008-01-01,94.0,GA,"Gainesville, GA",Gainesville
-2009-01-01,94.1,GA,"Gainesville, GA",Gainesville
-2010-01-01,93.2,GA,"Gainesville, GA",Gainesville
-2011-01-01,92.4,GA,"Gainesville, GA",Gainesville
-2012-01-01,91.9,GA,"Gainesville, GA",Gainesville
-2013-01-01,91.4,GA,"Gainesville, GA",Gainesville
-2014-01-01,91.2,GA,"Gainesville, GA",Gainesville
-2015-01-01,91.5,GA,"Gainesville, GA",Gainesville
-2016-01-01,92.1,GA,"Gainesville, GA",Gainesville
-2017-01-01,92.5,GA,"Gainesville, GA",Gainesville
-2018-01-01,92.5,GA,"Gainesville, GA",Gainesville
-2019-01-01,92.5,GA,"Gainesville, GA",Gainesville
-2008-01-01,89.7,GA,"Gainesville, GA",Gainesville
-2009-01-01,89.8,GA,"Gainesville, GA",Gainesville
-2010-01-01,90.8,GA,"Gainesville, GA",Gainesville
-2011-01-01,91.6,GA,"Gainesville, GA",Gainesville
-2012-01-01,92.6,GA,"Gainesville, GA",Gainesville
-2013-01-01,94.0,GA,"Gainesville, GA",Gainesville
-2014-01-01,93.5,GA,"Gainesville, GA",Gainesville
-2015-01-01,93.2,GA,"Gainesville, GA",Gainesville
-2016-01-01,94.3,GA,"Gainesville, GA",Gainesville
-2017-01-01,94.6,GA,"Gainesville, GA",Gainesville
-2018-01-01,94.8,GA,"Gainesville, GA",Gainesville
-2019-01-01,95.0,GA,"Gainesville, GA",Gainesville
-2008-01-01,91.2,GA,"Gainesville, GA",Gainesville
-2009-01-01,87.4,GA,"Gainesville, GA",Gainesville
-2010-01-01,84.7,GA,"Gainesville, GA",Gainesville
-2011-01-01,86.5,GA,"Gainesville, GA",Gainesville
-2012-01-01,87.6,GA,"Gainesville, GA",Gainesville
-2013-01-01,85.6,GA,"Gainesville, GA",Gainesville
-2014-01-01,82.2,GA,"Gainesville, GA",Gainesville
-2015-01-01,81.8,GA,"Gainesville, GA",Gainesville
-2016-01-01,80.8,GA,"Gainesville, GA",Gainesville
-2017-01-01,80.5,GA,"Gainesville, GA",Gainesville
-2018-01-01,82.3,GA,"Gainesville, GA",Gainesville
-2019-01-01,83.1,GA,"Gainesville, GA",Gainesville
-2008-01-01,100.0,FL,"Punta Gorda, FL",Punta Gorda
-2009-01-01,97.8,FL,"Punta Gorda, FL",Punta Gorda
-2010-01-01,95.8,FL,"Punta Gorda, FL",Punta Gorda
-2011-01-01,95.6,FL,"Punta Gorda, FL",Punta Gorda
-2012-01-01,95.4,FL,"Punta Gorda, FL",Punta Gorda
-2013-01-01,95.0,FL,"Punta Gorda, FL",Punta Gorda
-2014-01-01,94.7,FL,"Punta Gorda, FL",Punta Gorda
-2015-01-01,94.7,FL,"Punta Gorda, FL",Punta Gorda
-2016-01-01,94.8,FL,"Punta Gorda, FL",Punta Gorda
-2017-01-01,95.5,FL,"Punta Gorda, FL",Punta Gorda
-2018-01-01,96.2,FL,"Punta Gorda, FL",Punta Gorda
-2019-01-01,96.1,FL,"Punta Gorda, FL",Punta Gorda
-2008-01-01,98.6,FL,"Punta Gorda, FL",Punta Gorda
-2009-01-01,98.6,FL,"Punta Gorda, FL",Punta Gorda
-2010-01-01,97.8,FL,"Punta Gorda, FL",Punta Gorda
-2011-01-01,97.6,FL,"Punta Gorda, FL",Punta Gorda
-2012-01-01,97.6,FL,"Punta Gorda, FL",Punta Gorda
-2013-01-01,97.5,FL,"Punta Gorda, FL",Punta Gorda
-2014-01-01,98.0,FL,"Punta Gorda, FL",Punta Gorda
-2015-01-01,98.2,FL,"Punta Gorda, FL",Punta Gorda
-2016-01-01,97.5,FL,"Punta Gorda, FL",Punta Gorda
-2017-01-01,96.6,FL,"Punta Gorda, FL",Punta Gorda
-2018-01-01,96.6,FL,"Punta Gorda, FL",Punta Gorda
-2019-01-01,96.5,FL,"Punta Gorda, FL",Punta Gorda
-2008-01-01,95.2,FL,"Punta Gorda, FL",Punta Gorda
-2009-01-01,94.8,FL,"Punta Gorda, FL",Punta Gorda
-2010-01-01,94.3,FL,"Punta Gorda, FL",Punta Gorda
-2011-01-01,94.4,FL,"Punta Gorda, FL",Punta Gorda
-2012-01-01,94.4,FL,"Punta Gorda, FL",Punta Gorda
-2013-01-01,94.0,FL,"Punta Gorda, FL",Punta Gorda
-2014-01-01,93.4,FL,"Punta Gorda, FL",Punta Gorda
-2015-01-01,93.5,FL,"Punta Gorda, FL",Punta Gorda
-2016-01-01,94.6,FL,"Punta Gorda, FL",Punta Gorda
-2017-01-01,95.1,FL,"Punta Gorda, FL",Punta Gorda
-2018-01-01,95.2,FL,"Punta Gorda, FL",Punta Gorda
-2019-01-01,95.1,FL,"Punta Gorda, FL",Punta Gorda
-2008-01-01,110.6,FL,"Punta Gorda, FL",Punta Gorda
-2009-01-01,101.0,FL,"Punta Gorda, FL",Punta Gorda
-2010-01-01,94.7,FL,"Punta Gorda, FL",Punta Gorda
-2011-01-01,94.0,FL,"Punta Gorda, FL",Punta Gorda
-2012-01-01,93.4,FL,"Punta Gorda, FL",Punta Gorda
-2013-01-01,92.1,FL,"Punta Gorda, FL",Punta Gorda
-2014-01-01,91.2,FL,"Punta Gorda, FL",Punta Gorda
-2015-01-01,91.1,FL,"Punta Gorda, FL",Punta Gorda
-2016-01-01,91.4,FL,"Punta Gorda, FL",Punta Gorda
-2017-01-01,94.4,FL,"Punta Gorda, FL",Punta Gorda
-2018-01-01,97.1,FL,"Punta Gorda, FL",Punta Gorda
-2019-01-01,96.6,FL,"Punta Gorda, FL",Punta Gorda
-2008-01-01,91.6,CO,"Pueblo, CO",Pueblo
-2009-01-01,92.6,CO,"Pueblo, CO",Pueblo
-2010-01-01,93.1,CO,"Pueblo, CO",Pueblo
-2011-01-01,93.9,CO,"Pueblo, CO",Pueblo
-2012-01-01,93.2,CO,"Pueblo, CO",Pueblo
-2013-01-01,93.6,CO,"Pueblo, CO",Pueblo
-2014-01-01,91.8,CO,"Pueblo, CO",Pueblo
-2015-01-01,91.2,CO,"Pueblo, CO",Pueblo
-2016-01-01,90.2,CO,"Pueblo, CO",Pueblo
-2017-01-01,89.7,CO,"Pueblo, CO",Pueblo
-2018-01-01,89.5,CO,"Pueblo, CO",Pueblo
-2019-01-01,89.5,CO,"Pueblo, CO",Pueblo
-2008-01-01,95.8,CO,"Pueblo, CO",Pueblo
-2009-01-01,96.6,CO,"Pueblo, CO",Pueblo
-2010-01-01,97.1,CO,"Pueblo, CO",Pueblo
-2011-01-01,97.6,CO,"Pueblo, CO",Pueblo
-2012-01-01,96.9,CO,"Pueblo, CO",Pueblo
-2013-01-01,96.4,CO,"Pueblo, CO",Pueblo
-2014-01-01,95.5,CO,"Pueblo, CO",Pueblo
-2015-01-01,95.2,CO,"Pueblo, CO",Pueblo
-2016-01-01,93.6,CO,"Pueblo, CO",Pueblo
-2017-01-01,93.0,CO,"Pueblo, CO",Pueblo
-2018-01-01,92.9,CO,"Pueblo, CO",Pueblo
-2019-01-01,93.0,CO,"Pueblo, CO",Pueblo
-2008-01-01,97.6,CO,"Pueblo, CO",Pueblo
-2009-01-01,99.3,CO,"Pueblo, CO",Pueblo
-2010-01-01,100.2,CO,"Pueblo, CO",Pueblo
-2011-01-01,100.8,CO,"Pueblo, CO",Pueblo
-2012-01-01,101.3,CO,"Pueblo, CO",Pueblo
-2013-01-01,102.7,CO,"Pueblo, CO",Pueblo
-2014-01-01,102.0,CO,"Pueblo, CO",Pueblo
-2015-01-01,101.5,CO,"Pueblo, CO",Pueblo
-2016-01-01,100.0,CO,"Pueblo, CO",Pueblo
-2017-01-01,98.7,CO,"Pueblo, CO",Pueblo
-2018-01-01,99.0,CO,"Pueblo, CO",Pueblo
-2019-01-01,99.2,CO,"Pueblo, CO",Pueblo
-2008-01-01,74.9,CO,"Pueblo, CO",Pueblo
-2009-01-01,75.6,CO,"Pueblo, CO",Pueblo
-2010-01-01,75.2,CO,"Pueblo, CO",Pueblo
-2011-01-01,76.7,CO,"Pueblo, CO",Pueblo
-2012-01-01,74.0,CO,"Pueblo, CO",Pueblo
-2013-01-01,74.7,CO,"Pueblo, CO",Pueblo
-2014-01-01,71.8,CO,"Pueblo, CO",Pueblo
-2015-01-01,71.3,CO,"Pueblo, CO",Pueblo
-2016-01-01,72.1,CO,"Pueblo, CO",Pueblo
-2017-01-01,72.9,CO,"Pueblo, CO",Pueblo
-2018-01-01,73.0,CO,"Pueblo, CO",Pueblo
-2019-01-01,73.1,CO,"Pueblo, CO",Pueblo
-2008-01-01,85.2,WV,"Morgantown, WV",Morgantown
-2009-01-01,86.3,WV,"Morgantown, WV",Morgantown
-2010-01-01,88.1,WV,"Morgantown, WV",Morgantown
-2011-01-01,88.8,WV,"Morgantown, WV",Morgantown
-2012-01-01,88.5,WV,"Morgantown, WV",Morgantown
-2013-01-01,88.4,WV,"Morgantown, WV",Morgantown
-2014-01-01,88.5,WV,"Morgantown, WV",Morgantown
-2015-01-01,91.1,WV,"Morgantown, WV",Morgantown
-2016-01-01,92.1,WV,"Morgantown, WV",Morgantown
-2017-01-01,91.5,WV,"Morgantown, WV",Morgantown
-2018-01-01,90.2,WV,"Morgantown, WV",Morgantown
-2019-01-01,89.8,WV,"Morgantown, WV",Morgantown
-2008-01-01,94.0,WV,"Morgantown, WV",Morgantown
-2009-01-01,94.1,WV,"Morgantown, WV",Morgantown
-2010-01-01,93.2,WV,"Morgantown, WV",Morgantown
-2011-01-01,92.4,WV,"Morgantown, WV",Morgantown
-2012-01-01,91.9,WV,"Morgantown, WV",Morgantown
-2013-01-01,91.4,WV,"Morgantown, WV",Morgantown
-2014-01-01,91.2,WV,"Morgantown, WV",Morgantown
-2015-01-01,91.5,WV,"Morgantown, WV",Morgantown
-2016-01-01,92.1,WV,"Morgantown, WV",Morgantown
-2017-01-01,92.5,WV,"Morgantown, WV",Morgantown
-2018-01-01,92.5,WV,"Morgantown, WV",Morgantown
-2019-01-01,92.5,WV,"Morgantown, WV",Morgantown
-2008-01-01,89.7,WV,"Morgantown, WV",Morgantown
-2009-01-01,89.8,WV,"Morgantown, WV",Morgantown
-2010-01-01,90.8,WV,"Morgantown, WV",Morgantown
-2011-01-01,91.6,WV,"Morgantown, WV",Morgantown
-2012-01-01,92.6,WV,"Morgantown, WV",Morgantown
-2013-01-01,94.0,WV,"Morgantown, WV",Morgantown
-2014-01-01,93.5,WV,"Morgantown, WV",Morgantown
-2015-01-01,93.2,WV,"Morgantown, WV",Morgantown
-2016-01-01,94.3,WV,"Morgantown, WV",Morgantown
-2017-01-01,94.6,WV,"Morgantown, WV",Morgantown
-2018-01-01,94.8,WV,"Morgantown, WV",Morgantown
-2019-01-01,95.0,WV,"Morgantown, WV",Morgantown
-2008-01-01,72.0,WV,"Morgantown, WV",Morgantown
-2009-01-01,74.1,WV,"Morgantown, WV",Morgantown
-2010-01-01,77.8,WV,"Morgantown, WV",Morgantown
-2011-01-01,80.5,WV,"Morgantown, WV",Morgantown
-2012-01-01,79.3,WV,"Morgantown, WV",Morgantown
-2013-01-01,78.6,WV,"Morgantown, WV",Morgantown
-2014-01-01,79.3,WV,"Morgantown, WV",Morgantown
-2015-01-01,88.2,WV,"Morgantown, WV",Morgantown
-2016-01-01,89.7,WV,"Morgantown, WV",Morgantown
-2017-01-01,87.1,WV,"Morgantown, WV",Morgantown
-2018-01-01,81.0,WV,"Morgantown, WV",Morgantown
-2019-01-01,77.8,WV,"Morgantown, WV",Morgantown
-2008-01-01,120.4,CA,"Napa, CA",Napa
-2009-01-01,118.7,CA,"Napa, CA",Napa
-2010-01-01,118.3,CA,"Napa, CA",Napa
-2011-01-01,118.5,CA,"Napa, CA",Napa
-2012-01-01,118.6,CA,"Napa, CA",Napa
-2013-01-01,119.5,CA,"Napa, CA",Napa
-2014-01-01,121.0,CA,"Napa, CA",Napa
-2015-01-01,123.6,CA,"Napa, CA",Napa
-2016-01-01,122.7,CA,"Napa, CA",Napa
-2017-01-01,121.3,CA,"Napa, CA",Napa
-2018-01-01,120.8,CA,"Napa, CA",Napa
-2019-01-01,120.8,CA,"Napa, CA",Napa
-2008-01-01,112.7,CA,"Napa, CA",Napa
-2009-01-01,110.1,CA,"Napa, CA",Napa
-2010-01-01,108.7,CA,"Napa, CA",Napa
-2011-01-01,108.1,CA,"Napa, CA",Napa
-2012-01-01,108.6,CA,"Napa, CA",Napa
-2013-01-01,109.4,CA,"Napa, CA",Napa
-2014-01-01,110.9,CA,"Napa, CA",Napa
-2015-01-01,112.1,CA,"Napa, CA",Napa
-2016-01-01,110.6,CA,"Napa, CA",Napa
-2017-01-01,109.8,CA,"Napa, CA",Napa
-2018-01-01,109.5,CA,"Napa, CA",Napa
-2019-01-01,109.3,CA,"Napa, CA",Napa
-2008-01-01,110.5,CA,"Napa, CA",Napa
-2009-01-01,110.1,CA,"Napa, CA",Napa
-2010-01-01,109.3,CA,"Napa, CA",Napa
-2011-01-01,108.5,CA,"Napa, CA",Napa
-2012-01-01,109.5,CA,"Napa, CA",Napa
-2013-01-01,109.3,CA,"Napa, CA",Napa
-2014-01-01,111.0,CA,"Napa, CA",Napa
-2015-01-01,113.3,CA,"Napa, CA",Napa
-2016-01-01,112.4,CA,"Napa, CA",Napa
-2017-01-01,110.3,CA,"Napa, CA",Napa
-2018-01-01,110.5,CA,"Napa, CA",Napa
-2019-01-01,110.5,CA,"Napa, CA",Napa
-2008-01-01,161.6,CA,"Napa, CA",Napa
-2009-01-01,160.2,CA,"Napa, CA",Napa
-2010-01-01,158.2,CA,"Napa, CA",Napa
-2011-01-01,162.0,CA,"Napa, CA",Napa
-2012-01-01,155.5,CA,"Napa, CA",Napa
-2013-01-01,158.0,CA,"Napa, CA",Napa
-2014-01-01,158.6,CA,"Napa, CA",Napa
-2015-01-01,165.5,CA,"Napa, CA",Napa
-2016-01-01,163.5,CA,"Napa, CA",Napa
-2017-01-01,159.3,CA,"Napa, CA",Napa
-2018-01-01,159.5,CA,"Napa, CA",Napa
-2019-01-01,166.1,CA,"Napa, CA",Napa
-2008-01-01,95.7,NY,"Watertown-Fort Drum, NY",Watertown
-2009-01-01,96.3,NY,"Watertown-Fort Drum, NY",Watertown
-2010-01-01,97.1,NY,"Watertown-Fort Drum, NY",Watertown
-2011-01-01,98.1,NY,"Watertown-Fort Drum, NY",Watertown
-2012-01-01,98.5,NY,"Watertown-Fort Drum, NY",Watertown
-2013-01-01,99.1,NY,"Watertown-Fort Drum, NY",Watertown
-2014-01-01,99.2,NY,"Watertown-Fort Drum, NY",Watertown
-2015-01-01,99.3,NY,"Watertown-Fort Drum, NY",Watertown
-2016-01-01,98.6,NY,"Watertown-Fort Drum, NY",Watertown
-2017-01-01,98.0,NY,"Watertown-Fort Drum, NY",Watertown
-2018-01-01,97.6,NY,"Watertown-Fort Drum, NY",Watertown
-2019-01-01,96.9,NY,"Watertown-Fort Drum, NY",Watertown
-2008-01-01,98.4,NY,"Watertown-Fort Drum, NY",Watertown
-2009-01-01,98.2,NY,"Watertown-Fort Drum, NY",Watertown
-2010-01-01,97.9,NY,"Watertown-Fort Drum, NY",Watertown
-2011-01-01,97.7,NY,"Watertown-Fort Drum, NY",Watertown
-2012-01-01,97.9,NY,"Watertown-Fort Drum, NY",Watertown
-2013-01-01,98.1,NY,"Watertown-Fort Drum, NY",Watertown
-2014-01-01,98.1,NY,"Watertown-Fort Drum, NY",Watertown
-2015-01-01,98.1,NY,"Watertown-Fort Drum, NY",Watertown
-2016-01-01,98.6,NY,"Watertown-Fort Drum, NY",Watertown
-2017-01-01,98.9,NY,"Watertown-Fort Drum, NY",Watertown
-2018-01-01,98.9,NY,"Watertown-Fort Drum, NY",Watertown
-2019-01-01,98.9,NY,"Watertown-Fort Drum, NY",Watertown
-2008-01-01,99.3,NY,"Watertown-Fort Drum, NY",Watertown
-2009-01-01,98.8,NY,"Watertown-Fort Drum, NY",Watertown
-2010-01-01,97.9,NY,"Watertown-Fort Drum, NY",Watertown
-2011-01-01,97.7,NY,"Watertown-Fort Drum, NY",Watertown
-2012-01-01,98.0,NY,"Watertown-Fort Drum, NY",Watertown
-2013-01-01,98.8,NY,"Watertown-Fort Drum, NY",Watertown
-2014-01-01,100.7,NY,"Watertown-Fort Drum, NY",Watertown
-2015-01-01,101.8,NY,"Watertown-Fort Drum, NY",Watertown
-2016-01-01,100.0,NY,"Watertown-Fort Drum, NY",Watertown
-2017-01-01,97.9,NY,"Watertown-Fort Drum, NY",Watertown
-2018-01-01,97.9,NY,"Watertown-Fort Drum, NY",Watertown
-2019-01-01,97.9,NY,"Watertown-Fort Drum, NY",Watertown
-2008-01-01,85.6,NY,"Watertown-Fort Drum, NY",Watertown
-2009-01-01,89.5,NY,"Watertown-Fort Drum, NY",Watertown
-2010-01-01,94.6,NY,"Watertown-Fort Drum, NY",Watertown
-2011-01-01,99.6,NY,"Watertown-Fort Drum, NY",Watertown
-2012-01-01,100.5,NY,"Watertown-Fort Drum, NY",Watertown
-2013-01-01,101.2,NY,"Watertown-Fort Drum, NY",Watertown
-2014-01-01,99.0,NY,"Watertown-Fort Drum, NY",Watertown
-2015-01-01,98.2,NY,"Watertown-Fort Drum, NY",Watertown
-2016-01-01,96.9,NY,"Watertown-Fort Drum, NY",Watertown
-2017-01-01,96.8,NY,"Watertown-Fort Drum, NY",Watertown
-2018-01-01,95.4,NY,"Watertown-Fort Drum, NY",Watertown
-2019-01-01,92.6,NY,"Watertown-Fort Drum, NY",Watertown
-2008-01-01,92.1,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2009-01-01,92.3,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2010-01-01,93.3,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2011-01-01,92.5,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2012-01-01,92.6,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2013-01-01,92.5,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2014-01-01,93.7,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2015-01-01,94.7,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2016-01-01,93.5,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2017-01-01,92.9,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2018-01-01,92.0,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2019-01-01,92.5,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2008-01-01,98.4,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2009-01-01,98.2,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2010-01-01,97.9,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2011-01-01,97.7,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2012-01-01,97.9,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2013-01-01,98.1,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2014-01-01,98.1,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2015-01-01,98.1,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2016-01-01,98.6,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2017-01-01,98.9,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2018-01-01,98.9,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2019-01-01,98.9,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2008-01-01,99.3,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2009-01-01,98.8,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2010-01-01,97.9,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2011-01-01,97.7,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2012-01-01,98.0,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2013-01-01,98.8,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2014-01-01,100.7,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2015-01-01,101.8,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2016-01-01,100.0,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2017-01-01,97.9,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2018-01-01,97.9,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2019-01-01,97.9,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2008-01-01,70.5,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2009-01-01,72.3,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2010-01-01,75.5,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2011-01-01,73.5,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2012-01-01,74.0,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2013-01-01,73.8,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2014-01-01,76.1,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2015-01-01,78.8,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2016-01-01,75.2,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2017-01-01,75.3,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2018-01-01,71.7,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2019-01-01,72.7,PA,"Bloomsburg-Berwick, PA",Bloomsburg
-2008-01-01,92.9,ID,"Lewiston, ID-WA",Lewiston
-2009-01-01,90.9,ID,"Lewiston, ID-WA",Lewiston
-2010-01-01,91.1,ID,"Lewiston, ID-WA",Lewiston
-2011-01-01,90.4,ID,"Lewiston, ID-WA",Lewiston
-2012-01-01,90.7,ID,"Lewiston, ID-WA",Lewiston
-2013-01-01,90.5,ID,"Lewiston, ID-WA",Lewiston
-2014-01-01,90.5,ID,"Lewiston, ID-WA",Lewiston
-2015-01-01,90.8,ID,"Lewiston, ID-WA",Lewiston
-2016-01-01,90.5,ID,"Lewiston, ID-WA",Lewiston
-2017-01-01,90.4,ID,"Lewiston, ID-WA",Lewiston
-2018-01-01,90.2,ID,"Lewiston, ID-WA",Lewiston
-2019-01-01,90.8,ID,"Lewiston, ID-WA",Lewiston
-2008-01-01,99.8,ID,"Lewiston, ID-WA",Lewiston
-2009-01-01,99.1,ID,"Lewiston, ID-WA",Lewiston
-2010-01-01,99.3,ID,"Lewiston, ID-WA",Lewiston
-2011-01-01,98.9,ID,"Lewiston, ID-WA",Lewiston
-2012-01-01,98.7,ID,"Lewiston, ID-WA",Lewiston
-2013-01-01,98.8,ID,"Lewiston, ID-WA",Lewiston
-2014-01-01,99.4,ID,"Lewiston, ID-WA",Lewiston
-2015-01-01,100.2,ID,"Lewiston, ID-WA",Lewiston
-2016-01-01,98.9,ID,"Lewiston, ID-WA",Lewiston
-2017-01-01,97.7,ID,"Lewiston, ID-WA",Lewiston
-2018-01-01,97.6,ID,"Lewiston, ID-WA",Lewiston
-2019-01-01,97.7,ID,"Lewiston, ID-WA",Lewiston
-2008-01-01,98.8,ID,"Lewiston, ID-WA",Lewiston
-2009-01-01,95.8,ID,"Lewiston, ID-WA",Lewiston
-2010-01-01,94.8,ID,"Lewiston, ID-WA",Lewiston
-2011-01-01,93.9,ID,"Lewiston, ID-WA",Lewiston
-2012-01-01,93.4,ID,"Lewiston, ID-WA",Lewiston
-2013-01-01,94.2,ID,"Lewiston, ID-WA",Lewiston
-2014-01-01,94.4,ID,"Lewiston, ID-WA",Lewiston
-2015-01-01,93.4,ID,"Lewiston, ID-WA",Lewiston
-2016-01-01,93.7,ID,"Lewiston, ID-WA",Lewiston
-2017-01-01,94.0,ID,"Lewiston, ID-WA",Lewiston
-2018-01-01,94.0,ID,"Lewiston, ID-WA",Lewiston
-2019-01-01,93.9,ID,"Lewiston, ID-WA",Lewiston
-2008-01-01,73.5,ID,"Lewiston, ID-WA",Lewiston
-2009-01-01,69.9,ID,"Lewiston, ID-WA",Lewiston
-2010-01-01,70.6,ID,"Lewiston, ID-WA",Lewiston
-2011-01-01,70.2,ID,"Lewiston, ID-WA",Lewiston
-2012-01-01,73.4,ID,"Lewiston, ID-WA",Lewiston
-2013-01-01,72.1,ID,"Lewiston, ID-WA",Lewiston
-2014-01-01,72.1,ID,"Lewiston, ID-WA",Lewiston
-2015-01-01,72.9,ID,"Lewiston, ID-WA",Lewiston
-2016-01-01,73.0,ID,"Lewiston, ID-WA",Lewiston
-2017-01-01,73.6,ID,"Lewiston, ID-WA",Lewiston
-2018-01-01,73.2,ID,"Lewiston, ID-WA",Lewiston
-2019-01-01,75.2,ID,"Lewiston, ID-WA",Lewiston
+date,Regional Price Parities,state,msa,city,title,id,frequency,seasonal_adjustment
+2008-01-01,92.1,PA,"Bloomsburg-Berwick, PA",Bloomsburg,"Regional Price Parities: All Items for Bloomsburg-Berwick, PA (MSA)",RPPALL14100,Annual,Not Seasonally Adjusted
+2009-01-01,92.3,PA,"Bloomsburg-Berwick, PA",Bloomsburg,"Regional Price Parities: All Items for Bloomsburg-Berwick, PA (MSA)",RPPALL14100,Annual,Not Seasonally Adjusted
+2010-01-01,93.3,PA,"Bloomsburg-Berwick, PA",Bloomsburg,"Regional Price Parities: All Items for Bloomsburg-Berwick, PA (MSA)",RPPALL14100,Annual,Not Seasonally Adjusted
+2011-01-01,92.5,PA,"Bloomsburg-Berwick, PA",Bloomsburg,"Regional Price Parities: All Items for Bloomsburg-Berwick, PA (MSA)",RPPALL14100,Annual,Not Seasonally Adjusted
+2012-01-01,92.6,PA,"Bloomsburg-Berwick, PA",Bloomsburg,"Regional Price Parities: All Items for Bloomsburg-Berwick, PA (MSA)",RPPALL14100,Annual,Not Seasonally Adjusted
+2013-01-01,92.5,PA,"Bloomsburg-Berwick, PA",Bloomsburg,"Regional Price Parities: All Items for Bloomsburg-Berwick, PA (MSA)",RPPALL14100,Annual,Not Seasonally Adjusted
+2014-01-01,93.7,PA,"Bloomsburg-Berwick, PA",Bloomsburg,"Regional Price Parities: All Items for Bloomsburg-Berwick, PA (MSA)",RPPALL14100,Annual,Not Seasonally Adjusted
+2015-01-01,94.7,PA,"Bloomsburg-Berwick, PA",Bloomsburg,"Regional Price Parities: All Items for Bloomsburg-Berwick, PA (MSA)",RPPALL14100,Annual,Not Seasonally Adjusted
+2016-01-01,93.5,PA,"Bloomsburg-Berwick, PA",Bloomsburg,"Regional Price Parities: All Items for Bloomsburg-Berwick, PA (MSA)",RPPALL14100,Annual,Not Seasonally Adjusted
+2017-01-01,92.9,PA,"Bloomsburg-Berwick, PA",Bloomsburg,"Regional Price Parities: All Items for Bloomsburg-Berwick, PA (MSA)",RPPALL14100,Annual,Not Seasonally Adjusted
+2018-01-01,92.0,PA,"Bloomsburg-Berwick, PA",Bloomsburg,"Regional Price Parities: All Items for Bloomsburg-Berwick, PA (MSA)",RPPALL14100,Annual,Not Seasonally Adjusted
+2019-01-01,92.5,PA,"Bloomsburg-Berwick, PA",Bloomsburg,"Regional Price Parities: All Items for Bloomsburg-Berwick, PA (MSA)",RPPALL14100,Annual,Not Seasonally Adjusted
+2008-01-01,96.1,SC,"Charleston-North Charleston, SC",Charleston,"Regional Price Parities: All Items for Charleston-North Charleston, SC (MSA)",RPPALL16700,Annual,Not Seasonally Adjusted
+2009-01-01,96.2,SC,"Charleston-North Charleston, SC",Charleston,"Regional Price Parities: All Items for Charleston-North Charleston, SC (MSA)",RPPALL16700,Annual,Not Seasonally Adjusted
+2010-01-01,95.6,SC,"Charleston-North Charleston, SC",Charleston,"Regional Price Parities: All Items for Charleston-North Charleston, SC (MSA)",RPPALL16700,Annual,Not Seasonally Adjusted
+2011-01-01,95.8,SC,"Charleston-North Charleston, SC",Charleston,"Regional Price Parities: All Items for Charleston-North Charleston, SC (MSA)",RPPALL16700,Annual,Not Seasonally Adjusted
+2012-01-01,95.8,SC,"Charleston-North Charleston, SC",Charleston,"Regional Price Parities: All Items for Charleston-North Charleston, SC (MSA)",RPPALL16700,Annual,Not Seasonally Adjusted
+2013-01-01,96.0,SC,"Charleston-North Charleston, SC",Charleston,"Regional Price Parities: All Items for Charleston-North Charleston, SC (MSA)",RPPALL16700,Annual,Not Seasonally Adjusted
+2014-01-01,96.2,SC,"Charleston-North Charleston, SC",Charleston,"Regional Price Parities: All Items for Charleston-North Charleston, SC (MSA)",RPPALL16700,Annual,Not Seasonally Adjusted
+2015-01-01,96.2,SC,"Charleston-North Charleston, SC",Charleston,"Regional Price Parities: All Items for Charleston-North Charleston, SC (MSA)",RPPALL16700,Annual,Not Seasonally Adjusted
+2016-01-01,96.4,SC,"Charleston-North Charleston, SC",Charleston,"Regional Price Parities: All Items for Charleston-North Charleston, SC (MSA)",RPPALL16700,Annual,Not Seasonally Adjusted
+2017-01-01,96.1,SC,"Charleston-North Charleston, SC",Charleston,"Regional Price Parities: All Items for Charleston-North Charleston, SC (MSA)",RPPALL16700,Annual,Not Seasonally Adjusted
+2018-01-01,96.7,SC,"Charleston-North Charleston, SC",Charleston,"Regional Price Parities: All Items for Charleston-North Charleston, SC (MSA)",RPPALL16700,Annual,Not Seasonally Adjusted
+2019-01-01,97.1,SC,"Charleston-North Charleston, SC",Charleston,"Regional Price Parities: All Items for Charleston-North Charleston, SC (MSA)",RPPALL16700,Annual,Not Seasonally Adjusted
+2008-01-01,99.6,VA,"Charlottesville, VA",Charlottesville,"Regional Price Parities: All Items for Charlottesville, VA (MSA)",RPPALL16820,Annual,Not Seasonally Adjusted
+2009-01-01,99.6,VA,"Charlottesville, VA",Charlottesville,"Regional Price Parities: All Items for Charlottesville, VA (MSA)",RPPALL16820,Annual,Not Seasonally Adjusted
+2010-01-01,98.6,VA,"Charlottesville, VA",Charlottesville,"Regional Price Parities: All Items for Charlottesville, VA (MSA)",RPPALL16820,Annual,Not Seasonally Adjusted
+2011-01-01,98.7,VA,"Charlottesville, VA",Charlottesville,"Regional Price Parities: All Items for Charlottesville, VA (MSA)",RPPALL16820,Annual,Not Seasonally Adjusted
+2012-01-01,98.2,VA,"Charlottesville, VA",Charlottesville,"Regional Price Parities: All Items for Charlottesville, VA (MSA)",RPPALL16820,Annual,Not Seasonally Adjusted
+2013-01-01,98.4,VA,"Charlottesville, VA",Charlottesville,"Regional Price Parities: All Items for Charlottesville, VA (MSA)",RPPALL16820,Annual,Not Seasonally Adjusted
+2014-01-01,97.8,VA,"Charlottesville, VA",Charlottesville,"Regional Price Parities: All Items for Charlottesville, VA (MSA)",RPPALL16820,Annual,Not Seasonally Adjusted
+2015-01-01,98.1,VA,"Charlottesville, VA",Charlottesville,"Regional Price Parities: All Items for Charlottesville, VA (MSA)",RPPALL16820,Annual,Not Seasonally Adjusted
+2016-01-01,98.8,VA,"Charlottesville, VA",Charlottesville,"Regional Price Parities: All Items for Charlottesville, VA (MSA)",RPPALL16820,Annual,Not Seasonally Adjusted
+2017-01-01,98.8,VA,"Charlottesville, VA",Charlottesville,"Regional Price Parities: All Items for Charlottesville, VA (MSA)",RPPALL16820,Annual,Not Seasonally Adjusted
+2018-01-01,98.9,VA,"Charlottesville, VA",Charlottesville,"Regional Price Parities: All Items for Charlottesville, VA (MSA)",RPPALL16820,Annual,Not Seasonally Adjusted
+2019-01-01,98.8,VA,"Charlottesville, VA",Charlottesville,"Regional Price Parities: All Items for Charlottesville, VA (MSA)",RPPALL16820,Annual,Not Seasonally Adjusted
+2008-01-01,106.4,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"Regional Price Parities: All Items for Chicago-Naperville-Elgin, IL-IN-WI (MSA)",RPPALL16980,Annual,Not Seasonally Adjusted
+2009-01-01,107.1,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"Regional Price Parities: All Items for Chicago-Naperville-Elgin, IL-IN-WI (MSA)",RPPALL16980,Annual,Not Seasonally Adjusted
+2010-01-01,106.8,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"Regional Price Parities: All Items for Chicago-Naperville-Elgin, IL-IN-WI (MSA)",RPPALL16980,Annual,Not Seasonally Adjusted
+2011-01-01,106.9,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"Regional Price Parities: All Items for Chicago-Naperville-Elgin, IL-IN-WI (MSA)",RPPALL16980,Annual,Not Seasonally Adjusted
+2012-01-01,106.3,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"Regional Price Parities: All Items for Chicago-Naperville-Elgin, IL-IN-WI (MSA)",RPPALL16980,Annual,Not Seasonally Adjusted
+2013-01-01,104.5,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"Regional Price Parities: All Items for Chicago-Naperville-Elgin, IL-IN-WI (MSA)",RPPALL16980,Annual,Not Seasonally Adjusted
+2014-01-01,103.8,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"Regional Price Parities: All Items for Chicago-Naperville-Elgin, IL-IN-WI (MSA)",RPPALL16980,Annual,Not Seasonally Adjusted
+2015-01-01,103.7,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"Regional Price Parities: All Items for Chicago-Naperville-Elgin, IL-IN-WI (MSA)",RPPALL16980,Annual,Not Seasonally Adjusted
+2016-01-01,103.5,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"Regional Price Parities: All Items for Chicago-Naperville-Elgin, IL-IN-WI (MSA)",RPPALL16980,Annual,Not Seasonally Adjusted
+2017-01-01,102.9,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"Regional Price Parities: All Items for Chicago-Naperville-Elgin, IL-IN-WI (MSA)",RPPALL16980,Annual,Not Seasonally Adjusted
+2018-01-01,102.9,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"Regional Price Parities: All Items for Chicago-Naperville-Elgin, IL-IN-WI (MSA)",RPPALL16980,Annual,Not Seasonally Adjusted
+2019-01-01,102.8,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"Regional Price Parities: All Items for Chicago-Naperville-Elgin, IL-IN-WI (MSA)",RPPALL16980,Annual,Not Seasonally Adjusted
+2008-01-01,94.4,OH,"Cincinnati, OH-KY-IN",Cincinnati,"Regional Price Parities: All Items for Cincinnati, OH-KY-IN (MSA)",RPPALL17140,Annual,Not Seasonally Adjusted
+2009-01-01,92.8,OH,"Cincinnati, OH-KY-IN",Cincinnati,"Regional Price Parities: All Items for Cincinnati, OH-KY-IN (MSA)",RPPALL17140,Annual,Not Seasonally Adjusted
+2010-01-01,91.7,OH,"Cincinnati, OH-KY-IN",Cincinnati,"Regional Price Parities: All Items for Cincinnati, OH-KY-IN (MSA)",RPPALL17140,Annual,Not Seasonally Adjusted
+2011-01-01,90.9,OH,"Cincinnati, OH-KY-IN",Cincinnati,"Regional Price Parities: All Items for Cincinnati, OH-KY-IN (MSA)",RPPALL17140,Annual,Not Seasonally Adjusted
+2012-01-01,90.3,OH,"Cincinnati, OH-KY-IN",Cincinnati,"Regional Price Parities: All Items for Cincinnati, OH-KY-IN (MSA)",RPPALL17140,Annual,Not Seasonally Adjusted
+2013-01-01,89.6,OH,"Cincinnati, OH-KY-IN",Cincinnati,"Regional Price Parities: All Items for Cincinnati, OH-KY-IN (MSA)",RPPALL17140,Annual,Not Seasonally Adjusted
+2014-01-01,89.9,OH,"Cincinnati, OH-KY-IN",Cincinnati,"Regional Price Parities: All Items for Cincinnati, OH-KY-IN (MSA)",RPPALL17140,Annual,Not Seasonally Adjusted
+2015-01-01,90.1,OH,"Cincinnati, OH-KY-IN",Cincinnati,"Regional Price Parities: All Items for Cincinnati, OH-KY-IN (MSA)",RPPALL17140,Annual,Not Seasonally Adjusted
+2016-01-01,90.0,OH,"Cincinnati, OH-KY-IN",Cincinnati,"Regional Price Parities: All Items for Cincinnati, OH-KY-IN (MSA)",RPPALL17140,Annual,Not Seasonally Adjusted
+2017-01-01,90.8,OH,"Cincinnati, OH-KY-IN",Cincinnati,"Regional Price Parities: All Items for Cincinnati, OH-KY-IN (MSA)",RPPALL17140,Annual,Not Seasonally Adjusted
+2018-01-01,90.7,OH,"Cincinnati, OH-KY-IN",Cincinnati,"Regional Price Parities: All Items for Cincinnati, OH-KY-IN (MSA)",RPPALL17140,Annual,Not Seasonally Adjusted
+2019-01-01,90.6,OH,"Cincinnati, OH-KY-IN",Cincinnati,"Regional Price Parities: All Items for Cincinnati, OH-KY-IN (MSA)",RPPALL17140,Annual,Not Seasonally Adjusted
+2008-01-01,101.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Regional Price Parities: All Items for Dallas-Fort Worth-Arlington, TX (MSA)",RPPALL19100,Annual,Not Seasonally Adjusted
+2009-01-01,101.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Regional Price Parities: All Items for Dallas-Fort Worth-Arlington, TX (MSA)",RPPALL19100,Annual,Not Seasonally Adjusted
+2010-01-01,100.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Regional Price Parities: All Items for Dallas-Fort Worth-Arlington, TX (MSA)",RPPALL19100,Annual,Not Seasonally Adjusted
+2011-01-01,100.5,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Regional Price Parities: All Items for Dallas-Fort Worth-Arlington, TX (MSA)",RPPALL19100,Annual,Not Seasonally Adjusted
+2012-01-01,100.1,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Regional Price Parities: All Items for Dallas-Fort Worth-Arlington, TX (MSA)",RPPALL19100,Annual,Not Seasonally Adjusted
+2013-01-01,99.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Regional Price Parities: All Items for Dallas-Fort Worth-Arlington, TX (MSA)",RPPALL19100,Annual,Not Seasonally Adjusted
+2014-01-01,99.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Regional Price Parities: All Items for Dallas-Fort Worth-Arlington, TX (MSA)",RPPALL19100,Annual,Not Seasonally Adjusted
+2015-01-01,99.5,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Regional Price Parities: All Items for Dallas-Fort Worth-Arlington, TX (MSA)",RPPALL19100,Annual,Not Seasonally Adjusted
+2016-01-01,99.7,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Regional Price Parities: All Items for Dallas-Fort Worth-Arlington, TX (MSA)",RPPALL19100,Annual,Not Seasonally Adjusted
+2017-01-01,100.2,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Regional Price Parities: All Items for Dallas-Fort Worth-Arlington, TX (MSA)",RPPALL19100,Annual,Not Seasonally Adjusted
+2018-01-01,100.7,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Regional Price Parities: All Items for Dallas-Fort Worth-Arlington, TX (MSA)",RPPALL19100,Annual,Not Seasonally Adjusted
+2019-01-01,101.2,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Regional Price Parities: All Items for Dallas-Fort Worth-Arlington, TX (MSA)",RPPALL19100,Annual,Not Seasonally Adjusted
+2008-01-01,99.5,MI,"Detroit-Warren-Dearborn, MI",Detroit,"Regional Price Parities: All Items for Detroit-Warren-Dearborn, MI (MSA)",RPPALL19820,Annual,Not Seasonally Adjusted
+2009-01-01,99.3,MI,"Detroit-Warren-Dearborn, MI",Detroit,"Regional Price Parities: All Items for Detroit-Warren-Dearborn, MI (MSA)",RPPALL19820,Annual,Not Seasonally Adjusted
+2010-01-01,98.6,MI,"Detroit-Warren-Dearborn, MI",Detroit,"Regional Price Parities: All Items for Detroit-Warren-Dearborn, MI (MSA)",RPPALL19820,Annual,Not Seasonally Adjusted
+2011-01-01,98.2,MI,"Detroit-Warren-Dearborn, MI",Detroit,"Regional Price Parities: All Items for Detroit-Warren-Dearborn, MI (MSA)",RPPALL19820,Annual,Not Seasonally Adjusted
+2012-01-01,97.6,MI,"Detroit-Warren-Dearborn, MI",Detroit,"Regional Price Parities: All Items for Detroit-Warren-Dearborn, MI (MSA)",RPPALL19820,Annual,Not Seasonally Adjusted
+2013-01-01,97.1,MI,"Detroit-Warren-Dearborn, MI",Detroit,"Regional Price Parities: All Items for Detroit-Warren-Dearborn, MI (MSA)",RPPALL19820,Annual,Not Seasonally Adjusted
+2014-01-01,96.6,MI,"Detroit-Warren-Dearborn, MI",Detroit,"Regional Price Parities: All Items for Detroit-Warren-Dearborn, MI (MSA)",RPPALL19820,Annual,Not Seasonally Adjusted
+2015-01-01,96.2,MI,"Detroit-Warren-Dearborn, MI",Detroit,"Regional Price Parities: All Items for Detroit-Warren-Dearborn, MI (MSA)",RPPALL19820,Annual,Not Seasonally Adjusted
+2016-01-01,95.5,MI,"Detroit-Warren-Dearborn, MI",Detroit,"Regional Price Parities: All Items for Detroit-Warren-Dearborn, MI (MSA)",RPPALL19820,Annual,Not Seasonally Adjusted
+2017-01-01,95.2,MI,"Detroit-Warren-Dearborn, MI",Detroit,"Regional Price Parities: All Items for Detroit-Warren-Dearborn, MI (MSA)",RPPALL19820,Annual,Not Seasonally Adjusted
+2018-01-01,95.2,MI,"Detroit-Warren-Dearborn, MI",Detroit,"Regional Price Parities: All Items for Detroit-Warren-Dearborn, MI (MSA)",RPPALL19820,Annual,Not Seasonally Adjusted
+2019-01-01,95.3,MI,"Detroit-Warren-Dearborn, MI",Detroit,"Regional Price Parities: All Items for Detroit-Warren-Dearborn, MI (MSA)",RPPALL19820,Annual,Not Seasonally Adjusted
+2008-01-01,91.8,GA,"Gainesville, GA",Gainesville,"Regional Price Parities: All Items for Gainesville, GA (MSA)",RPPALL23580,Annual,Not Seasonally Adjusted
+2009-01-01,90.8,GA,"Gainesville, GA",Gainesville,"Regional Price Parities: All Items for Gainesville, GA (MSA)",RPPALL23580,Annual,Not Seasonally Adjusted
+2010-01-01,90.0,GA,"Gainesville, GA",Gainesville,"Regional Price Parities: All Items for Gainesville, GA (MSA)",RPPALL23580,Annual,Not Seasonally Adjusted
+2011-01-01,90.4,GA,"Gainesville, GA",Gainesville,"Regional Price Parities: All Items for Gainesville, GA (MSA)",RPPALL23580,Annual,Not Seasonally Adjusted
+2012-01-01,90.9,GA,"Gainesville, GA",Gainesville,"Regional Price Parities: All Items for Gainesville, GA (MSA)",RPPALL23580,Annual,Not Seasonally Adjusted
+2013-01-01,90.5,GA,"Gainesville, GA",Gainesville,"Regional Price Parities: All Items for Gainesville, GA (MSA)",RPPALL23580,Annual,Not Seasonally Adjusted
+2014-01-01,89.2,GA,"Gainesville, GA",Gainesville,"Regional Price Parities: All Items for Gainesville, GA (MSA)",RPPALL23580,Annual,Not Seasonally Adjusted
+2015-01-01,89.2,GA,"Gainesville, GA",Gainesville,"Regional Price Parities: All Items for Gainesville, GA (MSA)",RPPALL23580,Annual,Not Seasonally Adjusted
+2016-01-01,89.3,GA,"Gainesville, GA",Gainesville,"Regional Price Parities: All Items for Gainesville, GA (MSA)",RPPALL23580,Annual,Not Seasonally Adjusted
+2017-01-01,89.4,GA,"Gainesville, GA",Gainesville,"Regional Price Parities: All Items for Gainesville, GA (MSA)",RPPALL23580,Annual,Not Seasonally Adjusted
+2018-01-01,90.6,GA,"Gainesville, GA",Gainesville,"Regional Price Parities: All Items for Gainesville, GA (MSA)",RPPALL23580,Annual,Not Seasonally Adjusted
+2019-01-01,91.2,GA,"Gainesville, GA",Gainesville,"Regional Price Parities: All Items for Gainesville, GA (MSA)",RPPALL23580,Annual,Not Seasonally Adjusted
+2008-01-01,100.3,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Regional Price Parities: All Items for Houston-The Woodlands-Sugar Land, TX (MSA)",RPPALL26420,Annual,Not Seasonally Adjusted
+2009-01-01,100.8,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Regional Price Parities: All Items for Houston-The Woodlands-Sugar Land, TX (MSA)",RPPALL26420,Annual,Not Seasonally Adjusted
+2010-01-01,100.7,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Regional Price Parities: All Items for Houston-The Woodlands-Sugar Land, TX (MSA)",RPPALL26420,Annual,Not Seasonally Adjusted
+2011-01-01,100.7,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Regional Price Parities: All Items for Houston-The Woodlands-Sugar Land, TX (MSA)",RPPALL26420,Annual,Not Seasonally Adjusted
+2012-01-01,100.2,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Regional Price Parities: All Items for Houston-The Woodlands-Sugar Land, TX (MSA)",RPPALL26420,Annual,Not Seasonally Adjusted
+2013-01-01,100.5,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Regional Price Parities: All Items for Houston-The Woodlands-Sugar Land, TX (MSA)",RPPALL26420,Annual,Not Seasonally Adjusted
+2014-01-01,100.9,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Regional Price Parities: All Items for Houston-The Woodlands-Sugar Land, TX (MSA)",RPPALL26420,Annual,Not Seasonally Adjusted
+2015-01-01,101.1,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Regional Price Parities: All Items for Houston-The Woodlands-Sugar Land, TX (MSA)",RPPALL26420,Annual,Not Seasonally Adjusted
+2016-01-01,101.3,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Regional Price Parities: All Items for Houston-The Woodlands-Sugar Land, TX (MSA)",RPPALL26420,Annual,Not Seasonally Adjusted
+2017-01-01,101.6,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Regional Price Parities: All Items for Houston-The Woodlands-Sugar Land, TX (MSA)",RPPALL26420,Annual,Not Seasonally Adjusted
+2018-01-01,101.7,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Regional Price Parities: All Items for Houston-The Woodlands-Sugar Land, TX (MSA)",RPPALL26420,Annual,Not Seasonally Adjusted
+2019-01-01,101.7,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Regional Price Parities: All Items for Houston-The Woodlands-Sugar Land, TX (MSA)",RPPALL26420,Annual,Not Seasonally Adjusted
+2008-01-01,94.5,WA,"Kennewick-Richland, WA",Kennewick,"Regional Price Parities: All Items for Kennewick-Richland, WA (MSA)",RPPALL28420,Annual,Not Seasonally Adjusted
+2009-01-01,95.7,WA,"Kennewick-Richland, WA",Kennewick,"Regional Price Parities: All Items for Kennewick-Richland, WA (MSA)",RPPALL28420,Annual,Not Seasonally Adjusted
+2010-01-01,96.2,WA,"Kennewick-Richland, WA",Kennewick,"Regional Price Parities: All Items for Kennewick-Richland, WA (MSA)",RPPALL28420,Annual,Not Seasonally Adjusted
+2011-01-01,97.4,WA,"Kennewick-Richland, WA",Kennewick,"Regional Price Parities: All Items for Kennewick-Richland, WA (MSA)",RPPALL28420,Annual,Not Seasonally Adjusted
+2012-01-01,97.8,WA,"Kennewick-Richland, WA",Kennewick,"Regional Price Parities: All Items for Kennewick-Richland, WA (MSA)",RPPALL28420,Annual,Not Seasonally Adjusted
+2013-01-01,98.4,WA,"Kennewick-Richland, WA",Kennewick,"Regional Price Parities: All Items for Kennewick-Richland, WA (MSA)",RPPALL28420,Annual,Not Seasonally Adjusted
+2014-01-01,97.7,WA,"Kennewick-Richland, WA",Kennewick,"Regional Price Parities: All Items for Kennewick-Richland, WA (MSA)",RPPALL28420,Annual,Not Seasonally Adjusted
+2015-01-01,96.9,WA,"Kennewick-Richland, WA",Kennewick,"Regional Price Parities: All Items for Kennewick-Richland, WA (MSA)",RPPALL28420,Annual,Not Seasonally Adjusted
+2016-01-01,97.3,WA,"Kennewick-Richland, WA",Kennewick,"Regional Price Parities: All Items for Kennewick-Richland, WA (MSA)",RPPALL28420,Annual,Not Seasonally Adjusted
+2017-01-01,97.9,WA,"Kennewick-Richland, WA",Kennewick,"Regional Price Parities: All Items for Kennewick-Richland, WA (MSA)",RPPALL28420,Annual,Not Seasonally Adjusted
+2018-01-01,98.0,WA,"Kennewick-Richland, WA",Kennewick,"Regional Price Parities: All Items for Kennewick-Richland, WA (MSA)",RPPALL28420,Annual,Not Seasonally Adjusted
+2019-01-01,98.6,WA,"Kennewick-Richland, WA",Kennewick,"Regional Price Parities: All Items for Kennewick-Richland, WA (MSA)",RPPALL28420,Annual,Not Seasonally Adjusted
+2008-01-01,92.9,ID,"Lewiston, ID-WA",Lewiston,"Regional Price Parities: All Items for Lewiston, ID-WA (MSA)",RPPALL30300,Annual,Not Seasonally Adjusted
+2009-01-01,90.9,ID,"Lewiston, ID-WA",Lewiston,"Regional Price Parities: All Items for Lewiston, ID-WA (MSA)",RPPALL30300,Annual,Not Seasonally Adjusted
+2010-01-01,91.1,ID,"Lewiston, ID-WA",Lewiston,"Regional Price Parities: All Items for Lewiston, ID-WA (MSA)",RPPALL30300,Annual,Not Seasonally Adjusted
+2011-01-01,90.4,ID,"Lewiston, ID-WA",Lewiston,"Regional Price Parities: All Items for Lewiston, ID-WA (MSA)",RPPALL30300,Annual,Not Seasonally Adjusted
+2012-01-01,90.7,ID,"Lewiston, ID-WA",Lewiston,"Regional Price Parities: All Items for Lewiston, ID-WA (MSA)",RPPALL30300,Annual,Not Seasonally Adjusted
+2013-01-01,90.5,ID,"Lewiston, ID-WA",Lewiston,"Regional Price Parities: All Items for Lewiston, ID-WA (MSA)",RPPALL30300,Annual,Not Seasonally Adjusted
+2014-01-01,90.5,ID,"Lewiston, ID-WA",Lewiston,"Regional Price Parities: All Items for Lewiston, ID-WA (MSA)",RPPALL30300,Annual,Not Seasonally Adjusted
+2015-01-01,90.8,ID,"Lewiston, ID-WA",Lewiston,"Regional Price Parities: All Items for Lewiston, ID-WA (MSA)",RPPALL30300,Annual,Not Seasonally Adjusted
+2016-01-01,90.5,ID,"Lewiston, ID-WA",Lewiston,"Regional Price Parities: All Items for Lewiston, ID-WA (MSA)",RPPALL30300,Annual,Not Seasonally Adjusted
+2017-01-01,90.4,ID,"Lewiston, ID-WA",Lewiston,"Regional Price Parities: All Items for Lewiston, ID-WA (MSA)",RPPALL30300,Annual,Not Seasonally Adjusted
+2018-01-01,90.2,ID,"Lewiston, ID-WA",Lewiston,"Regional Price Parities: All Items for Lewiston, ID-WA (MSA)",RPPALL30300,Annual,Not Seasonally Adjusted
+2019-01-01,90.8,ID,"Lewiston, ID-WA",Lewiston,"Regional Price Parities: All Items for Lewiston, ID-WA (MSA)",RPPALL30300,Annual,Not Seasonally Adjusted
+2008-01-01,93.6,NE,"Lincoln, NE",Lincoln,"Regional Price Parities: All Items for Lincoln, NE (MSA)",RPPALL30700,Annual,Not Seasonally Adjusted
+2009-01-01,93.3,NE,"Lincoln, NE",Lincoln,"Regional Price Parities: All Items for Lincoln, NE (MSA)",RPPALL30700,Annual,Not Seasonally Adjusted
+2010-01-01,93.1,NE,"Lincoln, NE",Lincoln,"Regional Price Parities: All Items for Lincoln, NE (MSA)",RPPALL30700,Annual,Not Seasonally Adjusted
+2011-01-01,93.1,NE,"Lincoln, NE",Lincoln,"Regional Price Parities: All Items for Lincoln, NE (MSA)",RPPALL30700,Annual,Not Seasonally Adjusted
+2012-01-01,93.1,NE,"Lincoln, NE",Lincoln,"Regional Price Parities: All Items for Lincoln, NE (MSA)",RPPALL30700,Annual,Not Seasonally Adjusted
+2013-01-01,92.7,NE,"Lincoln, NE",Lincoln,"Regional Price Parities: All Items for Lincoln, NE (MSA)",RPPALL30700,Annual,Not Seasonally Adjusted
+2014-01-01,92.4,NE,"Lincoln, NE",Lincoln,"Regional Price Parities: All Items for Lincoln, NE (MSA)",RPPALL30700,Annual,Not Seasonally Adjusted
+2015-01-01,91.8,NE,"Lincoln, NE",Lincoln,"Regional Price Parities: All Items for Lincoln, NE (MSA)",RPPALL30700,Annual,Not Seasonally Adjusted
+2016-01-01,91.3,NE,"Lincoln, NE",Lincoln,"Regional Price Parities: All Items for Lincoln, NE (MSA)",RPPALL30700,Annual,Not Seasonally Adjusted
+2017-01-01,91.0,NE,"Lincoln, NE",Lincoln,"Regional Price Parities: All Items for Lincoln, NE (MSA)",RPPALL30700,Annual,Not Seasonally Adjusted
+2018-01-01,90.9,NE,"Lincoln, NE",Lincoln,"Regional Price Parities: All Items for Lincoln, NE (MSA)",RPPALL30700,Annual,Not Seasonally Adjusted
+2019-01-01,90.9,NE,"Lincoln, NE",Lincoln,"Regional Price Parities: All Items for Lincoln, NE (MSA)",RPPALL30700,Annual,Not Seasonally Adjusted
+2008-01-01,116.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"Regional Price Parities: All Items for Los Angeles-Long Beach-Anaheim, CA (MSA)",RPPALL31080,Annual,Not Seasonally Adjusted
+2009-01-01,116.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"Regional Price Parities: All Items for Los Angeles-Long Beach-Anaheim, CA (MSA)",RPPALL31080,Annual,Not Seasonally Adjusted
+2010-01-01,118.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"Regional Price Parities: All Items for Los Angeles-Long Beach-Anaheim, CA (MSA)",RPPALL31080,Annual,Not Seasonally Adjusted
+2011-01-01,118.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"Regional Price Parities: All Items for Los Angeles-Long Beach-Anaheim, CA (MSA)",RPPALL31080,Annual,Not Seasonally Adjusted
+2012-01-01,118.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"Regional Price Parities: All Items for Los Angeles-Long Beach-Anaheim, CA (MSA)",RPPALL31080,Annual,Not Seasonally Adjusted
+2013-01-01,117.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"Regional Price Parities: All Items for Los Angeles-Long Beach-Anaheim, CA (MSA)",RPPALL31080,Annual,Not Seasonally Adjusted
+2014-01-01,117.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"Regional Price Parities: All Items for Los Angeles-Long Beach-Anaheim, CA (MSA)",RPPALL31080,Annual,Not Seasonally Adjusted
+2015-01-01,116.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"Regional Price Parities: All Items for Los Angeles-Long Beach-Anaheim, CA (MSA)",RPPALL31080,Annual,Not Seasonally Adjusted
+2016-01-01,116.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"Regional Price Parities: All Items for Los Angeles-Long Beach-Anaheim, CA (MSA)",RPPALL31080,Annual,Not Seasonally Adjusted
+2017-01-01,117.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"Regional Price Parities: All Items for Los Angeles-Long Beach-Anaheim, CA (MSA)",RPPALL31080,Annual,Not Seasonally Adjusted
+2018-01-01,118.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"Regional Price Parities: All Items for Los Angeles-Long Beach-Anaheim, CA (MSA)",RPPALL31080,Annual,Not Seasonally Adjusted
+2019-01-01,118.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"Regional Price Parities: All Items for Los Angeles-Long Beach-Anaheim, CA (MSA)",RPPALL31080,Annual,Not Seasonally Adjusted
+2008-01-01,85.2,WV,"Morgantown, WV",Morgantown,"Regional Price Parities: All Items for Morgantown, WV (MSA)",RPPALL34060,Annual,Not Seasonally Adjusted
+2009-01-01,86.3,WV,"Morgantown, WV",Morgantown,"Regional Price Parities: All Items for Morgantown, WV (MSA)",RPPALL34060,Annual,Not Seasonally Adjusted
+2010-01-01,88.1,WV,"Morgantown, WV",Morgantown,"Regional Price Parities: All Items for Morgantown, WV (MSA)",RPPALL34060,Annual,Not Seasonally Adjusted
+2011-01-01,88.8,WV,"Morgantown, WV",Morgantown,"Regional Price Parities: All Items for Morgantown, WV (MSA)",RPPALL34060,Annual,Not Seasonally Adjusted
+2012-01-01,88.5,WV,"Morgantown, WV",Morgantown,"Regional Price Parities: All Items for Morgantown, WV (MSA)",RPPALL34060,Annual,Not Seasonally Adjusted
+2013-01-01,88.4,WV,"Morgantown, WV",Morgantown,"Regional Price Parities: All Items for Morgantown, WV (MSA)",RPPALL34060,Annual,Not Seasonally Adjusted
+2014-01-01,88.5,WV,"Morgantown, WV",Morgantown,"Regional Price Parities: All Items for Morgantown, WV (MSA)",RPPALL34060,Annual,Not Seasonally Adjusted
+2015-01-01,91.1,WV,"Morgantown, WV",Morgantown,"Regional Price Parities: All Items for Morgantown, WV (MSA)",RPPALL34060,Annual,Not Seasonally Adjusted
+2016-01-01,92.1,WV,"Morgantown, WV",Morgantown,"Regional Price Parities: All Items for Morgantown, WV (MSA)",RPPALL34060,Annual,Not Seasonally Adjusted
+2017-01-01,91.5,WV,"Morgantown, WV",Morgantown,"Regional Price Parities: All Items for Morgantown, WV (MSA)",RPPALL34060,Annual,Not Seasonally Adjusted
+2018-01-01,90.2,WV,"Morgantown, WV",Morgantown,"Regional Price Parities: All Items for Morgantown, WV (MSA)",RPPALL34060,Annual,Not Seasonally Adjusted
+2019-01-01,89.8,WV,"Morgantown, WV",Morgantown,"Regional Price Parities: All Items for Morgantown, WV (MSA)",RPPALL34060,Annual,Not Seasonally Adjusted
+2008-01-01,94.6,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"Regional Price Parities: All Items for Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",RPPALL34820,Annual,Not Seasonally Adjusted
+2009-01-01,94.6,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"Regional Price Parities: All Items for Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",RPPALL34820,Annual,Not Seasonally Adjusted
+2010-01-01,92.8,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"Regional Price Parities: All Items for Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",RPPALL34820,Annual,Not Seasonally Adjusted
+2011-01-01,92.9,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"Regional Price Parities: All Items for Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",RPPALL34820,Annual,Not Seasonally Adjusted
+2012-01-01,92.5,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"Regional Price Parities: All Items for Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",RPPALL34820,Annual,Not Seasonally Adjusted
+2013-01-01,92.4,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"Regional Price Parities: All Items for Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",RPPALL34820,Annual,Not Seasonally Adjusted
+2014-01-01,91.1,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"Regional Price Parities: All Items for Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",RPPALL34820,Annual,Not Seasonally Adjusted
+2015-01-01,90.8,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"Regional Price Parities: All Items for Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",RPPALL34820,Annual,Not Seasonally Adjusted
+2016-01-01,91.5,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"Regional Price Parities: All Items for Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",RPPALL34820,Annual,Not Seasonally Adjusted
+2017-01-01,92.1,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"Regional Price Parities: All Items for Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",RPPALL34820,Annual,Not Seasonally Adjusted
+2018-01-01,91.8,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"Regional Price Parities: All Items for Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",RPPALL34820,Annual,Not Seasonally Adjusted
+2019-01-01,92.2,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"Regional Price Parities: All Items for Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",RPPALL34820,Annual,Not Seasonally Adjusted
+2008-01-01,120.4,CA,"Napa, CA",Napa,"Regional Price Parities: All Items for Napa, CA (MSA)",RPPALL34900,Annual,Not Seasonally Adjusted
+2009-01-01,118.7,CA,"Napa, CA",Napa,"Regional Price Parities: All Items for Napa, CA (MSA)",RPPALL34900,Annual,Not Seasonally Adjusted
+2010-01-01,118.3,CA,"Napa, CA",Napa,"Regional Price Parities: All Items for Napa, CA (MSA)",RPPALL34900,Annual,Not Seasonally Adjusted
+2011-01-01,118.5,CA,"Napa, CA",Napa,"Regional Price Parities: All Items for Napa, CA (MSA)",RPPALL34900,Annual,Not Seasonally Adjusted
+2012-01-01,118.6,CA,"Napa, CA",Napa,"Regional Price Parities: All Items for Napa, CA (MSA)",RPPALL34900,Annual,Not Seasonally Adjusted
+2013-01-01,119.5,CA,"Napa, CA",Napa,"Regional Price Parities: All Items for Napa, CA (MSA)",RPPALL34900,Annual,Not Seasonally Adjusted
+2014-01-01,121.0,CA,"Napa, CA",Napa,"Regional Price Parities: All Items for Napa, CA (MSA)",RPPALL34900,Annual,Not Seasonally Adjusted
+2015-01-01,123.6,CA,"Napa, CA",Napa,"Regional Price Parities: All Items for Napa, CA (MSA)",RPPALL34900,Annual,Not Seasonally Adjusted
+2016-01-01,122.7,CA,"Napa, CA",Napa,"Regional Price Parities: All Items for Napa, CA (MSA)",RPPALL34900,Annual,Not Seasonally Adjusted
+2017-01-01,121.3,CA,"Napa, CA",Napa,"Regional Price Parities: All Items for Napa, CA (MSA)",RPPALL34900,Annual,Not Seasonally Adjusted
+2018-01-01,120.8,CA,"Napa, CA",Napa,"Regional Price Parities: All Items for Napa, CA (MSA)",RPPALL34900,Annual,Not Seasonally Adjusted
+2019-01-01,120.8,CA,"Napa, CA",Napa,"Regional Price Parities: All Items for Napa, CA (MSA)",RPPALL34900,Annual,Not Seasonally Adjusted
+2008-01-01,120.4,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Regional Price Parities: All Items for New York-Newark-Jersey City, NY-NJ-PA (MSA)",RPPALL35620,Annual,Not Seasonally Adjusted
+2009-01-01,121.2,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Regional Price Parities: All Items for New York-Newark-Jersey City, NY-NJ-PA (MSA)",RPPALL35620,Annual,Not Seasonally Adjusted
+2010-01-01,122.2,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Regional Price Parities: All Items for New York-Newark-Jersey City, NY-NJ-PA (MSA)",RPPALL35620,Annual,Not Seasonally Adjusted
+2011-01-01,122.4,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Regional Price Parities: All Items for New York-Newark-Jersey City, NY-NJ-PA (MSA)",RPPALL35620,Annual,Not Seasonally Adjusted
+2012-01-01,122.4,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Regional Price Parities: All Items for New York-Newark-Jersey City, NY-NJ-PA (MSA)",RPPALL35620,Annual,Not Seasonally Adjusted
+2013-01-01,121.4,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Regional Price Parities: All Items for New York-Newark-Jersey City, NY-NJ-PA (MSA)",RPPALL35620,Annual,Not Seasonally Adjusted
+2014-01-01,121.3,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Regional Price Parities: All Items for New York-Newark-Jersey City, NY-NJ-PA (MSA)",RPPALL35620,Annual,Not Seasonally Adjusted
+2015-01-01,122.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Regional Price Parities: All Items for New York-Newark-Jersey City, NY-NJ-PA (MSA)",RPPALL35620,Annual,Not Seasonally Adjusted
+2016-01-01,123.6,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Regional Price Parities: All Items for New York-Newark-Jersey City, NY-NJ-PA (MSA)",RPPALL35620,Annual,Not Seasonally Adjusted
+2017-01-01,124.6,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Regional Price Parities: All Items for New York-Newark-Jersey City, NY-NJ-PA (MSA)",RPPALL35620,Annual,Not Seasonally Adjusted
+2018-01-01,125.3,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Regional Price Parities: All Items for New York-Newark-Jersey City, NY-NJ-PA (MSA)",RPPALL35620,Annual,Not Seasonally Adjusted
+2019-01-01,125.7,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Regional Price Parities: All Items for New York-Newark-Jersey City, NY-NJ-PA (MSA)",RPPALL35620,Annual,Not Seasonally Adjusted
+2008-01-01,94.5,UT,"Ogden-Clearfield, UT",Ogden,"Regional Price Parities: All Items for Ogden-Clearfield, UT (MSA)",RPPALL36260,Annual,Not Seasonally Adjusted
+2009-01-01,95.3,UT,"Ogden-Clearfield, UT",Ogden,"Regional Price Parities: All Items for Ogden-Clearfield, UT (MSA)",RPPALL36260,Annual,Not Seasonally Adjusted
+2010-01-01,96.3,UT,"Ogden-Clearfield, UT",Ogden,"Regional Price Parities: All Items for Ogden-Clearfield, UT (MSA)",RPPALL36260,Annual,Not Seasonally Adjusted
+2011-01-01,96.9,UT,"Ogden-Clearfield, UT",Ogden,"Regional Price Parities: All Items for Ogden-Clearfield, UT (MSA)",RPPALL36260,Annual,Not Seasonally Adjusted
+2012-01-01,96.4,UT,"Ogden-Clearfield, UT",Ogden,"Regional Price Parities: All Items for Ogden-Clearfield, UT (MSA)",RPPALL36260,Annual,Not Seasonally Adjusted
+2013-01-01,96.2,UT,"Ogden-Clearfield, UT",Ogden,"Regional Price Parities: All Items for Ogden-Clearfield, UT (MSA)",RPPALL36260,Annual,Not Seasonally Adjusted
+2014-01-01,95.6,UT,"Ogden-Clearfield, UT",Ogden,"Regional Price Parities: All Items for Ogden-Clearfield, UT (MSA)",RPPALL36260,Annual,Not Seasonally Adjusted
+2015-01-01,94.8,UT,"Ogden-Clearfield, UT",Ogden,"Regional Price Parities: All Items for Ogden-Clearfield, UT (MSA)",RPPALL36260,Annual,Not Seasonally Adjusted
+2016-01-01,93.6,UT,"Ogden-Clearfield, UT",Ogden,"Regional Price Parities: All Items for Ogden-Clearfield, UT (MSA)",RPPALL36260,Annual,Not Seasonally Adjusted
+2017-01-01,92.8,UT,"Ogden-Clearfield, UT",Ogden,"Regional Price Parities: All Items for Ogden-Clearfield, UT (MSA)",RPPALL36260,Annual,Not Seasonally Adjusted
+2018-01-01,93.6,UT,"Ogden-Clearfield, UT",Ogden,"Regional Price Parities: All Items for Ogden-Clearfield, UT (MSA)",RPPALL36260,Annual,Not Seasonally Adjusted
+2019-01-01,94.3,UT,"Ogden-Clearfield, UT",Ogden,"Regional Price Parities: All Items for Ogden-Clearfield, UT (MSA)",RPPALL36260,Annual,Not Seasonally Adjusted
+2008-01-01,91.6,CO,"Pueblo, CO",Pueblo,"Regional Price Parities: All Items for Pueblo, CO (MSA)",RPPALL39380,Annual,Not Seasonally Adjusted
+2009-01-01,92.6,CO,"Pueblo, CO",Pueblo,"Regional Price Parities: All Items for Pueblo, CO (MSA)",RPPALL39380,Annual,Not Seasonally Adjusted
+2010-01-01,93.1,CO,"Pueblo, CO",Pueblo,"Regional Price Parities: All Items for Pueblo, CO (MSA)",RPPALL39380,Annual,Not Seasonally Adjusted
+2011-01-01,93.9,CO,"Pueblo, CO",Pueblo,"Regional Price Parities: All Items for Pueblo, CO (MSA)",RPPALL39380,Annual,Not Seasonally Adjusted
+2012-01-01,93.2,CO,"Pueblo, CO",Pueblo,"Regional Price Parities: All Items for Pueblo, CO (MSA)",RPPALL39380,Annual,Not Seasonally Adjusted
+2013-01-01,93.6,CO,"Pueblo, CO",Pueblo,"Regional Price Parities: All Items for Pueblo, CO (MSA)",RPPALL39380,Annual,Not Seasonally Adjusted
+2014-01-01,91.8,CO,"Pueblo, CO",Pueblo,"Regional Price Parities: All Items for Pueblo, CO (MSA)",RPPALL39380,Annual,Not Seasonally Adjusted
+2015-01-01,91.2,CO,"Pueblo, CO",Pueblo,"Regional Price Parities: All Items for Pueblo, CO (MSA)",RPPALL39380,Annual,Not Seasonally Adjusted
+2016-01-01,90.2,CO,"Pueblo, CO",Pueblo,"Regional Price Parities: All Items for Pueblo, CO (MSA)",RPPALL39380,Annual,Not Seasonally Adjusted
+2017-01-01,89.7,CO,"Pueblo, CO",Pueblo,"Regional Price Parities: All Items for Pueblo, CO (MSA)",RPPALL39380,Annual,Not Seasonally Adjusted
+2018-01-01,89.5,CO,"Pueblo, CO",Pueblo,"Regional Price Parities: All Items for Pueblo, CO (MSA)",RPPALL39380,Annual,Not Seasonally Adjusted
+2019-01-01,89.5,CO,"Pueblo, CO",Pueblo,"Regional Price Parities: All Items for Pueblo, CO (MSA)",RPPALL39380,Annual,Not Seasonally Adjusted
+2008-01-01,100.0,FL,"Punta Gorda, FL",Punta Gorda,"Regional Price Parities: All Items for Punta Gorda, FL (MSA)",RPPALL39460,Annual,Not Seasonally Adjusted
+2009-01-01,97.8,FL,"Punta Gorda, FL",Punta Gorda,"Regional Price Parities: All Items for Punta Gorda, FL (MSA)",RPPALL39460,Annual,Not Seasonally Adjusted
+2010-01-01,95.8,FL,"Punta Gorda, FL",Punta Gorda,"Regional Price Parities: All Items for Punta Gorda, FL (MSA)",RPPALL39460,Annual,Not Seasonally Adjusted
+2011-01-01,95.6,FL,"Punta Gorda, FL",Punta Gorda,"Regional Price Parities: All Items for Punta Gorda, FL (MSA)",RPPALL39460,Annual,Not Seasonally Adjusted
+2012-01-01,95.4,FL,"Punta Gorda, FL",Punta Gorda,"Regional Price Parities: All Items for Punta Gorda, FL (MSA)",RPPALL39460,Annual,Not Seasonally Adjusted
+2013-01-01,95.0,FL,"Punta Gorda, FL",Punta Gorda,"Regional Price Parities: All Items for Punta Gorda, FL (MSA)",RPPALL39460,Annual,Not Seasonally Adjusted
+2014-01-01,94.7,FL,"Punta Gorda, FL",Punta Gorda,"Regional Price Parities: All Items for Punta Gorda, FL (MSA)",RPPALL39460,Annual,Not Seasonally Adjusted
+2015-01-01,94.7,FL,"Punta Gorda, FL",Punta Gorda,"Regional Price Parities: All Items for Punta Gorda, FL (MSA)",RPPALL39460,Annual,Not Seasonally Adjusted
+2016-01-01,94.8,FL,"Punta Gorda, FL",Punta Gorda,"Regional Price Parities: All Items for Punta Gorda, FL (MSA)",RPPALL39460,Annual,Not Seasonally Adjusted
+2017-01-01,95.5,FL,"Punta Gorda, FL",Punta Gorda,"Regional Price Parities: All Items for Punta Gorda, FL (MSA)",RPPALL39460,Annual,Not Seasonally Adjusted
+2018-01-01,96.2,FL,"Punta Gorda, FL",Punta Gorda,"Regional Price Parities: All Items for Punta Gorda, FL (MSA)",RPPALL39460,Annual,Not Seasonally Adjusted
+2019-01-01,96.1,FL,"Punta Gorda, FL",Punta Gorda,"Regional Price Parities: All Items for Punta Gorda, FL (MSA)",RPPALL39460,Annual,Not Seasonally Adjusted
+2008-01-01,92.2,IL,"Rockford, IL",Rockford,"Regional Price Parities: All Items for Rockford, IL (MSA)",RPPALL40420,Annual,Not Seasonally Adjusted
+2009-01-01,92.6,IL,"Rockford, IL",Rockford,"Regional Price Parities: All Items for Rockford, IL (MSA)",RPPALL40420,Annual,Not Seasonally Adjusted
+2010-01-01,91.9,IL,"Rockford, IL",Rockford,"Regional Price Parities: All Items for Rockford, IL (MSA)",RPPALL40420,Annual,Not Seasonally Adjusted
+2011-01-01,92.4,IL,"Rockford, IL",Rockford,"Regional Price Parities: All Items for Rockford, IL (MSA)",RPPALL40420,Annual,Not Seasonally Adjusted
+2012-01-01,91.9,IL,"Rockford, IL",Rockford,"Regional Price Parities: All Items for Rockford, IL (MSA)",RPPALL40420,Annual,Not Seasonally Adjusted
+2013-01-01,91.6,IL,"Rockford, IL",Rockford,"Regional Price Parities: All Items for Rockford, IL (MSA)",RPPALL40420,Annual,Not Seasonally Adjusted
+2014-01-01,90.8,IL,"Rockford, IL",Rockford,"Regional Price Parities: All Items for Rockford, IL (MSA)",RPPALL40420,Annual,Not Seasonally Adjusted
+2015-01-01,89.5,IL,"Rockford, IL",Rockford,"Regional Price Parities: All Items for Rockford, IL (MSA)",RPPALL40420,Annual,Not Seasonally Adjusted
+2016-01-01,88.8,IL,"Rockford, IL",Rockford,"Regional Price Parities: All Items for Rockford, IL (MSA)",RPPALL40420,Annual,Not Seasonally Adjusted
+2017-01-01,87.9,IL,"Rockford, IL",Rockford,"Regional Price Parities: All Items for Rockford, IL (MSA)",RPPALL40420,Annual,Not Seasonally Adjusted
+2018-01-01,87.3,IL,"Rockford, IL",Rockford,"Regional Price Parities: All Items for Rockford, IL (MSA)",RPPALL40420,Annual,Not Seasonally Adjusted
+2019-01-01,86.9,IL,"Rockford, IL",Rockford,"Regional Price Parities: All Items for Rockford, IL (MSA)",RPPALL40420,Annual,Not Seasonally Adjusted
+2008-01-01,110.9,NJ,"Trenton-Princeton, NJ",Trenton,"Regional Price Parities: All Items for Trenton, NJ (MSA)",RPPALL45940,Annual,Not Seasonally Adjusted
+2009-01-01,111.5,NJ,"Trenton-Princeton, NJ",Trenton,"Regional Price Parities: All Items for Trenton, NJ (MSA)",RPPALL45940,Annual,Not Seasonally Adjusted
+2010-01-01,112.2,NJ,"Trenton-Princeton, NJ",Trenton,"Regional Price Parities: All Items for Trenton, NJ (MSA)",RPPALL45940,Annual,Not Seasonally Adjusted
+2011-01-01,113.0,NJ,"Trenton-Princeton, NJ",Trenton,"Regional Price Parities: All Items for Trenton, NJ (MSA)",RPPALL45940,Annual,Not Seasonally Adjusted
+2012-01-01,112.3,NJ,"Trenton-Princeton, NJ",Trenton,"Regional Price Parities: All Items for Trenton, NJ (MSA)",RPPALL45940,Annual,Not Seasonally Adjusted
+2013-01-01,111.5,NJ,"Trenton-Princeton, NJ",Trenton,"Regional Price Parities: All Items for Trenton, NJ (MSA)",RPPALL45940,Annual,Not Seasonally Adjusted
+2014-01-01,111.5,NJ,"Trenton-Princeton, NJ",Trenton,"Regional Price Parities: All Items for Trenton, NJ (MSA)",RPPALL45940,Annual,Not Seasonally Adjusted
+2015-01-01,112.1,NJ,"Trenton-Princeton, NJ",Trenton,"Regional Price Parities: All Items for Trenton, NJ (MSA)",RPPALL45940,Annual,Not Seasonally Adjusted
+2016-01-01,109.2,NJ,"Trenton-Princeton, NJ",Trenton,"Regional Price Parities: All Items for Trenton, NJ (MSA)",RPPALL45940,Annual,Not Seasonally Adjusted
+2017-01-01,107.0,NJ,"Trenton-Princeton, NJ",Trenton,"Regional Price Parities: All Items for Trenton, NJ (MSA)",RPPALL45940,Annual,Not Seasonally Adjusted
+2018-01-01,106.5,NJ,"Trenton-Princeton, NJ",Trenton,"Regional Price Parities: All Items for Trenton, NJ (MSA)",RPPALL45940,Annual,Not Seasonally Adjusted
+2019-01-01,106.2,NJ,"Trenton-Princeton, NJ",Trenton,"Regional Price Parities: All Items for Trenton, NJ (MSA)",RPPALL45940,Annual,Not Seasonally Adjusted
+2008-01-01,95.7,NY,"Watertown-Fort Drum, NY",Watertown,"Regional Price Parities: All Items for Watertown-Fort Drum, NY (MSA)",RPPALL48060,Annual,Not Seasonally Adjusted
+2009-01-01,96.3,NY,"Watertown-Fort Drum, NY",Watertown,"Regional Price Parities: All Items for Watertown-Fort Drum, NY (MSA)",RPPALL48060,Annual,Not Seasonally Adjusted
+2010-01-01,97.1,NY,"Watertown-Fort Drum, NY",Watertown,"Regional Price Parities: All Items for Watertown-Fort Drum, NY (MSA)",RPPALL48060,Annual,Not Seasonally Adjusted
+2011-01-01,98.1,NY,"Watertown-Fort Drum, NY",Watertown,"Regional Price Parities: All Items for Watertown-Fort Drum, NY (MSA)",RPPALL48060,Annual,Not Seasonally Adjusted
+2012-01-01,98.5,NY,"Watertown-Fort Drum, NY",Watertown,"Regional Price Parities: All Items for Watertown-Fort Drum, NY (MSA)",RPPALL48060,Annual,Not Seasonally Adjusted
+2013-01-01,99.1,NY,"Watertown-Fort Drum, NY",Watertown,"Regional Price Parities: All Items for Watertown-Fort Drum, NY (MSA)",RPPALL48060,Annual,Not Seasonally Adjusted
+2014-01-01,99.2,NY,"Watertown-Fort Drum, NY",Watertown,"Regional Price Parities: All Items for Watertown-Fort Drum, NY (MSA)",RPPALL48060,Annual,Not Seasonally Adjusted
+2015-01-01,99.3,NY,"Watertown-Fort Drum, NY",Watertown,"Regional Price Parities: All Items for Watertown-Fort Drum, NY (MSA)",RPPALL48060,Annual,Not Seasonally Adjusted
+2016-01-01,98.6,NY,"Watertown-Fort Drum, NY",Watertown,"Regional Price Parities: All Items for Watertown-Fort Drum, NY (MSA)",RPPALL48060,Annual,Not Seasonally Adjusted
+2017-01-01,98.0,NY,"Watertown-Fort Drum, NY",Watertown,"Regional Price Parities: All Items for Watertown-Fort Drum, NY (MSA)",RPPALL48060,Annual,Not Seasonally Adjusted
+2018-01-01,97.6,NY,"Watertown-Fort Drum, NY",Watertown,"Regional Price Parities: All Items for Watertown-Fort Drum, NY (MSA)",RPPALL48060,Annual,Not Seasonally Adjusted
+2019-01-01,96.9,NY,"Watertown-Fort Drum, NY",Watertown,"Regional Price Parities: All Items for Watertown-Fort Drum, NY (MSA)",RPPALL48060,Annual,Not Seasonally Adjusted
+2008-01-01,91.3,KS,"Wichita, KS",Wichita,"Regional Price Parities: All Items for Wichita, KS (MSA)",RPPALL48620,Annual,Not Seasonally Adjusted
+2009-01-01,91.1,KS,"Wichita, KS",Wichita,"Regional Price Parities: All Items for Wichita, KS (MSA)",RPPALL48620,Annual,Not Seasonally Adjusted
+2010-01-01,91.0,KS,"Wichita, KS",Wichita,"Regional Price Parities: All Items for Wichita, KS (MSA)",RPPALL48620,Annual,Not Seasonally Adjusted
+2011-01-01,91.3,KS,"Wichita, KS",Wichita,"Regional Price Parities: All Items for Wichita, KS (MSA)",RPPALL48620,Annual,Not Seasonally Adjusted
+2012-01-01,91.2,KS,"Wichita, KS",Wichita,"Regional Price Parities: All Items for Wichita, KS (MSA)",RPPALL48620,Annual,Not Seasonally Adjusted
+2013-01-01,90.9,KS,"Wichita, KS",Wichita,"Regional Price Parities: All Items for Wichita, KS (MSA)",RPPALL48620,Annual,Not Seasonally Adjusted
+2014-01-01,90.3,KS,"Wichita, KS",Wichita,"Regional Price Parities: All Items for Wichita, KS (MSA)",RPPALL48620,Annual,Not Seasonally Adjusted
+2015-01-01,89.6,KS,"Wichita, KS",Wichita,"Regional Price Parities: All Items for Wichita, KS (MSA)",RPPALL48620,Annual,Not Seasonally Adjusted
+2016-01-01,89.1,KS,"Wichita, KS",Wichita,"Regional Price Parities: All Items for Wichita, KS (MSA)",RPPALL48620,Annual,Not Seasonally Adjusted
+2017-01-01,88.8,KS,"Wichita, KS",Wichita,"Regional Price Parities: All Items for Wichita, KS (MSA)",RPPALL48620,Annual,Not Seasonally Adjusted
+2018-01-01,88.4,KS,"Wichita, KS",Wichita,"Regional Price Parities: All Items for Wichita, KS (MSA)",RPPALL48620,Annual,Not Seasonally Adjusted
+2019-01-01,87.9,KS,"Wichita, KS",Wichita,"Regional Price Parities: All Items for Wichita, KS (MSA)",RPPALL48620,Annual,Not Seasonally Adjusted

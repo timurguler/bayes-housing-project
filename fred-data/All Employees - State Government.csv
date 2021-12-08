@@ -1,0 +1,983 @@
+date,All Employees: State Government,state,msa,city,title,id,frequency,seasonal_adjustment
+1990-01-01,6.0,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,6.0,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,6.4,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,5.9,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,6.1,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,6.0,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,6.1,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,6.1,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,6.1,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,6.2,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,7.1,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,6.9,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,7.1,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,7.2,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,7.4,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,7.7,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,7.9,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,8.0,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,7.9,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,7.8,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,8.0,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,8.6,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,9.0,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,9.1,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,9.4,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,9.7,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,9.5,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,9.4,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,9.2,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,9.2,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,8.6,VT,"Burlington-South Burlington, VT",Burlington,"All Employees: State Government in Burlington-South Burlington, VT (NECTA)",SMU50724009092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,16.7,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,17.5,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,18.6,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,19.2,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,19.9,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,20.2,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,20.3,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,20.9,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,21.5,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,21.8,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,21.6,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,21.5,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,22.0,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,22.5,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,22.8,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,22.9,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,23.0,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,23.8,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,24.7,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,24.3,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,24.5,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,24.7,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,25.3,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,25.0,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,25.2,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,25.5,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,25.8,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,25.7,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,26.1,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,26.6,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,25.4,SC,"Charleston-North Charleston, SC",Charleston,"All Employees: State Government in Charleston-North Charleston, SC (MSA)",SMU45167009092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,14.0,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,13.2,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,13.7,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,14.1,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,14.7,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,14.7,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,15.1,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,15.7,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,16.1,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,16.3,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,16.6,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,17.0,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,17.1,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,17.8,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,18.8,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,19.9,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,20.6,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,21.7,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,22.1,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,22.2,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,22.1,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,22.3,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,22.4,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,22.1,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,22.8,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,23.7,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,24.1,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,24.8,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,25.7,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,27.3,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,25.4,VA,"Charlottesville, VA",Charlottesville,"All Employees: State Government in Charlottesville, VA (MSA)",SMU51168209092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,59.7,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,59.7,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,60.1,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,61.4,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,63.8,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,65.1,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,65.3,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,66.4,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,66.3,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,64.0,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,62.6,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,63.9,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,62.6,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,57.9,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,58.4,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,58.6,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,58.5,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,58.4,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,58.2,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,57.2,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,57.7,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,57.3,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,58.0,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,57.6,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,57.9,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,57.8,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,56.5,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,55.8,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,56.8,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,57.0,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,57.4,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago,"All Employees: State Government in Chicago-Naperville-Elgin, IL-IN-WI (MSA)",SMU17169809092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,28.3,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,29.1,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,28.7,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,28.3,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,29.1,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,28.8,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,28.5,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,25.5,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,25.5,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,25.3,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,25.5,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,25.8,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,26.0,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,26.7,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,27.4,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,27.7,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,27.7,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,27.4,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,28.3,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,28.8,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,29.4,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,30.3,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,30.6,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,31.2,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,31.9,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,31.2,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,31.7,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,31.4,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,30.3,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,30.9,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,29.7,OH,"Cincinnati, OH-KY-IN",Cincinnati,"All Employees: State Government in Cincinnati, OH-KY-IN (MSA)",SMU39171409092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,36.3,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,37.4,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,39.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,41.2,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,41.4,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,41.9,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,41.6,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,40.9,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,40.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,41.3,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,41.9,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,43.9,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,45.7,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,45.6,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,47.5,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,51.7,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,53.6,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,56.4,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,58.2,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,58.2,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,59.7,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,60.7,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,60.3,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,60.3,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,61.3,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,61.6,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,63.2,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,67.0,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,68.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,72.1,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,72.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"All Employees: State Government in Dallas-Fort Worth-Arlington, TX (MSA)",SMU48191009092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,29.4,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,29.5,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,28.9,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,28.8,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,28.4,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,28.6,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,28.2,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,27.0,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,26.5,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,25.9,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,26.0,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,26.3,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,26.0,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,26.1,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,25.6,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,26.3,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,26.2,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,25.7,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,25.4,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,25.8,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,25.9,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,25.2,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,25.2,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,23.8,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,23.8,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,24.4,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,25.1,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,25.5,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,25.6,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,25.9,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,23.7,MI,"Detroit-Warren-Dearborn, MI",Detroit,"All Employees: State Government in Detroit-Warren-Dearborn, MI (MSA)",SMU26198209092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,1.8,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,1.9,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,2.0,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,2.1,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,2.1,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,2.2,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,2.1,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,2.0,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,2.1,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,2.2,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,2.1,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,2.2,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,2.2,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,2.5,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,2.4,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,2.6,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,2.7,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,2.7,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,2.5,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,2.5,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,2.4,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,2.3,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,2.3,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,2.4,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,2.3,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,2.5,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,2.5,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,2.7,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,2.7,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,2.7,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,2.7,GA,"Gainesville, GA",Gainesville,"All Employees: State Government in Gainesville, GA (MSA)",SMU13235809092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,58.3,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,60.8,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,63.1,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,64.4,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,66.6,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,68.2,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,67.8,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,66.9,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,67.8,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,67.7,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,68.9,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,70.2,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,73.4,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,74.8,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,75.1,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,75.7,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,76.6,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,78.4,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,78.5,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,77.2,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,80.4,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,80.1,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,79.6,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,80.5,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,80.7,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,80.6,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,83.4,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,85.1,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,85.9,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,88.3,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,90.8,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"All Employees: State Government in Houston-The Woodlands-Sugar Land, TX (MSA)",SMU48264209092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,1.5,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,1.6,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,1.6,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,1.7,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,1.8,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,1.9,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,1.8,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,1.9,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,1.9,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,2.0,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,1.8,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,2.0,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,2.0,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,2.1,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,2.2,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,2.3,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,2.3,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,2.4,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,2.4,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,2.7,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,2.8,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,2.9,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,2.9,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,3.0,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,3.1,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,3.1,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,3.2,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,3.2,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,3.2,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,3.1,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,3.0,WA,"Kennewick-Richland, WA",Kennewick,"All Employees: State Government in Kennewick-Richland, WA (MSA)",SMU53284209092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,0.8,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,1.3,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,1.2,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,1.3,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,1.3,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,1.3,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,1.3,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,1.4,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,1.6,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,1.5,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,1.5,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,1.5,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,1.4,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,1.5,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,1.5,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,1.7,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,1.5,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,1.5,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,1.5,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,1.4,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,1.4,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,1.4,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,1.3,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,1.3,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,1.4,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,1.4,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,1.4,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,1.4,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,1.5,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,1.4,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,1.4,ID,"Lewiston, ID-WA",Lewiston,"All Employees: State Government in Lewiston, ID-WA (MSA)",SMU16303009092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,17.7,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,18.0,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,18.3,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,18.7,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,18.9,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,19.1,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,19.2,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,19.5,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,19.7,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,20.0,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,20.2,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,20.5,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,20.4,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,19.5,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,19.5,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,19.9,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,20.1,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,20.2,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,20.3,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,20.6,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,20.4,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,20.4,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,20.8,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,21.0,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,21.4,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,21.5,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,22.1,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,22.0,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,22.0,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,22.2,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,21.8,NE,"Lincoln, NE",Lincoln,"All Employees: State Government in Lincoln, NE (MSA)",SMU31307009092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,90.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1990-02-01,90.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1990-03-01,90.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1990-04-01,90.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1990-05-01,90.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1990-06-01,90.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1990-07-01,91.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1990-08-01,90.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1990-09-01,90.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1990-10-01,90.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1990-11-01,91.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1990-12-01,90.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1991-01-01,90.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1991-02-01,90.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1991-03-01,92.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1991-04-01,91.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1991-05-01,91.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1991-06-01,91.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1991-07-01,91.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1991-08-01,91.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1991-09-01,92.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1991-10-01,90.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1991-11-01,89.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1991-12-01,89.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1992-01-01,88.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1992-02-01,89.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1992-03-01,89.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1992-04-01,89.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1992-05-01,89.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1992-06-01,89.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1992-07-01,88.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1992-08-01,89.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1992-09-01,89.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1992-10-01,89.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1992-11-01,89.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1992-12-01,89.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1993-01-01,89.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1993-02-01,89.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1993-03-01,89.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1993-04-01,88.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1993-05-01,88.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1993-06-01,88.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1993-07-01,90.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1993-08-01,89.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1993-09-01,88.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1993-10-01,89.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1993-11-01,89.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1993-12-01,89.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1994-01-01,89.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1994-02-01,88.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1994-03-01,89.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1994-04-01,89.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1994-05-01,89.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1994-06-01,90.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1994-07-01,91.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1994-08-01,89.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1994-09-01,90.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1994-10-01,90.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1994-11-01,91,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1994-12-01,91.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1995-01-01,91.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1995-02-01,91.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1995-03-01,91.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1995-04-01,91.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1995-05-01,91.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1995-06-01,91.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1995-07-01,91.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1995-08-01,91.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1995-09-01,91.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1995-10-01,91.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1995-11-01,91.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1995-12-01,91.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1996-01-01,91,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1996-02-01,90.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1996-03-01,90.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1996-04-01,90.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1996-05-01,90.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1996-06-01,91.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1996-07-01,89.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1996-08-01,91,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1996-09-01,91.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1996-10-01,91.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1996-11-01,91.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1996-12-01,90.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1997-01-01,91.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1997-02-01,91.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1997-03-01,91.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1997-04-01,91.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1997-05-01,91.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1997-06-01,91.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1997-07-01,91.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1997-08-01,91.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1997-09-01,91.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1997-10-01,91.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1997-11-01,93.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1997-12-01,92.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1998-01-01,92.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1998-02-01,92.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1998-03-01,93.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1998-04-01,93.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1998-05-01,93.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1998-06-01,94,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1998-07-01,94.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1998-08-01,94.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1998-09-01,94.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1998-10-01,96.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1998-11-01,95.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1998-12-01,95.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1999-01-01,95.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1999-02-01,96.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1999-03-01,96.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1999-04-01,97.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1999-05-01,98,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1999-06-01,98.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1999-07-01,98.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1999-08-01,98.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1999-09-01,98.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1999-10-01,100.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1999-11-01,99.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1999-12-01,99.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2000-01-01,99.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2000-02-01,100.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2000-03-01,99.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2000-04-01,101.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2000-05-01,100.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2000-06-01,101,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2000-07-01,103.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2000-08-01,102.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2000-09-01,102.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2000-10-01,101.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2000-11-01,102.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2000-12-01,102.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2001-01-01,104.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2001-02-01,103.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2001-03-01,104.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2001-04-01,103.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2001-05-01,103.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2001-06-01,104.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2001-07-01,104.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2001-08-01,104.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2001-09-01,107,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2001-10-01,106.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2001-11-01,106.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2001-12-01,106.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2002-01-01,106.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2002-02-01,106.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2002-03-01,106.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2002-04-01,106.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2002-05-01,106.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2002-06-01,107.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2002-07-01,106.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2002-08-01,107.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2002-09-01,108.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2002-10-01,107.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2002-11-01,108.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2002-12-01,107.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2003-01-01,107.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2003-02-01,108,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2003-03-01,107.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2003-04-01,108.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2003-05-01,107.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2003-06-01,107.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2003-07-01,107.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2003-08-01,108.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2003-09-01,107.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2003-10-01,107.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2003-11-01,106.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2003-12-01,106.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2004-01-01,107.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2004-02-01,106.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2004-03-01,105.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2004-04-01,106.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2004-05-01,106.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2004-06-01,105.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2004-07-01,106.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2004-08-01,105.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2004-09-01,105.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2004-10-01,105,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2004-11-01,104.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2004-12-01,104.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2005-01-01,105.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2005-02-01,104.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2005-03-01,104.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2005-04-01,104.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2005-05-01,104.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2005-06-01,104.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2005-07-01,106.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2005-08-01,105.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2005-09-01,105.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2005-10-01,105.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2005-11-01,105.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2005-12-01,105.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2006-01-01,105.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2006-02-01,106.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2006-03-01,106.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2006-04-01,106.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2006-05-01,106,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2006-06-01,106.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2006-07-01,107.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2006-08-01,107.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2006-09-01,108.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2006-10-01,107.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2006-11-01,107.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2006-12-01,108.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2007-01-01,108,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2007-02-01,107.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2007-03-01,107.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2007-04-01,108,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2007-05-01,107.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2007-06-01,108.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2007-07-01,108.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2007-08-01,108.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2007-09-01,109.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2007-10-01,109.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2007-11-01,110,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2007-12-01,110.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2008-01-01,110.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2008-02-01,110.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2008-03-01,110.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2008-04-01,110.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2008-05-01,111.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2008-06-01,110.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2008-07-01,110.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2008-08-01,110.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2008-09-01,108.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2008-10-01,110.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2008-11-01,110.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2008-12-01,110.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2009-01-01,111.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2009-02-01,111.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2009-03-01,110.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2009-04-01,110.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2009-05-01,111.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2009-06-01,110.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2009-07-01,110,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2009-08-01,110.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2009-09-01,106.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2009-10-01,108.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2009-11-01,107.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2009-12-01,107.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2010-01-01,107.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2010-02-01,107.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2010-03-01,106.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2010-04-01,107.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2010-05-01,107.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2010-06-01,106.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2010-07-01,108.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2010-08-01,108.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2010-09-01,107.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2010-10-01,109.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2010-11-01,109.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2010-12-01,109.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2011-01-01,110.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2011-02-01,110.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2011-03-01,110.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2011-04-01,111.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2011-05-01,110.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2011-06-01,111.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2011-07-01,110.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2011-08-01,110.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2011-09-01,108.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2011-10-01,112.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2011-11-01,111.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2011-12-01,110.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2012-01-01,110.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2012-02-01,111.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2012-03-01,111.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2012-04-01,111.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2012-05-01,111.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2012-06-01,111.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2012-07-01,111.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2012-08-01,111.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2012-09-01,112.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2012-10-01,112.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2012-11-01,112.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2012-12-01,112.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2013-01-01,112.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2013-02-01,112.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2013-03-01,112.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2013-04-01,111.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2013-05-01,111.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2013-06-01,111.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2013-07-01,111.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2013-08-01,113.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2013-09-01,112.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2013-10-01,112.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2013-11-01,111.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2013-12-01,112.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2014-01-01,112.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2014-02-01,112.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2014-03-01,112.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2014-04-01,113.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2014-05-01,113.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2014-06-01,113.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2014-07-01,114.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2014-08-01,114.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2014-09-01,113.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2014-10-01,115.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2014-11-01,115.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+2014-12-01,115.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles,"All Employees: State Government in Los Angeles-Long Beach-Santa Ana, CA (MSA) (DISCONTINUED)",SMU06311009092000001SA,Monthly,Seasonally Adjusted
+1990-01-01,6.1,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,6.6,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,7.2,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,7.3,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,8.3,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,9.0,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,8.1,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,7.6,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,7.9,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,7.8,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,7.9,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,8.3,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,8.5,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,10.2,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,10.1,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,10.4,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,10.7,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,10.7,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,11.0,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,11.4,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,11.9,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,11.9,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,11.9,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,11.8,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,11.8,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,11.6,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,11.6,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,11.4,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,11.6,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,11.6,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,10.9,WV,"Morgantown, WV",Morgantown,"All Employees: State Government in Morgantown, WV (MSA)",SMU54340609092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,2.3,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,2.5,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,2.6,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,2.8,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,3.0,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,3.1,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,3.3,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,3.3,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,3.4,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,3.4,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,3.5,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,3.6,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,3.7,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,3.7,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,3.9,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,4.0,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,4.0,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,4.2,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,4.2,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,4.4,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,4.6,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,4.5,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,4.5,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,4.6,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,4.8,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,4.8,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,4.9,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,5.1,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,5.1,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,5.1,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,4.5,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach,"All Employees: State Government in Myrtle Beach-Conway-North Myrtle Beach, SC-NC (MSA)",SMU45348209092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,3.5,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,3.6,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,3.5,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,3.1,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,3.0,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,3.1,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,3.2,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,3.0,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,3.0,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,3.2,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,3.4,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,3.5,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,3.5,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,3.4,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,3.4,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,3.4,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,3.5,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,3.5,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,3.5,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,3.7,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,3.6,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,3.5,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,3.4,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,3.5,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,3.5,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,3.5,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,3.5,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,3.5,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,3.6,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,3.6,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,3.6,CA,"Napa, CA",Napa,"All Employees: State Government in Napa, CA (MSA)",SMU06349009092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,182.1,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,178.9,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,177.7,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,178.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,180.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,175.2,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,169.3,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,166.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,165.6,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,167.6,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,170.6,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,172.7,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,172.5,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,177.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,180.3,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,181.8,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,181.3,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,180.8,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,182.1,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,181.1,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,177.7,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,173.1,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,167.4,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,167.5,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,165.8,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,162.7,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,161.7,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,161.3,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,160.3,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,159.6,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,157.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"All Employees: State Government in New York-Newark-Jersey City, NY-NJ-PA (MSA)",SMU36356209092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,4.3,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,4.4,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,4.6,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,4.8,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,5.1,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,5.1,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,5.3,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,5.4,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,5.5,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,5.4,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,5.6,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,5.6,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,5.7,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,6.0,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,6.1,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,6.2,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,6.2,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,6.2,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,6.2,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,6.1,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,6.0,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,6.1,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,6.3,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,6.4,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,6.4,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,6.5,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,6.7,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,7.3,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,7.0,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,7.2,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,7.1,UT,"Ogden-Clearfield, UT",Ogden,"All Employees: State Government in Ogden-Clearfield, UT (MSA)",SMU49362609092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,4.2,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,4.2,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,4.2,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,4.3,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,4.4,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,4.4,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,4.3,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,4.4,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,4.6,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,4.7,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,4.7,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,4.7,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,4.6,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,4.4,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,4.4,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,4.4,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,4.4,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,4.5,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,4.6,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,4.9,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,5.0,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,5.1,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,5.0,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,5.0,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,5.0,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,5.0,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,5.0,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,5.0,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,5.0,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,4.9,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,4.9,CO,"Pueblo, CO",Pueblo,"All Employees: State Government in Pueblo, CO (MSA)",SMU08393809092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,0.6,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,0.6,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,0.6,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,0.7,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,0.7,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,0.7,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,0.7,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,0.7,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,0.7,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,0.7,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,0.7,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,0.7,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,0.7,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,0.8,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,0.8,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,0.8,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,0.9,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,0.9,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,0.9,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,1.0,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,1.1,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,1.0,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,0.9,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,0.8,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,0.9,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,0.9,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,0.9,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,0.9,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,0.9,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,0.9,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,0.8,FL,"Punta Gorda, FL",Punta Gorda,"All Employees: State Government in Punta Gorda, FL (MSA)",SMU12394609092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,0.5,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,0.5,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,0.8,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,0.8,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,0.8,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,0.8,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,0.8,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,0.8,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,0.8,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,0.8,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,0.8,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,0.8,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,0.8,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,0.7,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,0.7,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,0.7,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,0.7,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,0.7,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,0.7,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,0.8,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,0.8,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,0.8,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,0.7,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,0.7,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,0.7,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,0.7,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,0.7,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,0.7,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,0.7,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,0.7,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,0.7,IL,"Rockford, IL",Rockford,"All Employees: State Government in Rockford, IL (MSA)",SMU17404209092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,36.4,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,35.4,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,34.5,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,33.3,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,33.1,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,32.5,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,31.6,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,31.8,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,32.1,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,33.5,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,35.5,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,38.9,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,39.2,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,40.7,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,41.2,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,44.3,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,45.1,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,45.5,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,47.1,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,47.7,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,47.7,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,47.5,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,48.5,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,50.0,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,50.4,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,49.7,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,51.0,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,52.8,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,54.6,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,55.6,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,56.3,NJ,"Trenton-Princeton, NJ",Trenton,"All Employees: State Government in Trenton, NJ (MSA)",SMU34459409092000001A,Annual,Not Seasonally Adjusted
+1990-01-01,4.7,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+1991-01-01,4.8,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+1992-01-01,5.1,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+1993-01-01,5.4,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+1994-01-01,5.6,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+1995-01-01,5.6,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+1996-01-01,5.4,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+1997-01-01,5.4,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+1998-01-01,5.4,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+1999-01-01,5.5,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2000-01-01,5.5,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2001-01-01,5.7,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2002-01-01,5.8,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2003-01-01,5.8,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2004-01-01,5.5,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2005-01-01,5.7,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2006-01-01,5.5,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2007-01-01,5.8,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2008-01-01,5.6,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2009-01-01,5.6,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2010-01-01,5.6,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2011-01-01,5.7,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2012-01-01,5.6,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2013-01-01,5.5,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2014-01-01,5.6,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2015-01-01,5.4,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2016-01-01,5.6,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2017-01-01,5.5,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2018-01-01,6.1,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2019-01-01,6.4,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
+2020-01-01,6.4,KS,"Wichita, KS",Wichita,"All Employees: State Government in Wichita, KS (MSA)",SMU20486209092000001A,Annual,Not Seasonally Adjusted
