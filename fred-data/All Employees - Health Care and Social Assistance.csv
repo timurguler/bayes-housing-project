@@ -1,0 +1,935 @@
+date,All Employees: Health Care and Social Assistance,state,msa,city
+1990-01-01,794.3,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+1991-01-01,819.8,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+1992-01-01,850.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+1993-01-01,878.5,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+1994-01-01,905.6,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+1995-01-01,933.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+1996-01-01,949.5,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+1997-01-01,969.4,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+1998-01-01,996.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+1999-01-01,1025.4,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2000-01-01,1044.7,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2001-01-01,1061.7,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2002-01-01,1093.9,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2003-01-01,1121.8,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2004-01-01,1137.8,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2005-01-01,1157.9,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2006-01-01,1180.5,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2007-01-01,1203.2,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2008-01-01,1224.3,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2009-01-01,1248.2,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2010-01-01,1272.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2011-01-01,1291.4,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2012-01-01,1311.2,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2013-01-01,1336.8,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2014-01-01,1370.8,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2015-01-01,1411.9,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2016-01-01,1458.7,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2017-01-01,1510.4,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2018-01-01,1569.3,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2019-01-01,1639.9,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2020-01-01,1551.1,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+1990-01-01,386.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-02-01,389.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-03-01,391.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-04-01,392.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-05-01,391.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-06-01,393.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-07-01,392.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-08-01,391.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-09-01,393.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-10-01,396.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-11-01,397.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-12-01,399.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-01-01,389.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-02-01,392.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-03-01,393.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-04-01,398.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-05-01,399.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-06-01,399.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-07-01,396.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-08-01,397.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-09-01,396.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-10-01,404.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-11-01,406.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-12-01,407.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-01-01,395.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-02-01,399.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-03-01,402.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-04-01,402.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-05-01,402.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-06-01,402.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-07-01,404.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-08-01,405.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-09-01,405.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-10-01,404.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-11-01,403.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-12-01,405.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-01-01,403.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-02-01,404.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-03-01,404.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-04-01,399.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-05-01,399.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-06-01,400.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-07-01,403.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-08-01,403.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-09-01,406.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-10-01,405.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-11-01,406.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-12-01,410.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-01-01,405.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-02-01,408.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-03-01,411.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-04-01,408.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-05-01,409.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-06-01,409.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-07-01,407.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-08-01,409.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-09-01,412.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-10-01,411.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-11-01,413.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-12-01,414.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-01-01,408.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-02-01,409.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-03-01,411.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-04-01,413.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-05-01,416.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-06-01,414.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-07-01,411.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-08-01,412.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-09-01,415.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-10-01,415.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-11-01,418.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-12-01,420.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-01-01,422.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-02-01,426.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-03-01,431.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-04-01,432.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-05-01,432.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-06-01,431.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-07-01,428.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-08-01,429.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-09-01,432.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-10-01,429.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-11-01,432.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-12-01,433.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-01-01,431.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-02-01,434.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-03-01,437.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-04-01,440.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-05-01,441.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-06-01,443.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-07-01,438.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-08-01,441.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-09-01,441.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-10-01,440.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-11-01,439.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-12-01,439.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-01-01,442.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-02-01,447.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-03-01,450.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-04-01,452.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-05-01,458.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-06-01,459.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-07-01,452.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-08-01,455.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-09-01,458.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-10-01,457.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-11-01,458.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-12-01,457.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-01-01,461.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-02-01,464.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-03-01,465.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-04-01,462.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-05-01,462.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-06-01,463.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-07-01,461.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-08-01,461.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-09-01,465.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-10-01,466.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-11-01,466.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-12-01,468.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-01-01,467.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-02-01,468.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-03-01,471.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-04-01,471.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-05-01,471.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-06-01,474.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-07-01,471.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-08-01,473.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-09-01,476.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-10-01,474.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-11-01,475.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-12-01,479.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-01-01,480.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-02-01,485.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-03-01,490.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-04-01,491.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-05-01,493.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-06-01,497.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-07-01,498.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-08-01,501.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-09-01,503.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-10-01,506.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-11-01,508.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-12-01,512.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-01-01,510.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-02-01,512.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-03-01,516.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-04-01,520.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-05-01,522.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-06-01,524.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-07-01,522.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-08-01,525.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-09-01,528.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-10-01,530.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-11-01,532.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-12-01,536.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-01-01,529.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-02-01,533.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-03-01,538.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-04-01,545.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-05-01,549.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-06-01,552.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-07-01,551.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-08-01,553.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-09-01,557.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-10-01,559.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-11-01,561.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-12-01,566.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-01-01,563.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-02-01,565.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-03-01,568.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-04-01,569.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-05-01,570.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-06-01,571.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-07-01,569.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-08-01,570.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-09-01,572.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-10-01,573.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-11-01,574.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-12-01,578.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-01-01,574.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-02-01,576.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-03-01,580.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-04-01,584.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-05-01,586.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-06-01,589.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-07-01,586.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-08-01,589.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-09-01,593.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-10-01,597.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-11-01,598.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-12-01,601.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-01-01,596.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-02-01,599.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-03-01,601.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-04-01,601.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-05-01,602.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-06-01,604.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-07-01,600.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-08-01,602.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-09-01,607.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-10-01,608.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-11-01,610.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-12-01,613.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-01-01,609.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-02-01,612.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-03-01,616.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-04-01,615.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-05-01,618.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-06-01,621.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-07-01,621.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-08-01,622.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-09-01,626.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-10-01,629.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-11-01,630.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-12-01,634.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-01-01,631.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-02-01,634.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-03-01,637.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-04-01,641.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-05-01,644.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-06-01,646.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-07-01,648.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-08-01,651.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-09-01,655.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-10-01,659.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-11-01,661.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-12-01,665.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-01-01,657.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-02-01,660.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-03-01,663.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-04-01,667.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-05-01,669.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-06-01,671.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-07-01,668.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-08-01,669.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-09-01,668.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-10-01,673.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-11-01,671.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-12-01,672.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-01-01,665.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-02-01,664.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-03-01,665.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-04-01,666.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-05-01,665.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-06-01,666.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-07-01,665.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-08-01,668.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-09-01,670.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-10-01,671.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-11-01,671.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-12-01,674.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-01-01,668.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-02-01,669.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-03-01,671.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-04-01,673.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-05-01,673.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-06-01,671.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-07-01,668.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-08-01,669.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-09-01,672.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-10-01,674.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-11-01,675.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-12-01,681.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-01-01,685.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-02-01,692.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-03-01,691.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-04-01,699.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-05-01,701.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-06-01,702.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-07-01,698.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-08-01,701.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-09-01,703.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-10-01,736.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-11-01,737.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-12-01,742.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-01-01,738.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-02-01,741.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-03-01,744.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-04-01,739.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-05-01,739.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-06-01,739.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-07-01,754.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-08-01,757.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-09-01,758.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-10-01,762.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-11-01,765.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-12-01,766.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-01-01,765.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-02-01,767.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-03-01,771.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-04-01,773.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-05-01,776.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-06-01,777.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-07-01,774.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-08-01,777.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-09-01,779.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-10-01,786.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-11-01,791.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-12-01,797.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-01-01,393.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-01-01,398.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-01-01,402.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-01-01,404.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-01-01,410.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-01-01,414.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-01-01,430.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-01-01,439.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-01-01,454.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-01-01,464.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-01-01,473.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-01-01,497.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-01-01,523.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-01-01,549.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-01-01,570.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-01-01,588.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-01-01,604.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-01-01,621.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-01-01,648.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-01-01,667.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-01-01,668.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-01-01,672.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-01-01,707.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-01-01,750.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-01-01,392.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-02-01,392.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-03-01,391.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-04-01,392.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-05-01,391.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-06-01,393,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-07-01,393.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-08-01,393.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-09-01,392.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-10-01,394,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-11-01,395.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-12-01,394.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-01-01,394.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-02-01,394.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-03-01,393.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-04-01,398.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-05-01,399.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-06-01,399.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-07-01,397.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-08-01,398,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-09-01,396.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-10-01,402.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-11-01,405,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1991-12-01,403.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-01-01,400.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-02-01,400.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-03-01,401.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-04-01,402.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-05-01,403.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-06-01,403.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-07-01,405,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-08-01,405.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-09-01,404.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-10-01,403.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-11-01,402.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1992-12-01,401.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-01-01,407.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-02-01,405.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-03-01,403.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-04-01,400.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-05-01,399.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-06-01,400.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-07-01,404.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-08-01,404.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-09-01,405.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-10-01,405.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-11-01,406.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1993-12-01,407.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-01-01,408.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-02-01,409.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-03-01,410.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-04-01,408.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-05-01,408.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-06-01,409.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-07-01,408.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-08-01,410.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-09-01,411.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-10-01,411.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-11-01,413.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1994-12-01,412.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-01-01,411.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-02-01,410.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-03-01,410.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-04-01,413.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-05-01,414.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-06-01,413.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-07-01,413.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-08-01,413.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-09-01,414.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-10-01,417,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-11-01,418.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1995-12-01,419.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-01-01,424.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-02-01,426.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-03-01,429.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-04-01,431.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-05-01,430.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-06-01,429.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-07-01,430.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-08-01,431.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-09-01,431.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-10-01,431.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-11-01,433.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1996-12-01,433.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-01-01,433.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-02-01,434.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-03-01,435.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-04-01,438.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-05-01,438.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-06-01,440.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-07-01,440.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-08-01,443,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-09-01,441.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-10-01,442,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-11-01,441,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1997-12-01,439.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-01-01,444.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-02-01,446.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-03-01,448.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-04-01,451.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-05-01,456.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-06-01,456.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-07-01,454.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-08-01,456.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-09-01,458,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-10-01,458.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-11-01,460.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1998-12-01,457.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-01-01,463.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-02-01,464.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-03-01,463.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-04-01,461.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-05-01,461.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-06-01,461.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-07-01,463.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-08-01,463.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-09-01,465.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-10-01,467.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-11-01,468.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1999-12-01,468.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-01-01,468.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-02-01,468.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-03-01,469.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-04-01,470.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-05-01,470.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-06-01,472.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-07-01,473.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-08-01,474.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-09-01,476.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-10-01,475.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-11-01,476.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-12-01,479,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-01-01,482.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-02-01,485.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-03-01,488.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-04-01,490.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-05-01,492.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-06-01,495.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-07-01,499.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-08-01,502.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-09-01,503.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-10-01,506.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-11-01,509.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-12-01,511.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-01-01,512.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-02-01,514,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-03-01,515.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-04-01,519.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-05-01,521.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-06-01,523.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-07-01,523.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-08-01,526.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-09-01,528.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-10-01,530.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-11-01,532.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-12-01,534.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-01-01,532.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-02-01,535.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-03-01,537.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-04-01,543.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-05-01,547.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-06-01,550.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-07-01,552.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-08-01,554.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-09-01,557.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-10-01,559.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-11-01,561.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-12-01,563.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-01-01,566.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-02-01,567.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-03-01,568.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-04-01,568.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-05-01,568.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-06-01,569.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-07-01,571.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-08-01,571.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-09-01,572,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-10-01,573.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-11-01,573.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-12-01,575.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-01-01,577,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-02-01,578.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-03-01,580.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-04-01,583.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-05-01,585.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-06-01,587.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-07-01,588.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-08-01,591.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-09-01,593.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-10-01,596,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-11-01,597.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-12-01,598.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-01-01,599,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-02-01,600.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-03-01,601.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-04-01,601.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-05-01,601.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-06-01,603.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-07-01,602.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-08-01,604.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-09-01,606.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-10-01,607.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-11-01,608.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-12-01,610,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-01-01,612.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-02-01,614.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-03-01,617.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-04-01,615.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-05-01,618.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-06-01,620.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-07-01,622.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-08-01,624.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-09-01,626.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-10-01,627.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-11-01,629.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-12-01,630.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-01-01,634.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-02-01,636.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-03-01,638.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-04-01,641.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-05-01,644.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-06-01,645.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-07-01,650.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-08-01,652.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-09-01,655.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-10-01,657.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-11-01,659.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-12-01,661.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-01-01,660.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-02-01,662.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-03-01,664.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-04-01,666.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-05-01,669.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-06-01,671,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-07-01,670.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-08-01,670.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-09-01,668.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-10-01,672.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-11-01,669.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-12-01,668.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-01-01,667.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-02-01,666.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-03-01,666.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-04-01,665.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-05-01,665,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-06-01,666.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-07-01,668.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-08-01,670.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-09-01,671.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-10-01,670.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-11-01,669.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2010-12-01,669.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-01-01,668.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-02-01,670.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-03-01,671.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-04-01,672.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-05-01,672.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-06-01,672.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-07-01,672.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-08-01,672.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-09-01,673.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-10-01,672.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-11-01,673.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-12-01,677.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-01-01,684.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-02-01,692.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-03-01,691.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-04-01,698.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-05-01,701.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-06-01,703.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-07-01,703.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-08-01,704.3,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-09-01,705.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-10-01,735.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-11-01,733.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-12-01,737.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-01-01,737.8,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-02-01,740.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-03-01,744.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-04-01,739.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-05-01,740.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-06-01,740.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-07-01,760.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-08-01,760.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-09-01,760.7,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-10-01,760.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-11-01,761.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-12-01,760.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-01-01,764.5,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-02-01,766.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-03-01,771.1,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-04-01,774.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-05-01,777.6,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-06-01,779.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-07-01,779.4,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-08-01,780.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-09-01,781.9,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-10-01,784.2,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-11-01,787.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-12-01,791.0,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+1990-01-01,144.6,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+1991-01-01,154.0,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+1992-01-01,161.0,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+1993-01-01,166.5,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+1994-01-01,172.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+1995-01-01,182.3,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+1996-01-01,189.7,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+1997-01-01,200.9,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+1998-01-01,204.4,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+1999-01-01,206.4,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2000-01-01,209.4,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2001-01-01,216.5,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2002-01-01,224.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2003-01-01,232.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2004-01-01,238.1,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2005-01-01,246.7,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2006-01-01,258.6,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2007-01-01,270.9,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2008-01-01,282.1,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2009-01-01,295.5,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2010-01-01,306.2,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2011-01-01,317.7,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2012-01-01,325.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2013-01-01,333.7,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2014-01-01,345.5,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2015-01-01,360.1,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2016-01-01,371.5,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2017-01-01,382.2,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2018-01-01,389.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2019-01-01,399.8,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2020-01-01,388.0,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+1990-01-01,135.1,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+1991-01-01,139.9,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+1992-01-01,146.1,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+1993-01-01,152.1,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+1994-01-01,155.2,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+1995-01-01,159.2,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+1996-01-01,162.8,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+1997-01-01,171.2,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+1998-01-01,177.4,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+1999-01-01,180.4,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2000-01-01,185.1,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2001-01-01,191.3,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2002-01-01,201.3,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2003-01-01,209.3,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2004-01-01,213.9,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2005-01-01,220.7,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2006-01-01,229.0,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2007-01-01,239.6,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2008-01-01,245.4,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2009-01-01,255.9,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2010-01-01,266.6,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2011-01-01,271.4,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2012-01-01,279.6,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2013-01-01,289.2,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2014-01-01,297.6,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2015-01-01,310.2,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2016-01-01,319.7,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2017-01-01,325.8,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2018-01-01,333.2,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2019-01-01,341.2,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2020-01-01,334.0,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+1990-01-01,173.2,MI,"Detroit-Warren-Dearborn, MI",Detroit
+1991-01-01,178.4,MI,"Detroit-Warren-Dearborn, MI",Detroit
+1992-01-01,188.0,MI,"Detroit-Warren-Dearborn, MI",Detroit
+1993-01-01,193.0,MI,"Detroit-Warren-Dearborn, MI",Detroit
+1994-01-01,198.9,MI,"Detroit-Warren-Dearborn, MI",Detroit
+1995-01-01,204.3,MI,"Detroit-Warren-Dearborn, MI",Detroit
+1996-01-01,210.1,MI,"Detroit-Warren-Dearborn, MI",Detroit
+1997-01-01,214.5,MI,"Detroit-Warren-Dearborn, MI",Detroit
+1998-01-01,215.8,MI,"Detroit-Warren-Dearborn, MI",Detroit
+1999-01-01,216.6,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2000-01-01,220.4,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2001-01-01,223.4,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2002-01-01,226.4,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2003-01-01,226.1,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2004-01-01,230.0,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2005-01-01,236.0,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2006-01-01,241.0,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2007-01-01,245.4,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2008-01-01,249.6,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2009-01-01,252.3,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2010-01-01,254.3,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2011-01-01,262.5,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2012-01-01,267.6,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2013-01-01,270.2,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2014-01-01,271.0,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2015-01-01,274.4,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2016-01-01,280.7,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2017-01-01,284.3,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2018-01-01,286.8,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2019-01-01,289.7,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2020-01-01,265.6,MI,"Detroit-Warren-Dearborn, MI",Detroit
+1990-01-01,86.5,OH,"Cincinnati, OH-KY-IN",Cincinnati
+1991-01-01,90.0,OH,"Cincinnati, OH-KY-IN",Cincinnati
+1992-01-01,92.4,OH,"Cincinnati, OH-KY-IN",Cincinnati
+1993-01-01,93.8,OH,"Cincinnati, OH-KY-IN",Cincinnati
+1994-01-01,96.0,OH,"Cincinnati, OH-KY-IN",Cincinnati
+1995-01-01,97.8,OH,"Cincinnati, OH-KY-IN",Cincinnati
+1996-01-01,99.3,OH,"Cincinnati, OH-KY-IN",Cincinnati
+1997-01-01,101.9,OH,"Cincinnati, OH-KY-IN",Cincinnati
+1998-01-01,103.3,OH,"Cincinnati, OH-KY-IN",Cincinnati
+1999-01-01,106.5,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2000-01-01,107.5,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2001-01-01,109.2,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2002-01-01,112.3,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2003-01-01,114.1,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2004-01-01,117.1,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2005-01-01,119.9,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2006-01-01,123.2,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2007-01-01,126.4,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2008-01-01,129.2,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2009-01-01,129.8,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2010-01-01,130.3,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2011-01-01,131.7,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2012-01-01,134.1,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2013-01-01,137.4,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2014-01-01,140.8,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2015-01-01,142.5,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2016-01-01,144.5,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2017-01-01,146.7,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2018-01-01,148.8,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2019-01-01,152.0,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2020-01-01,148.1,OH,"Cincinnati, OH-KY-IN",Cincinnati
+1990-01-01,25.1,KS,"Wichita, KS",Wichita
+1991-01-01,26.1,KS,"Wichita, KS",Wichita
+1992-01-01,26.9,KS,"Wichita, KS",Wichita
+1993-01-01,27.6,KS,"Wichita, KS",Wichita
+1994-01-01,27.9,KS,"Wichita, KS",Wichita
+1995-01-01,28.7,KS,"Wichita, KS",Wichita
+1996-01-01,29.1,KS,"Wichita, KS",Wichita
+1997-01-01,30.2,KS,"Wichita, KS",Wichita
+1998-01-01,31.2,KS,"Wichita, KS",Wichita
+1999-01-01,32.2,KS,"Wichita, KS",Wichita
+2000-01-01,31.9,KS,"Wichita, KS",Wichita
+2001-01-01,32.6,KS,"Wichita, KS",Wichita
+2002-01-01,33.8,KS,"Wichita, KS",Wichita
+2003-01-01,33.7,KS,"Wichita, KS",Wichita
+2004-01-01,34.8,KS,"Wichita, KS",Wichita
+2005-01-01,36.0,KS,"Wichita, KS",Wichita
+2006-01-01,36.3,KS,"Wichita, KS",Wichita
+2007-01-01,36.9,KS,"Wichita, KS",Wichita
+2008-01-01,37.6,KS,"Wichita, KS",Wichita
+2009-01-01,38.3,KS,"Wichita, KS",Wichita
+2010-01-01,37.9,KS,"Wichita, KS",Wichita
+2011-01-01,38.4,KS,"Wichita, KS",Wichita
+2012-01-01,38.5,KS,"Wichita, KS",Wichita
+2013-01-01,38.7,KS,"Wichita, KS",Wichita
+2014-01-01,38.9,KS,"Wichita, KS",Wichita
+2015-01-01,39.0,KS,"Wichita, KS",Wichita
+2016-01-01,39.0,KS,"Wichita, KS",Wichita
+2017-01-01,38.6,KS,"Wichita, KS",Wichita
+2018-01-01,39.6,KS,"Wichita, KS",Wichita
+2019-01-01,41.1,KS,"Wichita, KS",Wichita
+2020-01-01,41.5,KS,"Wichita, KS",Wichita
+1990-01-01,15.9,NJ,"Trenton-Princeton, NJ",Trenton
+1991-01-01,17.0,NJ,"Trenton-Princeton, NJ",Trenton
+1992-01-01,17.9,NJ,"Trenton-Princeton, NJ",Trenton
+1993-01-01,18.7,NJ,"Trenton-Princeton, NJ",Trenton
+1994-01-01,18.9,NJ,"Trenton-Princeton, NJ",Trenton
+1995-01-01,19.3,NJ,"Trenton-Princeton, NJ",Trenton
+1996-01-01,19.4,NJ,"Trenton-Princeton, NJ",Trenton
+1997-01-01,19.6,NJ,"Trenton-Princeton, NJ",Trenton
+1998-01-01,20.3,NJ,"Trenton-Princeton, NJ",Trenton
+1999-01-01,20.9,NJ,"Trenton-Princeton, NJ",Trenton
+2000-01-01,21.2,NJ,"Trenton-Princeton, NJ",Trenton
+2001-01-01,21.0,NJ,"Trenton-Princeton, NJ",Trenton
+2002-01-01,21.6,NJ,"Trenton-Princeton, NJ",Trenton
+2003-01-01,22.3,NJ,"Trenton-Princeton, NJ",Trenton
+2004-01-01,23.4,NJ,"Trenton-Princeton, NJ",Trenton
+2005-01-01,24.3,NJ,"Trenton-Princeton, NJ",Trenton
+2006-01-01,24.7,NJ,"Trenton-Princeton, NJ",Trenton
+2007-01-01,25.1,NJ,"Trenton-Princeton, NJ",Trenton
+2008-01-01,25.4,NJ,"Trenton-Princeton, NJ",Trenton
+2009-01-01,26.2,NJ,"Trenton-Princeton, NJ",Trenton
+2010-01-01,26.8,NJ,"Trenton-Princeton, NJ",Trenton
+2011-01-01,27.1,NJ,"Trenton-Princeton, NJ",Trenton
+2012-01-01,26.0,NJ,"Trenton-Princeton, NJ",Trenton
+2013-01-01,25.1,NJ,"Trenton-Princeton, NJ",Trenton
+2014-01-01,26.0,NJ,"Trenton-Princeton, NJ",Trenton
+2015-01-01,26.4,NJ,"Trenton-Princeton, NJ",Trenton
+2016-01-01,27.2,NJ,"Trenton-Princeton, NJ",Trenton
+2017-01-01,27.4,NJ,"Trenton-Princeton, NJ",Trenton
+2018-01-01,27.7,NJ,"Trenton-Princeton, NJ",Trenton
+2019-01-01,28.4,NJ,"Trenton-Princeton, NJ",Trenton
+2020-01-01,26.4,NJ,"Trenton-Princeton, NJ",Trenton
+1990-01-01,13.1,IL,"Rockford, IL",Rockford
+1991-01-01,14.4,IL,"Rockford, IL",Rockford
+1992-01-01,15.0,IL,"Rockford, IL",Rockford
+1993-01-01,15.5,IL,"Rockford, IL",Rockford
+1994-01-01,16.2,IL,"Rockford, IL",Rockford
+1995-01-01,16.5,IL,"Rockford, IL",Rockford
+1996-01-01,16.7,IL,"Rockford, IL",Rockford
+1997-01-01,16.4,IL,"Rockford, IL",Rockford
+1998-01-01,16.8,IL,"Rockford, IL",Rockford
+1999-01-01,17.4,IL,"Rockford, IL",Rockford
+2000-01-01,17.8,IL,"Rockford, IL",Rockford
+2001-01-01,18.1,IL,"Rockford, IL",Rockford
+2002-01-01,18.7,IL,"Rockford, IL",Rockford
+2003-01-01,19.1,IL,"Rockford, IL",Rockford
+2004-01-01,19.1,IL,"Rockford, IL",Rockford
+2005-01-01,19.4,IL,"Rockford, IL",Rockford
+2006-01-01,19.5,IL,"Rockford, IL",Rockford
+2007-01-01,19.8,IL,"Rockford, IL",Rockford
+2008-01-01,20.5,IL,"Rockford, IL",Rockford
+2009-01-01,21.0,IL,"Rockford, IL",Rockford
+2010-01-01,21.1,IL,"Rockford, IL",Rockford
+2011-01-01,21.4,IL,"Rockford, IL",Rockford
+2012-01-01,21.6,IL,"Rockford, IL",Rockford
+2013-01-01,21.9,IL,"Rockford, IL",Rockford
+2014-01-01,21.9,IL,"Rockford, IL",Rockford
+2015-01-01,21.6,IL,"Rockford, IL",Rockford
+2016-01-01,22.1,IL,"Rockford, IL",Rockford
+2017-01-01,22.0,IL,"Rockford, IL",Rockford
+2018-01-01,22.5,IL,"Rockford, IL",Rockford
+2019-01-01,23.1,IL,"Rockford, IL",Rockford
+2020-01-01,22.6,IL,"Rockford, IL",Rockford
+1990-01-01,9.4,VT,"Burlington-South Burlington, VT",Burlington
+1991-01-01,9.8,VT,"Burlington-South Burlington, VT",Burlington
+1992-01-01,10.1,VT,"Burlington-South Burlington, VT",Burlington
+1993-01-01,10.5,VT,"Burlington-South Burlington, VT",Burlington
+1994-01-01,10.8,VT,"Burlington-South Burlington, VT",Burlington
+1995-01-01,11.4,VT,"Burlington-South Burlington, VT",Burlington
+1996-01-01,11.5,VT,"Burlington-South Burlington, VT",Burlington
+1997-01-01,11.4,VT,"Burlington-South Burlington, VT",Burlington
+1998-01-01,11.9,VT,"Burlington-South Burlington, VT",Burlington
+1999-01-01,12.3,VT,"Burlington-South Burlington, VT",Burlington
+2000-01-01,12.9,VT,"Burlington-South Burlington, VT",Burlington
+2001-01-01,13.6,VT,"Burlington-South Burlington, VT",Burlington
+2002-01-01,14.1,VT,"Burlington-South Burlington, VT",Burlington
+2003-01-01,14.5,VT,"Burlington-South Burlington, VT",Burlington
+2004-01-01,14.7,VT,"Burlington-South Burlington, VT",Burlington
+2005-01-01,14.9,VT,"Burlington-South Burlington, VT",Burlington
+2006-01-01,15.3,VT,"Burlington-South Burlington, VT",Burlington
+2007-01-01,15.8,VT,"Burlington-South Burlington, VT",Burlington
+2008-01-01,16.3,VT,"Burlington-South Burlington, VT",Burlington
+2009-01-01,16.6,VT,"Burlington-South Burlington, VT",Burlington
+2010-01-01,16.5,VT,"Burlington-South Burlington, VT",Burlington
+2011-01-01,16.4,VT,"Burlington-South Burlington, VT",Burlington
+2012-01-01,16.7,VT,"Burlington-South Burlington, VT",Burlington
+2013-01-01,17.2,VT,"Burlington-South Burlington, VT",Burlington
+2014-01-01,17.5,VT,"Burlington-South Burlington, VT",Burlington
+2015-01-01,17.8,VT,"Burlington-South Burlington, VT",Burlington
+2016-01-01,18.7,VT,"Burlington-South Burlington, VT",Burlington
+2017-01-01,19.0,VT,"Burlington-South Burlington, VT",Burlington
+2018-01-01,19.0,VT,"Burlington-South Burlington, VT",Burlington
+2019-01-01,19.2,VT,"Burlington-South Burlington, VT",Burlington
+2020-01-01,18.2,VT,"Burlington-South Burlington, VT",Burlington
+1990-01-01,4.9,CA,"Napa, CA",Napa
+1991-01-01,4.9,CA,"Napa, CA",Napa
+1992-01-01,5.1,CA,"Napa, CA",Napa
+1993-01-01,5.3,CA,"Napa, CA",Napa
+1994-01-01,5.2,CA,"Napa, CA",Napa
+1995-01-01,5.4,CA,"Napa, CA",Napa
+1996-01-01,5.4,CA,"Napa, CA",Napa
+1997-01-01,5.6,CA,"Napa, CA",Napa
+1998-01-01,6.0,CA,"Napa, CA",Napa
+1999-01-01,6.1,CA,"Napa, CA",Napa
+2000-01-01,6.1,CA,"Napa, CA",Napa
+2001-01-01,6.4,CA,"Napa, CA",Napa
+2002-01-01,6.4,CA,"Napa, CA",Napa
+2003-01-01,6.3,CA,"Napa, CA",Napa
+2004-01-01,6.4,CA,"Napa, CA",Napa
+2005-01-01,6.4,CA,"Napa, CA",Napa
+2006-01-01,6.3,CA,"Napa, CA",Napa
+2007-01-01,6.7,CA,"Napa, CA",Napa
+2008-01-01,6.8,CA,"Napa, CA",Napa
+2009-01-01,6.8,CA,"Napa, CA",Napa
+2010-01-01,7.1,CA,"Napa, CA",Napa
+2011-01-01,7.4,CA,"Napa, CA",Napa
+2012-01-01,7.5,CA,"Napa, CA",Napa
+2013-01-01,8.2,CA,"Napa, CA",Napa
+2014-01-01,8.3,CA,"Napa, CA",Napa
+2015-01-01,8.2,CA,"Napa, CA",Napa
+2016-01-01,8.3,CA,"Napa, CA",Napa
+2017-01-01,8.5,CA,"Napa, CA",Napa
+2018-01-01,8.5,CA,"Napa, CA",Napa
+2019-01-01,8.7,CA,"Napa, CA",Napa
+2020-01-01,8.4,CA,"Napa, CA",Napa

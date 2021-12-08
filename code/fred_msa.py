@@ -175,7 +175,9 @@ def get_all_series(api_key, series_df, keyword):
     '''
     reg_keyword = r'^{}'.format(keyword)
     subseries = series_df[series_df.title.str.match(reg_keyword)==True].reset_index(drop=True)
-    
+    subseries = subseries.sort_values(['msa', 'frequency', 'seasonal_adjustment'], ascending=[True, False, False])
+    subseries = subseries.groupby(['msa']).head(1).reset_index()
+    #print(subseries[['city', 'frequency', 'seasonal_adjustment']])
     output= pd.DataFrame()
     
     for idx in range(len(subseries)):
@@ -183,6 +185,11 @@ def get_all_series(api_key, series_df, keyword):
         series_output['state'] = subseries.state[idx]
         series_output['msa'] = subseries.msa[idx]
         series_output['city'] = subseries.city[idx]
+        series_output['title'] = subseries.title[idx]
+        series_output['id'] = subseries.id[idx]
+        series_output['frequency'] = subseries.frequency[idx]
+        series_output['seasonal_adjustment'] = subseries.seasonal_adjustment[idx]
+        
         series_output = series_output.rename(columns={'value' : keyword})
         series_output = series_output.drop(columns=['realtime_start', 'realtime_end'])
         
