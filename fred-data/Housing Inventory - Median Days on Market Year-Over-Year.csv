@@ -1,0 +1,1114 @@
+date,Housing Inventory: Median Days on Market Year-Over-Year,state,msa,city
+2017-07-01,-7.1428571,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2017-08-01,-10.6918239,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2017-09-01,-12.4260355,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2017-10-01,-10.8433735,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2017-11-01,-12.5,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2017-12-01,-8.6956522,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2018-01-01,-6.7708333,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2018-02-01,-8.3798883,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2018-03-01,-7.2,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2018-04-01,-3.4482759,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2018-05-01,-8.8495575,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2018-06-01,-8.6206897,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2018-07-01,-3.8461538,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2018-08-01,-5.6338028,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2018-09-01,-4.0540541,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2018-10-01,-7.4324324,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2018-11-01,-5.4421769,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2018-12-01,-2.3809524,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2019-01-01,-2.2346369,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2019-02-01,-0.6097561,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2019-03-01,-1.7241379,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2019-04-01,-8.0357143,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2019-05-01,0.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2019-06-01,7.5471698,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2019-07-01,1.6,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2019-08-01,7.4626866,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2019-09-01,0.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2019-10-01,-2.189781,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2019-11-01,-5.0359712,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2019-12-01,1.8292683,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2020-01-01,4.5714286,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2020-02-01,-5.5214724,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2020-03-01,-1.754386,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2020-04-01,8.7378641,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2020-05-01,43.6893204,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2020-06-01,35.0877193,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2020-07-01,-23.6220472,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2020-08-01,-37.5,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2020-09-01,-29.5774648,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2020-10-01,-26.8656716,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2020-11-01,-4.5454545,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2020-12-01,-10.1796407,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2021-01-01,-7.1038251,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2021-02-01,8.4415584,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2021-03-01,6.25,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2021-04-01,-13.3928571,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2021-05-01,-40.5405405,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2021-06-01,-42.2077922,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2021-07-01,2.0618557,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2021-08-01,7.7777778,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2021-09-01,-2.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2021-10-01,8.1632653,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2021-11-01,-9.5238095,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2017-07-01,-11.1111111,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2017-08-01,-11.3043478,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2017-09-01,-11.8644068,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2017-10-01,-12.295082,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2017-11-01,-10.4477612,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2017-12-01,-10.1265823,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2018-01-01,-9.6385542,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2018-02-01,-11.2,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2018-03-01,-4.4444444,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2018-04-01,-11.9565217,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2018-05-01,-12.9032258,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2018-06-01,-8.6956522,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2018-07-01,-8.3333333,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2018-08-01,-7.8431373,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2018-09-01,-5.7692308,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2018-10-01,-5.6074766,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2018-11-01,-6.6666667,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2018-12-01,-4.2253521,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2019-01-01,-3.3333333,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2019-02-01,0.9009009,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2019-03-01,0.0,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2019-04-01,-3.7037037,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2019-05-01,1.2345679,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2019-06-01,2.3809524,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2019-07-01,0.0,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2019-08-01,0.0,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2019-09-01,0.0,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2019-10-01,-2.970297,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2019-11-01,0.0,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2019-12-01,0.0,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2020-01-01,0.0,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2020-02-01,-19.6428571,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2020-03-01,-1.1627907,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2020-04-01,32.0512821,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2020-05-01,46.3414634,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2020-06-01,5.8139535,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2020-07-01,-4.5454545,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2020-08-01,-10.6382979,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2020-09-01,-14.2857143,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2020-10-01,-12.244898,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2020-11-01,-10.7142857,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2020-12-01,-13.2352941,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2021-01-01,-11.7241379,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2021-02-01,4.4444444,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2021-03-01,1.1764706,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2021-04-01,-30.0970874,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2021-05-01,-40.0,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2021-06-01,-27.4725275,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2021-07-01,-15.4761905,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2021-08-01,-15.4761905,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2021-09-01,-9.5238095,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2021-10-01,-4.6511628,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2021-11-01,-10.0,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2017-07-01,0.0,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2017-08-01,3.4090909,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2017-09-01,2.0408163,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2017-10-01,7.8431373,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2017-11-01,4.6728972,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2017-12-01,0.0,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2018-01-01,2.3255814,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2018-02-01,9.4736842,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2018-03-01,4.7619048,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2018-04-01,-1.1627907,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2018-05-01,-9.3023256,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2018-06-01,-1.1764706,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2018-07-01,-4.5454545,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2018-08-01,4.3956044,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2018-09-01,6.0,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2018-10-01,4.5454545,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2018-11-01,4.4642857,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2018-12-01,4.7619048,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2019-01-01,5.3030303,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2019-02-01,12.5,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2019-03-01,11.3636364,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2019-04-01,5.8823529,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2019-05-01,15.3846154,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2019-06-01,16.6666667,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2019-07-01,16.6666667,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2019-08-01,7.3684211,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2019-09-01,5.6603774,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2019-10-01,-1.7391304,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2019-11-01,0.8547009,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2019-12-01,-2.2727273,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2020-01-01,-2.8776978,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2020-02-01,-2.5641026,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2020-03-01,-7.1428571,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2020-04-01,10.0,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2020-05-01,22.2222222,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2020-06-01,-2.0408163,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2020-07-01,-4.0816327,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2020-08-01,-9.8039216,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2020-09-01,-17.8571429,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2020-10-01,-15.0442478,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2020-11-01,-16.1016949,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2020-12-01,-19.379845,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2021-01-01,-21.4814815,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2021-02-01,-24.5614035,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2021-03-01,-10.989011,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2021-04-01,-33.3333333,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2021-05-01,-43.6363636,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2021-06-01,-39.5833333,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2021-07-01,-37.2340426,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2021-08-01,-32.6086957,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2021-09-01,-22.826087,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2021-10-01,-22.9166667,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2021-11-01,-21.2121212,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2017-07-01,-3.7735849,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2017-08-01,-1.8348624,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2017-09-01,9.4017094,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2017-10-01,11.2903226,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2017-11-01,3.125,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2017-12-01,-1.4084507,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2018-01-01,0.6849315,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2018-02-01,4.8780488,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2018-03-01,-2.970297,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2018-04-01,-11.0,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2018-05-01,-10.4166667,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2018-06-01,-9.0909091,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2018-07-01,0.9803922,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2018-08-01,0.9345794,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2018-09-01,-7.8125,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2018-10-01,-7.9710145,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2018-11-01,-3.030303,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2018-12-01,-1.4285714,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2019-01-01,0.6802721,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2019-02-01,1.5503876,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2019-03-01,12.244898,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2019-04-01,14.6067416,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2019-05-01,17.4418605,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2019-06-01,15.5555556,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2019-07-01,1.9417476,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2019-08-01,5.5555556,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2019-09-01,0.8474576,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2019-10-01,-0.7874016,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2019-11-01,0.0,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2019-12-01,0.0,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2020-01-01,-4.0540541,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2020-02-01,-11.4503817,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2020-03-01,-10.9090909,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2020-04-01,6.8627451,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2020-05-01,24.7524752,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2020-06-01,9.6153846,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2020-07-01,-0.952381,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2020-08-01,-12.2807018,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2020-09-01,-15.9663866,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2020-10-01,-20.6349206,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2020-11-01,-21.875,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2020-12-01,-20.2898551,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2021-01-01,-15.4929577,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2021-02-01,-11.2068966,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2021-03-01,4.0816327,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2021-04-01,-22.0183486,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2021-05-01,-39.6825397,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2021-06-01,-35.9649123,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2021-07-01,-30.7692308,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2021-08-01,-26.0,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2021-09-01,-17.0,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2021-10-01,-10.0,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2021-11-01,-6.0,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2017-07-01,-15.9090909,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2017-08-01,-13.6363636,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2017-09-01,-10.2040816,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2017-10-01,-9.8039216,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2017-11-01,-2.8301887,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2017-12-01,-3.2258065,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2018-01-01,-5.0,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2018-02-01,8.4745763,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2018-03-01,3.0927835,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2018-04-01,-12.5,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2018-05-01,-5.2631579,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2018-06-01,0.0,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2018-07-01,0.0,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2018-08-01,-3.9473684,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2018-09-01,-9.0909091,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2018-10-01,-3.2608696,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2018-11-01,-8.7378641,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2018-12-01,-3.3333333,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2019-01-01,-3.0075188,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2019-02-01,-1.5625,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2019-03-01,2.0,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2019-04-01,-2.5974026,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2019-05-01,-1.3888889,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2019-06-01,0.0,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2019-07-01,0.0,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2019-08-01,6.8493151,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2019-09-01,13.75,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2019-10-01,2.247191,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2019-11-01,6.3829787,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2019-12-01,6.0344828,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2020-01-01,5.4263566,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2020-02-01,-6.3492063,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2020-03-01,-5.8823529,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2020-04-01,58.6666667,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2020-05-01,88.7323944,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2020-06-01,6.9444444,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2020-07-01,2.7027027,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2020-08-01,-7.6923077,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2020-09-01,-18.6813187,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2020-10-01,-18.6813187,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2020-11-01,-17.0,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2020-12-01,-17.0731707,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2021-01-01,-17.6470588,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2021-02-01,-23.7288136,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2021-03-01,-30.2083333,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2021-04-01,-57.9831933,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2021-05-01,-67.1641791,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2021-06-01,-46.7532468,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2021-07-01,-39.4736842,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2021-08-01,-31.9444444,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2021-09-01,-18.9189189,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2021-10-01,-13.5135135,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2021-11-01,-14.4578313,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2017-07-01,-12.2807018,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2017-08-01,-12.605042,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2017-09-01,-11.8110236,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2017-10-01,-12.3076923,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2017-11-01,-8.9552239,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2017-12-01,-6.4935065,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2018-01-01,0.621118,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2018-02-01,6.993007,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2018-03-01,1.8181818,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2018-04-01,-4.8076923,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2018-05-01,-11.0,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2018-06-01,-6.5217391,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2018-07-01,-10.0,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2018-08-01,-8.6538462,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2018-09-01,-8.9285714,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2018-10-01,-2.6315789,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2018-11-01,-7.3770492,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2018-12-01,-8.3333333,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2019-01-01,-9.2592593,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2019-02-01,-7.1895425,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2019-03-01,0.0,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2019-04-01,-5.0505051,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2019-05-01,-3.3707865,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2019-06-01,2.3255814,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2019-07-01,8.8888889,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2019-08-01,5.2631579,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2019-09-01,-0.9803922,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2019-10-01,-8.1081081,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2019-11-01,-7.9646018,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2019-12-01,-1.5151515,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2020-01-01,4.0816327,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2020-02-01,-7.0422535,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2020-03-01,-14.2857143,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2020-04-01,2.1276596,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2020-05-01,23.255814,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2020-06-01,14.7727273,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2020-07-01,-4.0816327,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2020-08-01,-12.0,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2020-09-01,-22.7722772,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2020-10-01,-21.5686275,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2020-11-01,-19.2307692,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2020-12-01,-16.1538462,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2021-01-01,-17.6470588,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2021-02-01,-6.8181818,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2021-03-01,-1.0416667,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2021-04-01,-19.7916667,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2021-05-01,-37.7358491,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2021-06-01,-36.6336634,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2021-07-01,-35.106383,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2021-08-01,-29.5454545,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2021-09-01,-6.4102564,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2021-10-01,5.0,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2021-11-01,2.3809524,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2017-07-01,-2.5974026,SC,"Charleston-North Charleston, SC",Charleston
+2017-08-01,-1.8292683,SC,"Charleston-North Charleston, SC",Charleston
+2017-09-01,-1.1627907,SC,"Charleston-North Charleston, SC",Charleston
+2017-10-01,-7.6086957,SC,"Charleston-North Charleston, SC",Charleston
+2017-11-01,-11.1111111,SC,"Charleston-North Charleston, SC",Charleston
+2017-12-01,-10.8910891,SC,"Charleston-North Charleston, SC",Charleston
+2018-01-01,-7.3732719,SC,"Charleston-North Charleston, SC",Charleston
+2018-02-01,1.5873016,SC,"Charleston-North Charleston, SC",Charleston
+2018-03-01,-5.1851852,SC,"Charleston-North Charleston, SC",Charleston
+2018-04-01,7.3770492,SC,"Charleston-North Charleston, SC",Charleston
+2018-05-01,0.0,SC,"Charleston-North Charleston, SC",Charleston
+2018-06-01,-0.6993007,SC,"Charleston-North Charleston, SC",Charleston
+2018-07-01,-2.6666667,SC,"Charleston-North Charleston, SC",Charleston
+2018-08-01,-3.1055901,SC,"Charleston-North Charleston, SC",Charleston
+2018-09-01,-5.8823529,SC,"Charleston-North Charleston, SC",Charleston
+2018-10-01,-4.7058824,SC,"Charleston-North Charleston, SC",Charleston
+2018-11-01,0.5952381,SC,"Charleston-North Charleston, SC",Charleston
+2018-12-01,1.1111111,SC,"Charleston-North Charleston, SC",Charleston
+2019-01-01,-3.9800995,SC,"Charleston-North Charleston, SC",Charleston
+2019-02-01,-3.125,SC,"Charleston-North Charleston, SC",Charleston
+2019-03-01,3.125,SC,"Charleston-North Charleston, SC",Charleston
+2019-04-01,0.0,SC,"Charleston-North Charleston, SC",Charleston
+2019-05-01,2.238806,SC,"Charleston-North Charleston, SC",Charleston
+2019-06-01,0.0,SC,"Charleston-North Charleston, SC",Charleston
+2019-07-01,1.369863,SC,"Charleston-North Charleston, SC",Charleston
+2019-08-01,0.0,SC,"Charleston-North Charleston, SC",Charleston
+2019-09-01,6.875,SC,"Charleston-North Charleston, SC",Charleston
+2019-10-01,3.7037037,SC,"Charleston-North Charleston, SC",Charleston
+2019-11-01,-0.591716,SC,"Charleston-North Charleston, SC",Charleston
+2019-12-01,-3.2967033,SC,"Charleston-North Charleston, SC",Charleston
+2020-01-01,-3.1088083,SC,"Charleston-North Charleston, SC",Charleston
+2020-02-01,-5.3763441,SC,"Charleston-North Charleston, SC",Charleston
+2020-03-01,-3.7878788,SC,"Charleston-North Charleston, SC",Charleston
+2020-04-01,3.0534351,SC,"Charleston-North Charleston, SC",Charleston
+2020-05-01,13.8686131,SC,"Charleston-North Charleston, SC",Charleston
+2020-06-01,16.9014085,SC,"Charleston-North Charleston, SC",Charleston
+2020-07-01,-4.0540541,SC,"Charleston-North Charleston, SC",Charleston
+2020-08-01,-16.6666667,SC,"Charleston-North Charleston, SC",Charleston
+2020-09-01,-26.9005848,SC,"Charleston-North Charleston, SC",Charleston
+2020-10-01,-26.1904762,SC,"Charleston-North Charleston, SC",Charleston
+2020-11-01,-25.5952381,SC,"Charleston-North Charleston, SC",Charleston
+2020-12-01,-19.8863636,SC,"Charleston-North Charleston, SC",Charleston
+2021-01-01,-16.5775401,SC,"Charleston-North Charleston, SC",Charleston
+2021-02-01,-26.1363636,SC,"Charleston-North Charleston, SC",Charleston
+2021-03-01,-25.984252,SC,"Charleston-North Charleston, SC",Charleston
+2021-04-01,-35.5555556,SC,"Charleston-North Charleston, SC",Charleston
+2021-05-01,-51.2820513,SC,"Charleston-North Charleston, SC",Charleston
+2021-06-01,-64.4578313,SC,"Charleston-North Charleston, SC",Charleston
+2021-07-01,-58.4507042,SC,"Charleston-North Charleston, SC",Charleston
+2021-08-01,-46.9230769,SC,"Charleston-North Charleston, SC",Charleston
+2021-09-01,-44.0,SC,"Charleston-North Charleston, SC",Charleston
+2021-10-01,-32.2580645,SC,"Charleston-North Charleston, SC",Charleston
+2021-11-01,-32.8,SC,"Charleston-North Charleston, SC",Charleston
+2017-07-01,-7.5,UT,"Ogden-Clearfield, UT",Ogden
+2017-08-01,-13.253012,UT,"Ogden-Clearfield, UT",Ogden
+2017-09-01,-6.0240964,UT,"Ogden-Clearfield, UT",Ogden
+2017-10-01,-6.3829787,UT,"Ogden-Clearfield, UT",Ogden
+2017-11-01,-13.4615385,UT,"Ogden-Clearfield, UT",Ogden
+2017-12-01,-16.3934426,UT,"Ogden-Clearfield, UT",Ogden
+2018-01-01,-17.6056338,UT,"Ogden-Clearfield, UT",Ogden
+2018-02-01,-34.375,UT,"Ogden-Clearfield, UT",Ogden
+2018-03-01,-22.5806452,UT,"Ogden-Clearfield, UT",Ogden
+2018-04-01,-1.5151515,UT,"Ogden-Clearfield, UT",Ogden
+2018-05-01,-1.6666667,UT,"Ogden-Clearfield, UT",Ogden
+2018-06-01,-5.7142857,UT,"Ogden-Clearfield, UT",Ogden
+2018-07-01,-2.7027027,UT,"Ogden-Clearfield, UT",Ogden
+2018-08-01,2.7777778,UT,"Ogden-Clearfield, UT",Ogden
+2018-09-01,-7.6923077,UT,"Ogden-Clearfield, UT",Ogden
+2018-10-01,-10.2272727,UT,"Ogden-Clearfield, UT",Ogden
+2018-11-01,1.1111111,UT,"Ogden-Clearfield, UT",Ogden
+2018-12-01,9.8039216,UT,"Ogden-Clearfield, UT",Ogden
+2019-01-01,9.4017094,UT,"Ogden-Clearfield, UT",Ogden
+2019-02-01,22.6190476,UT,"Ogden-Clearfield, UT",Ogden
+2019-03-01,16.6666667,UT,"Ogden-Clearfield, UT",Ogden
+2019-04-01,16.9230769,UT,"Ogden-Clearfield, UT",Ogden
+2019-05-01,10.1694915,UT,"Ogden-Clearfield, UT",Ogden
+2019-06-01,-6.0606061,UT,"Ogden-Clearfield, UT",Ogden
+2019-07-01,-1.3888889,UT,"Ogden-Clearfield, UT",Ogden
+2019-08-01,13.5135135,UT,"Ogden-Clearfield, UT",Ogden
+2019-09-01,36.1111111,UT,"Ogden-Clearfield, UT",Ogden
+2019-10-01,1.2658228,UT,"Ogden-Clearfield, UT",Ogden
+2019-11-01,1.0989011,UT,"Ogden-Clearfield, UT",Ogden
+2019-12-01,0.8928571,UT,"Ogden-Clearfield, UT",Ogden
+2020-01-01,4.6875,UT,"Ogden-Clearfield, UT",Ogden
+2020-02-01,-24.2718447,UT,"Ogden-Clearfield, UT",Ogden
+2020-03-01,-35.7142857,UT,"Ogden-Clearfield, UT",Ogden
+2020-04-01,-27.6315789,UT,"Ogden-Clearfield, UT",Ogden
+2020-05-01,29.2307692,UT,"Ogden-Clearfield, UT",Ogden
+2020-06-01,11.2903226,UT,"Ogden-Clearfield, UT",Ogden
+2020-07-01,4.2253521,UT,"Ogden-Clearfield, UT",Ogden
+2020-08-01,-23.8095238,UT,"Ogden-Clearfield, UT",Ogden
+2020-09-01,-41.8367347,UT,"Ogden-Clearfield, UT",Ogden
+2020-10-01,-30.0,UT,"Ogden-Clearfield, UT",Ogden
+2020-11-01,-33.6956522,UT,"Ogden-Clearfield, UT",Ogden
+2020-12-01,-23.0088496,UT,"Ogden-Clearfield, UT",Ogden
+2021-01-01,-44.7761194,UT,"Ogden-Clearfield, UT",Ogden
+2021-02-01,-60.2564103,UT,"Ogden-Clearfield, UT",Ogden
+2021-03-01,-68.5185185,UT,"Ogden-Clearfield, UT",Ogden
+2021-04-01,-67.2727273,UT,"Ogden-Clearfield, UT",Ogden
+2021-05-01,-80.952381,UT,"Ogden-Clearfield, UT",Ogden
+2021-06-01,-73.9130435,UT,"Ogden-Clearfield, UT",Ogden
+2021-07-01,-62.1621622,UT,"Ogden-Clearfield, UT",Ogden
+2021-08-01,-54.6875,UT,"Ogden-Clearfield, UT",Ogden
+2021-09-01,-35.0877193,UT,"Ogden-Clearfield, UT",Ogden
+2021-10-01,-21.4285714,UT,"Ogden-Clearfield, UT",Ogden
+2021-11-01,-21.3114754,UT,"Ogden-Clearfield, UT",Ogden
+2017-07-01,-14.0350877,KS,"Wichita, KS",Wichita
+2017-08-01,-9.8214286,KS,"Wichita, KS",Wichita
+2017-09-01,-10.5263158,KS,"Wichita, KS",Wichita
+2017-10-01,-4.3103448,KS,"Wichita, KS",Wichita
+2017-11-01,7.5630252,KS,"Wichita, KS",Wichita
+2017-12-01,1.3888889,KS,"Wichita, KS",Wichita
+2018-01-01,0.6493506,KS,"Wichita, KS",Wichita
+2018-02-01,9.7902098,KS,"Wichita, KS",Wichita
+2018-03-01,5.5555556,KS,"Wichita, KS",Wichita
+2018-04-01,-4.9019608,KS,"Wichita, KS",Wichita
+2018-05-01,-12.6213592,KS,"Wichita, KS",Wichita
+2018-06-01,-11.7647059,KS,"Wichita, KS",Wichita
+2018-07-01,5.1020408,KS,"Wichita, KS",Wichita
+2018-08-01,12.8712871,KS,"Wichita, KS",Wichita
+2018-09-01,3.9215686,KS,"Wichita, KS",Wichita
+2018-10-01,1.8018018,KS,"Wichita, KS",Wichita
+2018-11-01,-11.71875,KS,"Wichita, KS",Wichita
+2018-12-01,-9.5890411,KS,"Wichita, KS",Wichita
+2019-01-01,-2.5806452,KS,"Wichita, KS",Wichita
+2019-02-01,-7.6433121,KS,"Wichita, KS",Wichita
+2019-03-01,0.0,KS,"Wichita, KS",Wichita
+2019-04-01,-3.0927835,KS,"Wichita, KS",Wichita
+2019-05-01,4.4444444,KS,"Wichita, KS",Wichita
+2019-06-01,8.8888889,KS,"Wichita, KS",Wichita
+2019-07-01,-2.9126214,KS,"Wichita, KS",Wichita
+2019-08-01,-8.7719298,KS,"Wichita, KS",Wichita
+2019-09-01,5.6603774,KS,"Wichita, KS",Wichita
+2019-10-01,2.6548673,KS,"Wichita, KS",Wichita
+2019-11-01,7.9646018,KS,"Wichita, KS",Wichita
+2019-12-01,4.5454545,KS,"Wichita, KS",Wichita
+2020-01-01,-0.6622517,KS,"Wichita, KS",Wichita
+2020-02-01,-0.6896552,KS,"Wichita, KS",Wichita
+2020-03-01,0.0,KS,"Wichita, KS",Wichita
+2020-04-01,22.3404255,KS,"Wichita, KS",Wichita
+2020-05-01,36.1702128,KS,"Wichita, KS",Wichita
+2020-06-01,18.3673469,KS,"Wichita, KS",Wichita
+2020-07-01,8.0,KS,"Wichita, KS",Wichita
+2020-08-01,-5.7692308,KS,"Wichita, KS",Wichita
+2020-09-01,-23.2142857,KS,"Wichita, KS",Wichita
+2020-10-01,-27.5862069,KS,"Wichita, KS",Wichita
+2020-11-01,-26.2295082,KS,"Wichita, KS",Wichita
+2020-12-01,-19.5652174,KS,"Wichita, KS",Wichita
+2021-01-01,-20.0,KS,"Wichita, KS",Wichita
+2021-02-01,-15.9722222,KS,"Wichita, KS",Wichita
+2021-03-01,-3.5087719,KS,"Wichita, KS",Wichita
+2021-04-01,-11.3043478,KS,"Wichita, KS",Wichita
+2021-05-01,-40.625,KS,"Wichita, KS",Wichita
+2021-06-01,-32.7586207,KS,"Wichita, KS",Wichita
+2021-07-01,-30.5555556,KS,"Wichita, KS",Wichita
+2021-08-01,-25.5102041,KS,"Wichita, KS",Wichita
+2021-09-01,-3.4883721,KS,"Wichita, KS",Wichita
+2021-10-01,0.0,KS,"Wichita, KS",Wichita
+2021-11-01,0.0,KS,"Wichita, KS",Wichita
+2017-07-01,-6.6037736,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2017-08-01,-7.3059361,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2017-09-01,-26.007326,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2017-10-01,-18.487395,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2017-11-01,-17.3553719,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2017-12-01,-17.1875,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2018-01-01,-11.4754098,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2018-02-01,-1.8957346,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2018-03-01,13.0952381,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2018-04-01,1.2345679,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2018-05-01,-6.2857143,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2018-06-01,-4.8128342,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2018-07-01,-3.030303,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2018-08-01,-7.3891626,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2018-09-01,-0.990099,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2018-10-01,5.6701031,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2018-11-01,4.5,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2018-12-01,8.490566,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2019-01-01,-0.9259259,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2019-02-01,-2.8985507,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2019-03-01,-4.2105263,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2019-04-01,0.0,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2019-05-01,5.4878049,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2019-06-01,2.247191,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2019-07-01,-3.6458333,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2019-08-01,4.2553191,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2019-09-01,-1.0,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2019-10-01,-5.8536585,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2019-11-01,-6.2200957,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2019-12-01,-10.0,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2020-01-01,-1.4018692,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2020-02-01,2.4875622,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2020-03-01,-4.9450549,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2020-04-01,3.6585366,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2020-05-01,8.6705202,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2020-06-01,11.5384615,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2020-07-01,10.2702703,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2020-08-01,-14.2857143,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2020-09-01,-20.2020202,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2020-10-01,-17.0984456,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2020-11-01,-19.3877551,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2020-12-01,-22.705314,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2021-01-01,-17.535545,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2021-02-01,-18.4466019,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2021-03-01,-23.699422,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2021-04-01,-27.6470588,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2021-05-01,-41.4893617,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2021-06-01,-55.1724138,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2021-07-01,-59.3137255,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2021-08-01,-55.952381,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2021-09-01,-48.7341772,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2021-10-01,-43.75,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2021-11-01,-41.1392405,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2017-07-01,1.4084507,NJ,"Trenton-Princeton, NJ",Trenton
+2017-08-01,-5.6962025,NJ,"Trenton-Princeton, NJ",Trenton
+2017-09-01,-8.2352941,NJ,"Trenton-Princeton, NJ",Trenton
+2017-10-01,-10.7954545,NJ,"Trenton-Princeton, NJ",Trenton
+2017-11-01,-15.2631579,NJ,"Trenton-Princeton, NJ",Trenton
+2017-12-01,-10.1010101,NJ,"Trenton-Princeton, NJ",Trenton
+2018-01-01,-7.8817734,NJ,"Trenton-Princeton, NJ",Trenton
+2018-02-01,-12.3655914,NJ,"Trenton-Princeton, NJ",Trenton
+2018-03-01,0.0,NJ,"Trenton-Princeton, NJ",Trenton
+2018-04-01,-12.9310345,NJ,"Trenton-Princeton, NJ",Trenton
+2018-05-01,-20.661157,NJ,"Trenton-Princeton, NJ",Trenton
+2018-06-01,-16.2790698,NJ,"Trenton-Princeton, NJ",Trenton
+2018-07-01,-16.6666667,NJ,"Trenton-Princeton, NJ",Trenton
+2018-08-01,-11.409396,NJ,"Trenton-Princeton, NJ",Trenton
+2018-09-01,-7.6923077,NJ,"Trenton-Princeton, NJ",Trenton
+2018-10-01,-9.5541401,NJ,"Trenton-Princeton, NJ",Trenton
+2018-11-01,-11.8012422,NJ,"Trenton-Princeton, NJ",Trenton
+2018-12-01,-10.1123596,NJ,"Trenton-Princeton, NJ",Trenton
+2019-01-01,-9.0909091,NJ,"Trenton-Princeton, NJ",Trenton
+2019-02-01,-4.2944785,NJ,"Trenton-Princeton, NJ",Trenton
+2019-03-01,-13.1147541,NJ,"Trenton-Princeton, NJ",Trenton
+2019-04-01,-9.9009901,NJ,"Trenton-Princeton, NJ",Trenton
+2019-05-01,-3.125,NJ,"Trenton-Princeton, NJ",Trenton
+2019-06-01,3.7037037,NJ,"Trenton-Princeton, NJ",Trenton
+2019-07-01,3.3333333,NJ,"Trenton-Princeton, NJ",Trenton
+2019-08-01,6.0606061,NJ,"Trenton-Princeton, NJ",Trenton
+2019-09-01,1.3888889,NJ,"Trenton-Princeton, NJ",Trenton
+2019-10-01,-2.1126761,NJ,"Trenton-Princeton, NJ",Trenton
+2019-11-01,0.0,NJ,"Trenton-Princeton, NJ",Trenton
+2019-12-01,2.5,NJ,"Trenton-Princeton, NJ",Trenton
+2020-01-01,-1.7647059,NJ,"Trenton-Princeton, NJ",Trenton
+2020-02-01,-14.1025641,NJ,"Trenton-Princeton, NJ",Trenton
+2020-03-01,-17.9245283,NJ,"Trenton-Princeton, NJ",Trenton
+2020-04-01,31.8681319,NJ,"Trenton-Princeton, NJ",Trenton
+2020-05-01,59.1397849,NJ,"Trenton-Princeton, NJ",Trenton
+2020-06-01,24.1071429,NJ,"Trenton-Princeton, NJ",Trenton
+2020-07-01,-20.9677419,NJ,"Trenton-Princeton, NJ",Trenton
+2020-08-01,-28.5714286,NJ,"Trenton-Princeton, NJ",Trenton
+2020-09-01,-30.8219178,NJ,"Trenton-Princeton, NJ",Trenton
+2020-10-01,-25.1798561,NJ,"Trenton-Princeton, NJ",Trenton
+2020-11-01,-23.2394366,NJ,"Trenton-Princeton, NJ",Trenton
+2020-12-01,-17.6829268,NJ,"Trenton-Princeton, NJ",Trenton
+2021-01-01,-7.7844311,NJ,"Trenton-Princeton, NJ",Trenton
+2021-02-01,3.7313433,NJ,"Trenton-Princeton, NJ",Trenton
+2021-03-01,-14.9425287,NJ,"Trenton-Princeton, NJ",Trenton
+2021-04-01,-51.6666667,NJ,"Trenton-Princeton, NJ",Trenton
+2021-05-01,-55.4054054,NJ,"Trenton-Princeton, NJ",Trenton
+2021-06-01,-48.2014388,NJ,"Trenton-Princeton, NJ",Trenton
+2021-07-01,-26.5306122,NJ,"Trenton-Princeton, NJ",Trenton
+2021-08-01,-15.0,NJ,"Trenton-Princeton, NJ",Trenton
+2021-09-01,-3.960396,NJ,"Trenton-Princeton, NJ",Trenton
+2021-10-01,-13.4615385,NJ,"Trenton-Princeton, NJ",Trenton
+2021-11-01,-7.3394495,NJ,"Trenton-Princeton, NJ",Trenton
+2017-07-01,-6.25,NE,"Lincoln, NE",Lincoln
+2017-08-01,-6.3157895,NE,"Lincoln, NE",Lincoln
+2017-09-01,-1.0752688,NE,"Lincoln, NE",Lincoln
+2017-10-01,1.0416667,NE,"Lincoln, NE",Lincoln
+2017-11-01,-1.9047619,NE,"Lincoln, NE",Lincoln
+2017-12-01,-15.1515152,NE,"Lincoln, NE",Lincoln
+2018-01-01,-14.2857143,NE,"Lincoln, NE",Lincoln
+2018-02-01,0.9433962,NE,"Lincoln, NE",Lincoln
+2018-03-01,14.6067416,NE,"Lincoln, NE",Lincoln
+2018-04-01,2.173913,NE,"Lincoln, NE",Lincoln
+2018-05-01,-4.7619048,NE,"Lincoln, NE",Lincoln
+2018-06-01,-7.5268817,NE,"Lincoln, NE",Lincoln
+2018-07-01,-5.5555556,NE,"Lincoln, NE",Lincoln
+2018-08-01,-2.247191,NE,"Lincoln, NE",Lincoln
+2018-09-01,2.173913,NE,"Lincoln, NE",Lincoln
+2018-10-01,-8.2474227,NE,"Lincoln, NE",Lincoln
+2018-11-01,-14.5631068,NE,"Lincoln, NE",Lincoln
+2018-12-01,1.7857143,NE,"Lincoln, NE",Lincoln
+2019-01-01,9.2592593,NE,"Lincoln, NE",Lincoln
+2019-02-01,-2.8037383,NE,"Lincoln, NE",Lincoln
+2019-03-01,11.7647059,NE,"Lincoln, NE",Lincoln
+2019-04-01,-73.4042553,NE,"Lincoln, NE",Lincoln
+2019-05-01,-22.5,NE,"Lincoln, NE",Lincoln
+2019-06-01,-13.9534884,NE,"Lincoln, NE",Lincoln
+2019-07-01,-15.2941176,NE,"Lincoln, NE",Lincoln
+2019-08-01,-17.2413793,NE,"Lincoln, NE",Lincoln
+2019-09-01,-21.2765957,NE,"Lincoln, NE",Lincoln
+2019-10-01,-14.6067416,NE,"Lincoln, NE",Lincoln
+2019-11-01,4.5454545,NE,"Lincoln, NE",Lincoln
+2019-12-01,-4.3859649,NE,"Lincoln, NE",Lincoln
+2020-01-01,6.779661,NE,"Lincoln, NE",Lincoln
+2020-02-01,15.3846154,NE,"Lincoln, NE",Lincoln
+2020-03-01,-27.1929825,NE,"Lincoln, NE",Lincoln
+2020-04-01,228.0,NE,"Lincoln, NE",Lincoln
+2020-05-01,61.2903226,NE,"Lincoln, NE",Lincoln
+2020-06-01,37.8378378,NE,"Lincoln, NE",Lincoln
+2020-07-01,33.3333333,NE,"Lincoln, NE",Lincoln
+2020-08-01,19.4444444,NE,"Lincoln, NE",Lincoln
+2020-09-01,24.3243243,NE,"Lincoln, NE",Lincoln
+2020-10-01,18.4210526,NE,"Lincoln, NE",Lincoln
+2020-11-01,-3.2608696,NE,"Lincoln, NE",Lincoln
+2020-12-01,-7.3394495,NE,"Lincoln, NE",Lincoln
+2021-01-01,-6.3492063,NE,"Lincoln, NE",Lincoln
+2021-02-01,-6.6666667,NE,"Lincoln, NE",Lincoln
+2021-03-01,33.7349398,NE,"Lincoln, NE",Lincoln
+2021-04-01,32.9268293,NE,"Lincoln, NE",Lincoln
+2021-05-01,2.0,NE,"Lincoln, NE",Lincoln
+2021-06-01,-13.7254902,NE,"Lincoln, NE",Lincoln
+2021-07-01,-12.5,NE,"Lincoln, NE",Lincoln
+2021-08-01,-6.9767442,NE,"Lincoln, NE",Lincoln
+2021-09-01,-13.0434783,NE,"Lincoln, NE",Lincoln
+2021-10-01,-20.0,NE,"Lincoln, NE",Lincoln
+2021-11-01,-6.741573,NE,"Lincoln, NE",Lincoln
+2017-07-01,-10.3448276,IL,"Rockford, IL",Rockford
+2017-08-01,-15.3846154,IL,"Rockford, IL",Rockford
+2017-09-01,-20.5479452,IL,"Rockford, IL",Rockford
+2017-10-01,-10.9589041,IL,"Rockford, IL",Rockford
+2017-11-01,-8.2191781,IL,"Rockford, IL",Rockford
+2017-12-01,-14.2857143,IL,"Rockford, IL",Rockford
+2018-01-01,-20.4301075,IL,"Rockford, IL",Rockford
+2018-02-01,-18.9189189,IL,"Rockford, IL",Rockford
+2018-03-01,4.9180328,IL,"Rockford, IL",Rockford
+2018-04-01,-5.8823529,IL,"Rockford, IL",Rockford
+2018-05-01,-27.3584906,IL,"Rockford, IL",Rockford
+2018-06-01,-25.9259259,IL,"Rockford, IL",Rockford
+2018-07-01,-12.5,IL,"Rockford, IL",Rockford
+2018-08-01,-10.9090909,IL,"Rockford, IL",Rockford
+2018-09-01,-1.7241379,IL,"Rockford, IL",Rockford
+2018-10-01,-8.4615385,IL,"Rockford, IL",Rockford
+2018-11-01,-11.1940299,IL,"Rockford, IL",Rockford
+2018-12-01,-11.1111111,IL,"Rockford, IL",Rockford
+2019-01-01,1.3513514,IL,"Rockford, IL",Rockford
+2019-02-01,6.0,IL,"Rockford, IL",Rockford
+2019-03-01,9.375,IL,"Rockford, IL",Rockford
+2019-04-01,9.375,IL,"Rockford, IL",Rockford
+2019-05-01,11.6883117,IL,"Rockford, IL",Rockford
+2019-06-01,7.5,IL,"Rockford, IL",Rockford
+2019-07-01,-3.2967033,IL,"Rockford, IL",Rockford
+2019-08-01,-6.122449,IL,"Rockford, IL",Rockford
+2019-09-01,-8.7719298,IL,"Rockford, IL",Rockford
+2019-10-01,-10.9243697,IL,"Rockford, IL",Rockford
+2019-11-01,-4.2016807,IL,"Rockford, IL",Rockford
+2019-12-01,2.34375,IL,"Rockford, IL",Rockford
+2020-01-01,4.6666667,IL,"Rockford, IL",Rockford
+2020-02-01,-6.918239,IL,"Rockford, IL",Rockford
+2020-03-01,-25.7142857,IL,"Rockford, IL",Rockford
+2020-04-01,9.5238095,IL,"Rockford, IL",Rockford
+2020-05-01,53.4883721,IL,"Rockford, IL",Rockford
+2020-06-01,18.6046512,IL,"Rockford, IL",Rockford
+2020-07-01,6.8181818,IL,"Rockford, IL",Rockford
+2020-08-01,-2.173913,IL,"Rockford, IL",Rockford
+2020-09-01,-17.3076923,IL,"Rockford, IL",Rockford
+2020-10-01,-28.3018868,IL,"Rockford, IL",Rockford
+2020-11-01,-31.5789474,IL,"Rockford, IL",Rockford
+2020-12-01,-24.4274809,IL,"Rockford, IL",Rockford
+2021-01-01,-24.8407643,IL,"Rockford, IL",Rockford
+2021-02-01,-20.2702703,IL,"Rockford, IL",Rockford
+2021-03-01,-11.5384615,IL,"Rockford, IL",Rockford
+2021-04-01,-32.173913,IL,"Rockford, IL",Rockford
+2021-05-01,-62.1212121,IL,"Rockford, IL",Rockford
+2021-06-01,-52.9411765,IL,"Rockford, IL",Rockford
+2021-07-01,-37.2340426,IL,"Rockford, IL",Rockford
+2021-08-01,-34.4444444,IL,"Rockford, IL",Rockford
+2021-09-01,-15.1162791,IL,"Rockford, IL",Rockford
+2021-10-01,2.6315789,IL,"Rockford, IL",Rockford
+2021-11-01,17.9487179,IL,"Rockford, IL",Rockford
+2017-07-01,-21.4285714,WA,"Kennewick-Richland, WA",Kennewick
+2017-08-01,-7.4074074,WA,"Kennewick-Richland, WA",Kennewick
+2017-09-01,-1.1235955,WA,"Kennewick-Richland, WA",Kennewick
+2017-10-01,-13.7254902,WA,"Kennewick-Richland, WA",Kennewick
+2017-11-01,-11.9266055,WA,"Kennewick-Richland, WA",Kennewick
+2017-12-01,-11.1111111,WA,"Kennewick-Richland, WA",Kennewick
+2018-01-01,-12.5827815,WA,"Kennewick-Richland, WA",Kennewick
+2018-02-01,-27.5167785,WA,"Kennewick-Richland, WA",Kennewick
+2018-03-01,-21.6494845,WA,"Kennewick-Richland, WA",Kennewick
+2018-04-01,-11.5384615,WA,"Kennewick-Richland, WA",Kennewick
+2018-05-01,12.1212121,WA,"Kennewick-Richland, WA",Kennewick
+2018-06-01,2.8571429,WA,"Kennewick-Richland, WA",Kennewick
+2018-07-01,12.1212121,WA,"Kennewick-Richland, WA",Kennewick
+2018-08-01,1.3333333,WA,"Kennewick-Richland, WA",Kennewick
+2018-09-01,-2.2727273,WA,"Kennewick-Richland, WA",Kennewick
+2018-10-01,5.6818182,WA,"Kennewick-Richland, WA",Kennewick
+2018-11-01,6.25,WA,"Kennewick-Richland, WA",Kennewick
+2018-12-01,12.5,WA,"Kennewick-Richland, WA",Kennewick
+2019-01-01,-0.7575758,WA,"Kennewick-Richland, WA",Kennewick
+2019-02-01,17.5925926,WA,"Kennewick-Richland, WA",Kennewick
+2019-03-01,76.3157895,WA,"Kennewick-Richland, WA",Kennewick
+2019-04-01,50.7246377,WA,"Kennewick-Richland, WA",Kennewick
+2019-05-01,13.5135135,WA,"Kennewick-Richland, WA",Kennewick
+2019-06-01,13.8888889,WA,"Kennewick-Richland, WA",Kennewick
+2019-07-01,-13.5135135,WA,"Kennewick-Richland, WA",Kennewick
+2019-08-01,-7.8947368,WA,"Kennewick-Richland, WA",Kennewick
+2019-09-01,-3.4883721,WA,"Kennewick-Richland, WA",Kennewick
+2019-10-01,1.0752688,WA,"Kennewick-Richland, WA",Kennewick
+2019-11-01,-3.9215686,WA,"Kennewick-Richland, WA",Kennewick
+2019-12-01,-15.8730159,WA,"Kennewick-Richland, WA",Kennewick
+2020-01-01,-5.3435115,WA,"Kennewick-Richland, WA",Kennewick
+2020-02-01,-7.0866142,WA,"Kennewick-Richland, WA",Kennewick
+2020-03-01,-41.7910448,WA,"Kennewick-Richland, WA",Kennewick
+2020-04-01,-15.3846154,WA,"Kennewick-Richland, WA",Kennewick
+2020-05-01,38.0952381,WA,"Kennewick-Richland, WA",Kennewick
+2020-06-01,17.0731707,WA,"Kennewick-Richland, WA",Kennewick
+2020-07-01,37.5,WA,"Kennewick-Richland, WA",Kennewick
+2020-08-01,20.0,WA,"Kennewick-Richland, WA",Kennewick
+2020-09-01,-1.2048193,WA,"Kennewick-Richland, WA",Kennewick
+2020-10-01,-17.0212766,WA,"Kennewick-Richland, WA",Kennewick
+2020-11-01,0.0,WA,"Kennewick-Richland, WA",Kennewick
+2020-12-01,17.9245283,WA,"Kennewick-Richland, WA",Kennewick
+2021-01-01,-6.4516129,WA,"Kennewick-Richland, WA",Kennewick
+2021-02-01,-17.7966102,WA,"Kennewick-Richland, WA",Kennewick
+2021-03-01,-6.4102564,WA,"Kennewick-Richland, WA",Kennewick
+2021-04-01,-14.7727273,WA,"Kennewick-Richland, WA",Kennewick
+2021-05-01,-41.3793103,WA,"Kennewick-Richland, WA",Kennewick
+2021-06-01,-30.2083333,WA,"Kennewick-Richland, WA",Kennewick
+2021-07-01,-34.0909091,WA,"Kennewick-Richland, WA",Kennewick
+2021-08-01,-41.6666667,WA,"Kennewick-Richland, WA",Kennewick
+2021-09-01,-41.4634146,WA,"Kennewick-Richland, WA",Kennewick
+2021-10-01,-7.6923077,WA,"Kennewick-Richland, WA",Kennewick
+2021-11-01,-18.3673469,WA,"Kennewick-Richland, WA",Kennewick
+2017-07-01,-6.0606061,VA,"Charlottesville, VA",Charlottesville
+2017-08-01,-7.3732719,VA,"Charlottesville, VA",Charlottesville
+2017-09-01,-13.9240506,VA,"Charlottesville, VA",Charlottesville
+2017-10-01,-18.9516129,VA,"Charlottesville, VA",Charlottesville
+2017-11-01,-18.9189189,VA,"Charlottesville, VA",Charlottesville
+2017-12-01,-15.5555556,VA,"Charlottesville, VA",Charlottesville
+2018-01-01,-14.1818182,VA,"Charlottesville, VA",Charlottesville
+2018-02-01,-15.6626506,VA,"Charlottesville, VA",Charlottesville
+2018-03-01,-18.5628743,VA,"Charlottesville, VA",Charlottesville
+2018-04-01,-7.4626866,VA,"Charlottesville, VA",Charlottesville
+2018-05-01,-5.6737589,VA,"Charlottesville, VA",Charlottesville
+2018-06-01,-3.1446541,VA,"Charlottesville, VA",Charlottesville
+2018-07-01,-1.6129032,VA,"Charlottesville, VA",Charlottesville
+2018-08-01,-4.9751244,VA,"Charlottesville, VA",Charlottesville
+2018-09-01,0.9803922,VA,"Charlottesville, VA",Charlottesville
+2018-10-01,8.4577114,VA,"Charlottesville, VA",Charlottesville
+2018-11-01,7.6190476,VA,"Charlottesville, VA",Charlottesville
+2018-12-01,8.7719298,VA,"Charlottesville, VA",Charlottesville
+2019-01-01,8.4745763,VA,"Charlottesville, VA",Charlottesville
+2019-02-01,22.3809524,VA,"Charlottesville, VA",Charlottesville
+2019-03-01,19.1176471,VA,"Charlottesville, VA",Charlottesville
+2019-04-01,1.6129032,VA,"Charlottesville, VA",Charlottesville
+2019-05-01,0.7518797,VA,"Charlottesville, VA",Charlottesville
+2019-06-01,2.5974026,VA,"Charlottesville, VA",Charlottesville
+2019-07-01,-3.8251366,VA,"Charlottesville, VA",Charlottesville
+2019-08-01,-1.5706806,VA,"Charlottesville, VA",Charlottesville
+2019-09-01,-8.2524272,VA,"Charlottesville, VA",Charlottesville
+2019-10-01,-15.5963303,VA,"Charlottesville, VA",Charlottesville
+2019-11-01,-16.8141593,VA,"Charlottesville, VA",Charlottesville
+2019-12-01,-15.7258065,VA,"Charlottesville, VA",Charlottesville
+2020-01-01,-7.03125,VA,"Charlottesville, VA",Charlottesville
+2020-02-01,-10.5058366,VA,"Charlottesville, VA",Charlottesville
+2020-03-01,-16.6666667,VA,"Charlottesville, VA",Charlottesville
+2020-04-01,9.5238095,VA,"Charlottesville, VA",Charlottesville
+2020-05-01,19.4029851,VA,"Charlottesville, VA",Charlottesville
+2020-06-01,17.721519,VA,"Charlottesville, VA",Charlottesville
+2020-07-01,14.2045455,VA,"Charlottesville, VA",Charlottesville
+2020-08-01,-8.5106383,VA,"Charlottesville, VA",Charlottesville
+2020-09-01,-17.989418,VA,"Charlottesville, VA",Charlottesville
+2020-10-01,-20.6521739,VA,"Charlottesville, VA",Charlottesville
+2020-11-01,-23.9361702,VA,"Charlottesville, VA",Charlottesville
+2020-12-01,-17.7033493,VA,"Charlottesville, VA",Charlottesville
+2021-01-01,-20.1680672,VA,"Charlottesville, VA",Charlottesville
+2021-02-01,-26.5217391,VA,"Charlottesville, VA",Charlottesville
+2021-03-01,-25.1851852,VA,"Charlottesville, VA",Charlottesville
+2021-04-01,-32.6086957,VA,"Charlottesville, VA",Charlottesville
+2021-05-01,-41.25,VA,"Charlottesville, VA",Charlottesville
+2021-06-01,-47.311828,VA,"Charlottesville, VA",Charlottesville
+2021-07-01,-52.7363184,VA,"Charlottesville, VA",Charlottesville
+2021-08-01,-44.7674419,VA,"Charlottesville, VA",Charlottesville
+2021-09-01,-34.1935484,VA,"Charlottesville, VA",Charlottesville
+2021-10-01,-20.5479452,VA,"Charlottesville, VA",Charlottesville
+2021-11-01,-17.4825175,VA,"Charlottesville, VA",Charlottesville
+2017-07-01,-1.5384615,GA,"Gainesville, GA",Gainesville
+2017-08-01,2.3076923,GA,"Gainesville, GA",Gainesville
+2017-09-01,4.4117647,GA,"Gainesville, GA",Gainesville
+2017-10-01,2.8169014,GA,"Gainesville, GA",Gainesville
+2017-11-01,-8.5106383,GA,"Gainesville, GA",Gainesville
+2017-12-01,-12.8205128,GA,"Gainesville, GA",Gainesville
+2018-01-01,-0.621118,GA,"Gainesville, GA",Gainesville
+2018-02-01,22.2222222,GA,"Gainesville, GA",Gainesville
+2018-03-01,-4.1322314,GA,"Gainesville, GA",Gainesville
+2018-04-01,-0.8474576,GA,"Gainesville, GA",Gainesville
+2018-05-01,-1.7241379,GA,"Gainesville, GA",Gainesville
+2018-06-01,12.8205128,GA,"Gainesville, GA",Gainesville
+2018-07-01,15.625,GA,"Gainesville, GA",Gainesville
+2018-08-01,10.5263158,GA,"Gainesville, GA",Gainesville
+2018-09-01,1.4084507,GA,"Gainesville, GA",Gainesville
+2018-10-01,7.5342466,GA,"Gainesville, GA",Gainesville
+2018-11-01,29.4573643,GA,"Gainesville, GA",Gainesville
+2018-12-01,30.8823529,GA,"Gainesville, GA",Gainesville
+2019-01-01,15.0,GA,"Gainesville, GA",Gainesville
+2019-02-01,1.2987013,GA,"Gainesville, GA",Gainesville
+2019-03-01,34.4827586,GA,"Gainesville, GA",Gainesville
+2019-04-01,25.6410256,GA,"Gainesville, GA",Gainesville
+2019-05-01,21.9298246,GA,"Gainesville, GA",Gainesville
+2019-06-01,6.0606061,GA,"Gainesville, GA",Gainesville
+2019-07-01,2.027027,GA,"Gainesville, GA",Gainesville
+2019-08-01,7.4829932,GA,"Gainesville, GA",Gainesville
+2019-09-01,9.7222222,GA,"Gainesville, GA",Gainesville
+2019-10-01,-1.2738854,GA,"Gainesville, GA",Gainesville
+2019-11-01,-14.9700599,GA,"Gainesville, GA",Gainesville
+2019-12-01,-17.9775281,GA,"Gainesville, GA",Gainesville
+2020-01-01,-18.4782609,GA,"Gainesville, GA",Gainesville
+2020-02-01,-8.974359,GA,"Gainesville, GA",Gainesville
+2020-03-01,-32.0512821,GA,"Gainesville, GA",Gainesville
+2020-04-01,-21.7687075,GA,"Gainesville, GA",Gainesville
+2020-05-01,0.7194245,GA,"Gainesville, GA",Gainesville
+2020-06-01,10.0,GA,"Gainesville, GA",Gainesville
+2020-07-01,-21.8543046,GA,"Gainesville, GA",Gainesville
+2020-08-01,-27.8481013,GA,"Gainesville, GA",Gainesville
+2020-09-01,-36.7088608,GA,"Gainesville, GA",Gainesville
+2020-10-01,-43.2258065,GA,"Gainesville, GA",Gainesville
+2020-11-01,-30.2816901,GA,"Gainesville, GA",Gainesville
+2020-12-01,-17.1232877,GA,"Gainesville, GA",Gainesville
+2021-01-01,-12.0,GA,"Gainesville, GA",Gainesville
+2021-02-01,-35.915493,GA,"Gainesville, GA",Gainesville
+2021-03-01,-38.6792453,GA,"Gainesville, GA",Gainesville
+2021-04-01,-33.9130435,GA,"Gainesville, GA",Gainesville
+2021-05-01,-54.2857143,GA,"Gainesville, GA",Gainesville
+2021-06-01,-61.038961,GA,"Gainesville, GA",Gainesville
+2021-07-01,-46.6101695,GA,"Gainesville, GA",Gainesville
+2021-08-01,-37.7192982,GA,"Gainesville, GA",Gainesville
+2021-09-01,-17.0,GA,"Gainesville, GA",Gainesville
+2021-10-01,-2.2727273,GA,"Gainesville, GA",Gainesville
+2021-11-01,-7.0707071,GA,"Gainesville, GA",Gainesville
+2017-07-01,-1.0526316,FL,"Punta Gorda, FL",Punta Gorda
+2017-08-01,4.8387097,FL,"Punta Gorda, FL",Punta Gorda
+2017-09-01,10.1123596,FL,"Punta Gorda, FL",Punta Gorda
+2017-10-01,5.2941176,FL,"Punta Gorda, FL",Punta Gorda
+2017-11-01,3.2467532,FL,"Punta Gorda, FL",Punta Gorda
+2017-12-01,-8.1081081,FL,"Punta Gorda, FL",Punta Gorda
+2018-01-01,-6.875,FL,"Punta Gorda, FL",Punta Gorda
+2018-02-01,-9.2592593,FL,"Punta Gorda, FL",Punta Gorda
+2018-03-01,-4.0540541,FL,"Punta Gorda, FL",Punta Gorda
+2018-04-01,-8.5365854,FL,"Punta Gorda, FL",Punta Gorda
+2018-05-01,-7.6023392,FL,"Punta Gorda, FL",Punta Gorda
+2018-06-01,0.5405405,FL,"Punta Gorda, FL",Punta Gorda
+2018-07-01,1.5957447,FL,"Punta Gorda, FL",Punta Gorda
+2018-08-01,-3.0769231,FL,"Punta Gorda, FL",Punta Gorda
+2018-09-01,-5.1020408,FL,"Punta Gorda, FL",Punta Gorda
+2018-10-01,1.1173184,FL,"Punta Gorda, FL",Punta Gorda
+2018-11-01,-8.1761006,FL,"Punta Gorda, FL",Punta Gorda
+2018-12-01,8.8235294,FL,"Punta Gorda, FL",Punta Gorda
+2019-01-01,6.7114094,FL,"Punta Gorda, FL",Punta Gorda
+2019-02-01,6.122449,FL,"Punta Gorda, FL",Punta Gorda
+2019-03-01,4.2253521,FL,"Punta Gorda, FL",Punta Gorda
+2019-04-01,3.3333333,FL,"Punta Gorda, FL",Punta Gorda
+2019-05-01,6.3291139,FL,"Punta Gorda, FL",Punta Gorda
+2019-06-01,-2.1505376,FL,"Punta Gorda, FL",Punta Gorda
+2019-07-01,2.0942408,FL,"Punta Gorda, FL",Punta Gorda
+2019-08-01,8.994709,FL,"Punta Gorda, FL",Punta Gorda
+2019-09-01,3.7634409,FL,"Punta Gorda, FL",Punta Gorda
+2019-10-01,-4.4198895,FL,"Punta Gorda, FL",Punta Gorda
+2019-11-01,2.739726,FL,"Punta Gorda, FL",Punta Gorda
+2019-12-01,5.4054054,FL,"Punta Gorda, FL",Punta Gorda
+2020-01-01,4.4025157,FL,"Punta Gorda, FL",Punta Gorda
+2020-02-01,2.5641026,FL,"Punta Gorda, FL",Punta Gorda
+2020-03-01,-4.7297297,FL,"Punta Gorda, FL",Punta Gorda
+2020-04-01,-7.7419355,FL,"Punta Gorda, FL",Punta Gorda
+2020-05-01,-1.1904762,FL,"Punta Gorda, FL",Punta Gorda
+2020-06-01,3.2967033,FL,"Punta Gorda, FL",Punta Gorda
+2020-07-01,-1.5384615,FL,"Punta Gorda, FL",Punta Gorda
+2020-08-01,-21.3592233,FL,"Punta Gorda, FL",Punta Gorda
+2020-09-01,-19.1709845,FL,"Punta Gorda, FL",Punta Gorda
+2020-10-01,-22.5433526,FL,"Punta Gorda, FL",Punta Gorda
+2020-11-01,-10.0,FL,"Punta Gorda, FL",Punta Gorda
+2020-12-01,-8.3333333,FL,"Punta Gorda, FL",Punta Gorda
+2021-01-01,-8.4337349,FL,"Punta Gorda, FL",Punta Gorda
+2021-02-01,-14.375,FL,"Punta Gorda, FL",Punta Gorda
+2021-03-01,-28.3687943,FL,"Punta Gorda, FL",Punta Gorda
+2021-04-01,-32.8671329,FL,"Punta Gorda, FL",Punta Gorda
+2021-05-01,-46.9879518,FL,"Punta Gorda, FL",Punta Gorda
+2021-06-01,-53.1914894,FL,"Punta Gorda, FL",Punta Gorda
+2021-07-01,-56.25,FL,"Punta Gorda, FL",Punta Gorda
+2021-08-01,-46.9135802,FL,"Punta Gorda, FL",Punta Gorda
+2021-09-01,-41.025641,FL,"Punta Gorda, FL",Punta Gorda
+2021-10-01,-25.3731343,FL,"Punta Gorda, FL",Punta Gorda
+2021-11-01,-34.0740741,FL,"Punta Gorda, FL",Punta Gorda
+2017-07-01,-19.1489362,CO,"Pueblo, CO",Pueblo
+2017-08-01,-17.2043011,CO,"Pueblo, CO",Pueblo
+2017-09-01,-10.2803738,CO,"Pueblo, CO",Pueblo
+2017-10-01,-9.0163934,CO,"Pueblo, CO",Pueblo
+2017-11-01,-11.5384615,CO,"Pueblo, CO",Pueblo
+2017-12-01,-13.4328358,CO,"Pueblo, CO",Pueblo
+2018-01-01,-21.9354839,CO,"Pueblo, CO",Pueblo
+2018-02-01,-35.0318471,CO,"Pueblo, CO",Pueblo
+2018-03-01,-17.3076923,CO,"Pueblo, CO",Pueblo
+2018-04-01,5.8139535,CO,"Pueblo, CO",Pueblo
+2018-05-01,12.6582278,CO,"Pueblo, CO",Pueblo
+2018-06-01,6.3291139,CO,"Pueblo, CO",Pueblo
+2018-07-01,2.6315789,CO,"Pueblo, CO",Pueblo
+2018-08-01,22.0779221,CO,"Pueblo, CO",Pueblo
+2018-09-01,8.3333333,CO,"Pueblo, CO",Pueblo
+2018-10-01,-4.5045045,CO,"Pueblo, CO",Pueblo
+2018-11-01,0.8695652,CO,"Pueblo, CO",Pueblo
+2018-12-01,17.2413793,CO,"Pueblo, CO",Pueblo
+2019-01-01,16.5289256,CO,"Pueblo, CO",Pueblo
+2019-02-01,0.9803922,CO,"Pueblo, CO",Pueblo
+2019-03-01,16.2790698,CO,"Pueblo, CO",Pueblo
+2019-04-01,-2.1978022,CO,"Pueblo, CO",Pueblo
+2019-05-01,-14.6067416,CO,"Pueblo, CO",Pueblo
+2019-06-01,-14.2857143,CO,"Pueblo, CO",Pueblo
+2019-07-01,-5.1282051,CO,"Pueblo, CO",Pueblo
+2019-08-01,-17.0212766,CO,"Pueblo, CO",Pueblo
+2019-09-01,-29.8076923,CO,"Pueblo, CO",Pueblo
+2019-10-01,-29.245283,CO,"Pueblo, CO",Pueblo
+2019-11-01,-22.4137931,CO,"Pueblo, CO",Pueblo
+2019-12-01,-14.7058824,CO,"Pueblo, CO",Pueblo
+2020-01-01,-26.2411348,CO,"Pueblo, CO",Pueblo
+2020-02-01,-18.4466019,CO,"Pueblo, CO",Pueblo
+2020-03-01,-18.0,CO,"Pueblo, CO",Pueblo
+2020-04-01,-23.5955056,CO,"Pueblo, CO",Pueblo
+2020-05-01,10.5263158,CO,"Pueblo, CO",Pueblo
+2020-06-01,-6.9444444,CO,"Pueblo, CO",Pueblo
+2020-07-01,-4.0540541,CO,"Pueblo, CO",Pueblo
+2020-08-01,-5.1282051,CO,"Pueblo, CO",Pueblo
+2020-09-01,-2.739726,CO,"Pueblo, CO",Pueblo
+2020-10-01,-12.0,CO,"Pueblo, CO",Pueblo
+2020-11-01,-26.6666667,CO,"Pueblo, CO",Pueblo
+2020-12-01,-37.0689655,CO,"Pueblo, CO",Pueblo
+2021-01-01,-17.3076923,CO,"Pueblo, CO",Pueblo
+2021-02-01,-39.2857143,CO,"Pueblo, CO",Pueblo
+2021-03-01,-37.804878,CO,"Pueblo, CO",Pueblo
+2021-04-01,-17.6470588,CO,"Pueblo, CO",Pueblo
+2021-05-01,-40.4761905,CO,"Pueblo, CO",Pueblo
+2021-06-01,-34.3283582,CO,"Pueblo, CO",Pueblo
+2021-07-01,-39.4366197,CO,"Pueblo, CO",Pueblo
+2021-08-01,-32.4324324,CO,"Pueblo, CO",Pueblo
+2021-09-01,-25.3521127,CO,"Pueblo, CO",Pueblo
+2021-10-01,-15.1515152,CO,"Pueblo, CO",Pueblo
+2021-11-01,-19.6969697,CO,"Pueblo, CO",Pueblo
+2017-07-01,-8.1395349,WV,"Morgantown, WV",Morgantown
+2017-08-01,-4.0697674,WV,"Morgantown, WV",Morgantown
+2017-09-01,3.4090909,WV,"Morgantown, WV",Morgantown
+2017-10-01,3.125,WV,"Morgantown, WV",Morgantown
+2017-11-01,0.0,WV,"Morgantown, WV",Morgantown
+2017-12-01,-2.5423729,WV,"Morgantown, WV",Morgantown
+2018-01-01,2.3255814,WV,"Morgantown, WV",Morgantown
+2018-02-01,1.8939394,WV,"Morgantown, WV",Morgantown
+2018-03-01,17.9916318,WV,"Morgantown, WV",Morgantown
+2018-04-01,30.8641975,WV,"Morgantown, WV",Morgantown
+2018-05-01,2.6666667,WV,"Morgantown, WV",Morgantown
+2018-06-01,6.0402685,WV,"Morgantown, WV",Morgantown
+2018-07-01,1.2658228,WV,"Morgantown, WV",Morgantown
+2018-08-01,5.4545455,WV,"Morgantown, WV",Morgantown
+2018-09-01,1.0989011,WV,"Morgantown, WV",Morgantown
+2018-10-01,-5.0505051,WV,"Morgantown, WV",Morgantown
+2018-11-01,-7.0422535,WV,"Morgantown, WV",Morgantown
+2018-12-01,-5.2173913,WV,"Morgantown, WV",Morgantown
+2019-01-01,-9.8484848,WV,"Morgantown, WV",Morgantown
+2019-02-01,-11.1524164,WV,"Morgantown, WV",Morgantown
+2019-03-01,-13.4751773,WV,"Morgantown, WV",Morgantown
+2019-04-01,-26.8867925,WV,"Morgantown, WV",Morgantown
+2019-05-01,-15.5844156,WV,"Morgantown, WV",Morgantown
+2019-06-01,-8.8607595,WV,"Morgantown, WV",Morgantown
+2019-07-01,0.0,WV,"Morgantown, WV",Morgantown
+2019-08-01,4.5977011,WV,"Morgantown, WV",Morgantown
+2019-09-01,0.0,WV,"Morgantown, WV",Morgantown
+2019-10-01,7.9787234,WV,"Morgantown, WV",Morgantown
+2019-11-01,10.1010101,WV,"Morgantown, WV",Morgantown
+2019-12-01,18.8073394,WV,"Morgantown, WV",Morgantown
+2020-01-01,11.3445378,WV,"Morgantown, WV",Morgantown
+2020-02-01,17.9916318,WV,"Morgantown, WV",Morgantown
+2020-03-01,-14.7540984,WV,"Morgantown, WV",Morgantown
+2020-04-01,14.8387097,WV,"Morgantown, WV",Morgantown
+2020-05-01,44.6153846,WV,"Morgantown, WV",Morgantown
+2020-06-01,36.8055556,WV,"Morgantown, WV",Morgantown
+2020-07-01,5.625,WV,"Morgantown, WV",Morgantown
+2020-08-01,-26.3736264,WV,"Morgantown, WV",Morgantown
+2020-09-01,-18.4782609,WV,"Morgantown, WV",Morgantown
+2020-10-01,-17.2413793,WV,"Morgantown, WV",Morgantown
+2020-11-01,-13.7614679,WV,"Morgantown, WV",Morgantown
+2020-12-01,-17.3745174,WV,"Morgantown, WV",Morgantown
+2021-01-01,-22.2641509,WV,"Morgantown, WV",Morgantown
+2021-02-01,-29.0780142,WV,"Morgantown, WV",Morgantown
+2021-03-01,-6.25,WV,"Morgantown, WV",Morgantown
+2021-04-01,-11.7977528,WV,"Morgantown, WV",Morgantown
+2021-05-01,-32.9787234,WV,"Morgantown, WV",Morgantown
+2021-06-01,-38.071066,WV,"Morgantown, WV",Morgantown
+2021-07-01,-33.1360947,WV,"Morgantown, WV",Morgantown
+2021-08-01,-11.9402985,WV,"Morgantown, WV",Morgantown
+2021-09-01,-12.0,WV,"Morgantown, WV",Morgantown
+2021-10-01,-17.8571429,WV,"Morgantown, WV",Morgantown
+2021-11-01,-20.212766,WV,"Morgantown, WV",Morgantown
+2017-07-01,-11.4754098,CA,"Napa, CA",Napa
+2017-08-01,-12.8787879,CA,"Napa, CA",Napa
+2017-09-01,-18.1208054,CA,"Napa, CA",Napa
+2017-10-01,-3.4246575,CA,"Napa, CA",Napa
+2017-11-01,-12.1019108,CA,"Napa, CA",Napa
+2017-12-01,-12.0879121,CA,"Napa, CA",Napa
+2018-01-01,-12.8078818,CA,"Napa, CA",Napa
+2018-02-01,1.1299435,CA,"Napa, CA",Napa
+2018-03-01,-48.5714286,CA,"Napa, CA",Napa
+2018-04-01,-3.4883721,CA,"Napa, CA",Napa
+2018-05-01,-4.3956044,CA,"Napa, CA",Napa
+2018-06-01,-14.8148148,CA,"Napa, CA",Napa
+2018-07-01,2.7777778,CA,"Napa, CA",Napa
+2018-08-01,19.1304348,CA,"Napa, CA",Napa
+2018-09-01,6.557377,CA,"Napa, CA",Napa
+2018-10-01,-2.8368794,CA,"Napa, CA",Napa
+2018-11-01,4.3478261,CA,"Napa, CA",Napa
+2018-12-01,-6.25,CA,"Napa, CA",Napa
+2019-01-01,0.5649718,CA,"Napa, CA",Napa
+2019-02-01,2.7932961,CA,"Napa, CA",Napa
+2019-03-01,136.1111111,CA,"Napa, CA",Napa
+2019-04-01,39.7590361,CA,"Napa, CA",Napa
+2019-05-01,13.7931034,CA,"Napa, CA",Napa
+2019-06-01,13.0434783,CA,"Napa, CA",Napa
+2019-07-01,18.9189189,CA,"Napa, CA",Napa
+2019-08-01,6.5693431,CA,"Napa, CA",Napa
+2019-09-01,12.3076923,CA,"Napa, CA",Napa
+2019-10-01,8.0291971,CA,"Napa, CA",Napa
+2019-11-01,22.2222222,CA,"Napa, CA",Napa
+2019-12-01,31.3333333,CA,"Napa, CA",Napa
+2020-01-01,27.5280899,CA,"Napa, CA",Napa
+2020-02-01,10.8695652,CA,"Napa, CA",Napa
+2020-03-01,-48.2352941,CA,"Napa, CA",Napa
+2020-04-01,-6.8965517,CA,"Napa, CA",Napa
+2020-05-01,33.3333333,CA,"Napa, CA",Napa
+2020-06-01,18.2692308,CA,"Napa, CA",Napa
+2020-07-01,-10.6060606,CA,"Napa, CA",Napa
+2020-08-01,-9.5890411,CA,"Napa, CA",Napa
+2020-09-01,-7.5342466,CA,"Napa, CA",Napa
+2020-10-01,-5.4054054,CA,"Napa, CA",Napa
+2020-11-01,-23.2954545,CA,"Napa, CA",Napa
+2020-12-01,-15.2284264,CA,"Napa, CA",Napa
+2021-01-01,-25.1101322,CA,"Napa, CA",Napa
+2021-02-01,-20.5882353,CA,"Napa, CA",Napa
+2021-03-01,27.2727273,CA,"Napa, CA",Napa
+2021-04-01,-11.1111111,CA,"Napa, CA",Napa
+2021-05-01,-43.9393939,CA,"Napa, CA",Napa
+2021-06-01,-33.3333333,CA,"Napa, CA",Napa
+2021-07-01,-15.2542373,CA,"Napa, CA",Napa
+2021-08-01,-18.9393939,CA,"Napa, CA",Napa
+2021-09-01,-13.3333333,CA,"Napa, CA",Napa
+2021-10-01,-15.7142857,CA,"Napa, CA",Napa
+2021-11-01,-3.7037037,CA,"Napa, CA",Napa
+2017-07-01,0.0,ID,"Lewiston, ID-WA",Lewiston
+2017-08-01,-21.969697,ID,"Lewiston, ID-WA",Lewiston
+2017-09-01,-19.7183099,ID,"Lewiston, ID-WA",Lewiston
+2017-10-01,-12.0,ID,"Lewiston, ID-WA",Lewiston
+2017-11-01,-4.9689441,ID,"Lewiston, ID-WA",Lewiston
+2017-12-01,-6.5217391,ID,"Lewiston, ID-WA",Lewiston
+2018-01-01,-5.4455446,ID,"Lewiston, ID-WA",Lewiston
+2018-02-01,-8.3743842,ID,"Lewiston, ID-WA",Lewiston
+2018-03-01,9.0909091,ID,"Lewiston, ID-WA",Lewiston
+2018-04-01,-6.4814815,ID,"Lewiston, ID-WA",Lewiston
+2018-05-01,-12.3893805,ID,"Lewiston, ID-WA",Lewiston
+2018-06-01,-22.4806202,ID,"Lewiston, ID-WA",Lewiston
+2018-07-01,-14.1666667,ID,"Lewiston, ID-WA",Lewiston
+2018-08-01,4.8543689,ID,"Lewiston, ID-WA",Lewiston
+2018-09-01,7.0175439,ID,"Lewiston, ID-WA",Lewiston
+2018-10-01,2.2727273,ID,"Lewiston, ID-WA",Lewiston
+2018-11-01,-11.7647059,ID,"Lewiston, ID-WA",Lewiston
+2018-12-01,-4.6511628,ID,"Lewiston, ID-WA",Lewiston
+2019-01-01,-12.0418848,ID,"Lewiston, ID-WA",Lewiston
+2019-02-01,-18.8172043,ID,"Lewiston, ID-WA",Lewiston
+2019-03-01,-76.3888889,ID,"Lewiston, ID-WA",Lewiston
+2019-04-01,-17.8217822,ID,"Lewiston, ID-WA",Lewiston
+2019-05-01,8.0808081,ID,"Lewiston, ID-WA",Lewiston
+2019-06-01,-32.0,ID,"Lewiston, ID-WA",Lewiston
+2019-07-01,-20.3883495,ID,"Lewiston, ID-WA",Lewiston
+2019-08-01,-3.7037037,ID,"Lewiston, ID-WA",Lewiston
+2019-09-01,-11.4754098,ID,"Lewiston, ID-WA",Lewiston
+2019-10-01,-22.2222222,ID,"Lewiston, ID-WA",Lewiston
+2019-11-01,-27.4074074,ID,"Lewiston, ID-WA",Lewiston
+2019-12-01,-22.5609756,ID,"Lewiston, ID-WA",Lewiston
+2020-01-01,-6.547619,ID,"Lewiston, ID-WA",Lewiston
+2020-02-01,-23.1788079,ID,"Lewiston, ID-WA",Lewiston
+2020-03-01,129.4117647,ID,"Lewiston, ID-WA",Lewiston
+2020-04-01,0.0,ID,"Lewiston, ID-WA",Lewiston
+2020-05-01,-0.9345794,ID,"Lewiston, ID-WA",Lewiston
+2020-06-01,42.6470588,ID,"Lewiston, ID-WA",Lewiston
+2020-07-01,1.2195122,ID,"Lewiston, ID-WA",Lewiston
+2020-08-01,-15.3846154,ID,"Lewiston, ID-WA",Lewiston
+2020-09-01,-34.2592593,ID,"Lewiston, ID-WA",Lewiston
+2020-10-01,-20.0,ID,"Lewiston, ID-WA",Lewiston
+2020-11-01,7.1428571,ID,"Lewiston, ID-WA",Lewiston
+2020-12-01,-2.3622047,ID,"Lewiston, ID-WA",Lewiston
+2021-01-01,-21.0191083,ID,"Lewiston, ID-WA",Lewiston
+2021-02-01,-26.7241379,ID,"Lewiston, ID-WA",Lewiston
+2021-03-01,3.8461538,ID,"Lewiston, ID-WA",Lewiston
+2021-04-01,1.2048193,ID,"Lewiston, ID-WA",Lewiston
+2021-05-01,-24.5283019,ID,"Lewiston, ID-WA",Lewiston
+2021-06-01,-23.7113402,ID,"Lewiston, ID-WA",Lewiston
+2021-07-01,-4.8192771,ID,"Lewiston, ID-WA",Lewiston
+2021-08-01,-44.3181818,ID,"Lewiston, ID-WA",Lewiston
+2021-09-01,9.8591549,ID,"Lewiston, ID-WA",Lewiston
+2021-10-01,0.0,ID,"Lewiston, ID-WA",Lewiston
+2021-11-01,-13.3333333,ID,"Lewiston, ID-WA",Lewiston

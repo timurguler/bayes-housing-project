@@ -1,0 +1,485 @@
+date,Resident Population,state,msa,city
+2000-01-01,18352.743,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2001-01-01,18490.029,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2002-01-01,18590.085,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2003-01-01,18671.32,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2004-01-01,18747.431,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2005-01-01,18798.114,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2006-01-01,18825.633,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2007-01-01,18901.167,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2008-01-01,18968.501,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2009-01-01,19069.796,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2010-01-01,18923.437,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2011-01-01,19053.124,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2012-01-01,19150.453,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2013-01-01,19227.457,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2014-01-01,19282.138,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2015-01-01,19322.239,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2016-01-01,19336.456,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2017-01-01,19325.115,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2018-01-01,19289.42,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2019-01-01,19232.494,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2020-01-01,19124.359,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York
+2010-01-01,12838.023,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2011-01-01,12923.899,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2012-01-01,13010.104,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2013-01-01,13092.451,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2014-01-01,13159.972,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2015-01-01,13226.215,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2016-01-01,13259.142,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2017-01-01,13266.524,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2018-01-01,13237.112,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2019-01-01,13182.453,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2020-01-01,13109.903,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-01-01,12398.95,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2001-01-01,12525.736,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2002-01-01,12634.977,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2003-01-01,12717.433,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2004-01-01,12764.59,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2005-01-01,12761.175,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2006-01-01,12713.66,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2007-01-01,12692.603,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2008-01-01,12768.395,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2009-01-01,12874.797,CA,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles
+2000-01-01,9117.732,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2001-01-01,9192.501,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2002-01-01,9245.135,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2003-01-01,9286.162,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2004-01-01,9332.09,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2005-01-01,9362.08,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2006-01-01,9398.855,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2007-01-01,9451.936,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2008-01-01,9515.636,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2009-01-01,9580.567,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2010-01-01,9470.661,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2011-01-01,9500.919,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2012-01-01,9528.134,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2013-01-01,9550.227,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2014-01-01,9560.285,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2015-01-01,9552.351,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2016-01-01,9533.732,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2017-01-01,9513.947,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2018-01-01,9485.403,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2019-01-01,9454.282,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2020-01-01,9406.638,IL,"Chicago-Naperville-Elgin, IL-IN-WI",Chicago
+2000-01-01,5196.188,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2001-01-01,5354.623,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2002-01-01,5476.578,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2003-01-01,5582.033,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2004-01-01,5689.982,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2005-01-01,5816.407,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2006-01-01,5999.411,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2007-01-01,6156.652,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2008-01-01,6301.085,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2009-01-01,6447.615,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2010-01-01,6392.097,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2011-01-01,6510.55,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2012-01-01,6644.519,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2013-01-01,6753.804,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2014-01-01,6889.603,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2015-01-01,7042.322,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2016-01-01,7195.475,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2017-01-01,7337.707,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2018-01-01,7457.586,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2019-01-01,7574.39,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2020-01-01,7694.138,TX,"Dallas-Fort Worth-Arlington, TX",Dallas
+2000-01-01,4739.414,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2001-01-01,4851.189,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2002-01-01,4978.638,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2003-01-01,5084.017,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2004-01-01,5190.444,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2005-01-01,5299.567,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2006-01-01,5484.883,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2007-01-01,5597.674,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2008-01-01,5726.705,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2009-01-01,5867.489,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2010-01-01,5947.185,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2011-01-01,6056.008,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2012-01-01,6183.119,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2013-01-01,6327.622,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2014-01-01,6499.375,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2015-01-01,6670.803,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2016-01-01,6806.315,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2017-01-01,6898.912,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2018-01-01,6974.948,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2019-01-01,7063.4,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2020-01-01,7154.478,TX,"Houston-The Woodlands-Sugar Land, TX",Houston
+2000-01-01,4457.471,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2001-01-01,4479.232,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2002-01-01,4486.067,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2003-01-01,4492.756,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2004-01-01,4498.311,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2005-01-01,4494.398,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2006-01-01,4484.542,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2007-01-01,4456.582,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2008-01-01,4423.781,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2009-01-01,4403.437,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2010-01-01,4291.281,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2011-01-01,4291.613,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2012-01-01,4300.923,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2013-01-01,4305.782,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2014-01-01,4311.488,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2015-01-01,4310.146,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2016-01-01,4317.016,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2017-01-01,4322.49,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2018-01-01,4323.861,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2019-01-01,4319.413,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2020-01-01,4304.136,MI,"Detroit-Warren-Dearborn, MI",Detroit
+2000-01-01,2014.665,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2001-01-01,2035.68,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2002-01-01,2050.03,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2003-01-01,2066.256,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2004-01-01,2083.905,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2005-01-01,2102.422,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2006-01-01,2122.711,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2007-01-01,2148.315,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2008-01-01,2158.643,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2009-01-01,2171.896,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2010-01-01,2140.963,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2011-01-01,2146.885,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2012-01-01,2153.475,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2013-01-01,2163.183,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2014-01-01,2173.558,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2015-01-01,2183.071,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2016-01-01,2193.676,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2017-01-01,2205.111,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2018-01-01,2214.37,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2019-01-01,2225.262,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2020-01-01,2232.907,OH,"Cincinnati, OH-KY-IN",Cincinnati
+2000-01-01,550.875,SC,"Charleston-North Charleston, SC",Charleston
+2001-01-01,557.487,SC,"Charleston-North Charleston, SC",Charleston
+2002-01-01,566.543,SC,"Charleston-North Charleston, SC",Charleston
+2003-01-01,576.539,SC,"Charleston-North Charleston, SC",Charleston
+2004-01-01,590.096,SC,"Charleston-North Charleston, SC",Charleston
+2005-01-01,601.429,SC,"Charleston-North Charleston, SC",Charleston
+2006-01-01,617.619,SC,"Charleston-North Charleston, SC",Charleston
+2007-01-01,631.984,SC,"Charleston-North Charleston, SC",Charleston
+2008-01-01,647.194,SC,"Charleston-North Charleston, SC",Charleston
+2009-01-01,659.191,SC,"Charleston-North Charleston, SC",Charleston
+2010-01-01,667.495,SC,"Charleston-North Charleston, SC",Charleston
+2011-01-01,681.449,SC,"Charleston-North Charleston, SC",Charleston
+2012-01-01,697.254,SC,"Charleston-North Charleston, SC",Charleston
+2013-01-01,711.85,SC,"Charleston-North Charleston, SC",Charleston
+2014-01-01,727.578,SC,"Charleston-North Charleston, SC",Charleston
+2015-01-01,746.144,SC,"Charleston-North Charleston, SC",Charleston
+2016-01-01,762.649,SC,"Charleston-North Charleston, SC",Charleston
+2017-01-01,777.196,SC,"Charleston-North Charleston, SC",Charleston
+2018-01-01,790.14,SC,"Charleston-North Charleston, SC",Charleston
+2019-01-01,805.084,SC,"Charleston-North Charleston, SC",Charleston
+2020-01-01,819.705,SC,"Charleston-North Charleston, SC",Charleston
+2000-01-01,444.874,UT,"Ogden-Clearfield, UT",Ogden
+2001-01-01,452.75,UT,"Ogden-Clearfield, UT",Ogden
+2002-01-01,461.783,UT,"Ogden-Clearfield, UT",Ogden
+2003-01-01,471.114,UT,"Ogden-Clearfield, UT",Ogden
+2004-01-01,480.882,UT,"Ogden-Clearfield, UT",Ogden
+2005-01-01,491.114,UT,"Ogden-Clearfield, UT",Ogden
+2006-01-01,503.264,UT,"Ogden-Clearfield, UT",Ogden
+2007-01-01,517.37,UT,"Ogden-Clearfield, UT",Ogden
+2008-01-01,530.998,UT,"Ogden-Clearfield, UT",Ogden
+2009-01-01,541.569,UT,"Ogden-Clearfield, UT",Ogden
+2010-01-01,599.756,UT,"Ogden-Clearfield, UT",Ogden
+2011-01-01,605.652,UT,"Ogden-Clearfield, UT",Ogden
+2012-01-01,612.307,UT,"Ogden-Clearfield, UT",Ogden
+2013-01-01,621.396,UT,"Ogden-Clearfield, UT",Ogden
+2014-01-01,630.994,UT,"Ogden-Clearfield, UT",Ogden
+2015-01-01,640.617,UT,"Ogden-Clearfield, UT",Ogden
+2016-01-01,652.771,UT,"Ogden-Clearfield, UT",Ogden
+2017-01-01,664.167,UT,"Ogden-Clearfield, UT",Ogden
+2018-01-01,673.386,UT,"Ogden-Clearfield, UT",Ogden
+2019-01-01,683.056,UT,"Ogden-Clearfield, UT",Ogden
+2020-01-01,691.359,UT,"Ogden-Clearfield, UT",Ogden
+2000-01-01,572.045,KS,"Wichita, KS",Wichita
+2001-01-01,574.528,KS,"Wichita, KS",Wichita
+2002-01-01,578.622,KS,"Wichita, KS",Wichita
+2003-01-01,579.8,KS,"Wichita, KS",Wichita
+2004-01-01,581.206,KS,"Wichita, KS",Wichita
+2005-01-01,583.759,KS,"Wichita, KS",Wichita
+2006-01-01,588.228,KS,"Wichita, KS",Wichita
+2007-01-01,595.342,KS,"Wichita, KS",Wichita
+2008-01-01,603.205,KS,"Wichita, KS",Wichita
+2009-01-01,612.683,KS,"Wichita, KS",Wichita
+2010-01-01,623.898,KS,"Wichita, KS",Wichita
+2011-01-01,625.391,KS,"Wichita, KS",Wichita
+2012-01-01,628.264,KS,"Wichita, KS",Wichita
+2013-01-01,630.518,KS,"Wichita, KS",Wichita
+2014-01-01,632.986,KS,"Wichita, KS",Wichita
+2015-01-01,635.769,KS,"Wichita, KS",Wichita
+2016-01-01,637.989,KS,"Wichita, KS",Wichita
+2017-01-01,637.847,KS,"Wichita, KS",Wichita
+2018-01-01,637.971,KS,"Wichita, KS",Wichita
+2019-01-01,640.763,KS,"Wichita, KS",Wichita
+2020-01-01,643.768,KS,"Wichita, KS",Wichita
+2000-01-01,198.132,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2001-01-01,201.918,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2002-01-01,206.28,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2003-01-01,211.086,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2004-01-01,218.22,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2005-01-01,228.708,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2006-01-01,240.735,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2007-01-01,250.904,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2008-01-01,258.79,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2009-01-01,263.868,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2010-01-01,378.365,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2011-01-01,385.741,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2012-01-01,393.48,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2013-01-01,403.982,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2014-01-01,416.424,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2015-01-01,431.672,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2016-01-01,447.964,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2017-01-01,464.242,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2018-01-01,481.751,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2019-01-01,497.405,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2020-01-01,514.488,SC,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",Myrtle Beach
+2000-01-01,351.561,NJ,"Trenton-Princeton, NJ",Trenton
+2001-01-01,353.965,NJ,"Trenton-Princeton, NJ",Trenton
+2002-01-01,356.098,NJ,"Trenton-Princeton, NJ",Trenton
+2003-01-01,358.669,NJ,"Trenton-Princeton, NJ",Trenton
+2004-01-01,361.225,NJ,"Trenton-Princeton, NJ",Trenton
+2005-01-01,361.882,NJ,"Trenton-Princeton, NJ",Trenton
+2006-01-01,362.813,NJ,"Trenton-Princeton, NJ",Trenton
+2007-01-01,363.402,NJ,"Trenton-Princeton, NJ",Trenton
+2008-01-01,364.571,NJ,"Trenton-Princeton, NJ",Trenton
+2009-01-01,366.222,NJ,"Trenton-Princeton, NJ",Trenton
+2010-01-01,367.717,NJ,"Trenton-Princeton, NJ",Trenton
+2011-01-01,367.407,NJ,"Trenton-Princeton, NJ",Trenton
+2012-01-01,368.628,NJ,"Trenton-Princeton, NJ",Trenton
+2013-01-01,369.534,NJ,"Trenton-Princeton, NJ",Trenton
+2014-01-01,369.031,NJ,"Trenton-Princeton, NJ",Trenton
+2015-01-01,368.266,NJ,"Trenton-Princeton, NJ",Trenton
+2016-01-01,367.929,NJ,"Trenton-Princeton, NJ",Trenton
+2017-01-01,368.489,NJ,"Trenton-Princeton, NJ",Trenton
+2018-01-01,368.72,NJ,"Trenton-Princeton, NJ",Trenton
+2019-01-01,368.047,NJ,"Trenton-Princeton, NJ",Trenton
+2020-01-01,367.239,NJ,"Trenton-Princeton, NJ",Trenton
+2000-01-01,267.955,NE,"Lincoln, NE",Lincoln
+2001-01-01,270.981,NE,"Lincoln, NE",Lincoln
+2002-01-01,274.541,NE,"Lincoln, NE",Lincoln
+2003-01-01,278.417,NE,"Lincoln, NE",Lincoln
+2004-01-01,280.763,NE,"Lincoln, NE",Lincoln
+2005-01-01,284.161,NE,"Lincoln, NE",Lincoln
+2006-01-01,287.388,NE,"Lincoln, NE",Lincoln
+2007-01-01,290.809,NE,"Lincoln, NE",Lincoln
+2008-01-01,294.665,NE,"Lincoln, NE",Lincoln
+2009-01-01,298.012,NE,"Lincoln, NE",Lincoln
+2010-01-01,302.975,NE,"Lincoln, NE",Lincoln
+2011-01-01,306.67,NE,"Lincoln, NE",Lincoln
+2012-01-01,310.414,NE,"Lincoln, NE",Lincoln
+2013-01-01,314.229,NE,"Lincoln, NE",Lincoln
+2014-01-01,319.791,NE,"Lincoln, NE",Lincoln
+2015-01-01,323.291,NE,"Lincoln, NE",Lincoln
+2016-01-01,327.656,NE,"Lincoln, NE",Lincoln
+2017-01-01,331.096,NE,"Lincoln, NE",Lincoln
+2018-01-01,333.653,NE,"Lincoln, NE",Lincoln
+2019-01-01,335.721,NE,"Lincoln, NE",Lincoln
+2020-01-01,337.836,NE,"Lincoln, NE",Lincoln
+2000-01-01,321.042,IL,"Rockford, IL",Rockford
+2001-01-01,323.992,IL,"Rockford, IL",Rockford
+2002-01-01,327.08,IL,"Rockford, IL",Rockford
+2003-01-01,331.209,IL,"Rockford, IL",Rockford
+2004-01-01,334.622,IL,"Rockford, IL",Rockford
+2005-01-01,338.877,IL,"Rockford, IL",Rockford
+2006-01-01,344.269,IL,"Rockford, IL",Rockford
+2007-01-01,350.765,IL,"Rockford, IL",Rockford
+2008-01-01,353.381,IL,"Rockford, IL",Rockford
+2009-01-01,353.722,IL,"Rockford, IL",Rockford
+2010-01-01,349.184,IL,"Rockford, IL",Rockford
+2011-01-01,347.79,IL,"Rockford, IL",Rockford
+2012-01-01,345.857,IL,"Rockford, IL",Rockford
+2013-01-01,344.743,IL,"Rockford, IL",Rockford
+2014-01-01,342.472,IL,"Rockford, IL",Rockford
+2015-01-01,340.808,IL,"Rockford, IL",Rockford
+2016-01-01,339.73,IL,"Rockford, IL",Rockford
+2017-01-01,338.139,IL,"Rockford, IL",Rockford
+2018-01-01,336.956,IL,"Rockford, IL",Rockford
+2019-01-01,335.746,IL,"Rockford, IL",Rockford
+2020-01-01,334.072,IL,"Rockford, IL",Rockford
+2000-01-01,192.71,WA,"Kennewick-Richland, WA",Kennewick
+2001-01-01,196.382,WA,"Kennewick-Richland, WA",Kennewick
+2002-01-01,202.549,WA,"Kennewick-Richland, WA",Kennewick
+2003-01-01,208.714,WA,"Kennewick-Richland, WA",Kennewick
+2004-01-01,213.478,WA,"Kennewick-Richland, WA",Kennewick
+2005-01-01,218.631,WA,"Kennewick-Richland, WA",Kennewick
+2006-01-01,223.72,WA,"Kennewick-Richland, WA",Kennewick
+2007-01-01,228.962,WA,"Kennewick-Richland, WA",Kennewick
+2008-01-01,237.206,WA,"Kennewick-Richland, WA",Kennewick
+2009-01-01,245.649,WA,"Kennewick-Richland, WA",Kennewick
+2010-01-01,255.543,WA,"Kennewick-Richland, WA",Kennewick
+2011-01-01,263.497,WA,"Kennewick-Richland, WA",Kennewick
+2012-01-01,268.091,WA,"Kennewick-Richland, WA",Kennewick
+2013-01-01,270.803,WA,"Kennewick-Richland, WA",Kennewick
+2014-01-01,274.175,WA,"Kennewick-Richland, WA",Kennewick
+2015-01-01,278.963,WA,"Kennewick-Richland, WA",Kennewick
+2016-01-01,283.705,WA,"Kennewick-Richland, WA",Kennewick
+2017-01-01,290.032,WA,"Kennewick-Richland, WA",Kennewick
+2018-01-01,295.124,WA,"Kennewick-Richland, WA",Kennewick
+2019-01-01,299.619,WA,"Kennewick-Richland, WA",Kennewick
+2020-01-01,303.501,WA,"Kennewick-Richland, WA",Kennewick
+2000-01-01,174.784,VA,"Charlottesville, VA",Charlottesville
+2001-01-01,177.884,VA,"Charlottesville, VA",Charlottesville
+2002-01-01,180.592,VA,"Charlottesville, VA",Charlottesville
+2003-01-01,182.525,VA,"Charlottesville, VA",Charlottesville
+2004-01-01,184.806,VA,"Charlottesville, VA",Charlottesville
+2005-01-01,187.823,VA,"Charlottesville, VA",Charlottesville
+2006-01-01,190.46,VA,"Charlottesville, VA",Charlottesville
+2007-01-01,192.51,VA,"Charlottesville, VA",Charlottesville
+2008-01-01,195.012,VA,"Charlottesville, VA",Charlottesville
+2009-01-01,196.766,VA,"Charlottesville, VA",Charlottesville
+2010-01-01,201.913,VA,"Charlottesville, VA",Charlottesville
+2011-01-01,203.683,VA,"Charlottesville, VA",Charlottesville
+2012-01-01,205.636,VA,"Charlottesville, VA",Charlottesville
+2013-01-01,206.887,VA,"Charlottesville, VA",Charlottesville
+2014-01-01,209.351,VA,"Charlottesville, VA",Charlottesville
+2015-01-01,211.691,VA,"Charlottesville, VA",Charlottesville
+2016-01-01,213.98,VA,"Charlottesville, VA",Charlottesville
+2017-01-01,216.488,VA,"Charlottesville, VA",Charlottesville
+2018-01-01,217.739,VA,"Charlottesville, VA",Charlottesville
+2019-01-01,219.16,VA,"Charlottesville, VA",Charlottesville
+2020-01-01,219.91,VA,"Charlottesville, VA",Charlottesville
+2000-01-01,140.886,GA,"Gainesville, GA",Gainesville
+2001-01-01,146.87,GA,"Gainesville, GA",Gainesville
+2002-01-01,151.775,GA,"Gainesville, GA",Gainesville
+2003-01-01,155.887,GA,"Gainesville, GA",Gainesville
+2004-01-01,159.745,GA,"Gainesville, GA",Gainesville
+2005-01-01,165.245,GA,"Gainesville, GA",Gainesville
+2006-01-01,171.867,GA,"Gainesville, GA",Gainesville
+2007-01-01,178.838,GA,"Gainesville, GA",Gainesville
+2008-01-01,184.731,GA,"Gainesville, GA",Gainesville
+2009-01-01,187.743,GA,"Gainesville, GA",Gainesville
+2010-01-01,180.07,GA,"Gainesville, GA",Gainesville
+2011-01-01,182.299,GA,"Gainesville, GA",Gainesville
+2012-01-01,184.136,GA,"Gainesville, GA",Gainesville
+2013-01-01,186.459,GA,"Gainesville, GA",Gainesville
+2014-01-01,189.156,GA,"Gainesville, GA",Gainesville
+2015-01-01,192.249,GA,"Gainesville, GA",Gainesville
+2016-01-01,196.176,GA,"Gainesville, GA",Gainesville
+2017-01-01,198.854,GA,"Gainesville, GA",Gainesville
+2018-01-01,201.396,GA,"Gainesville, GA",Gainesville
+2019-01-01,204.31,GA,"Gainesville, GA",Gainesville
+2020-01-01,206.591,GA,"Gainesville, GA",Gainesville
+2000-01-01,142.246,FL,"Punta Gorda, FL",Punta Gorda
+2001-01-01,146.008,FL,"Punta Gorda, FL",Punta Gorda
+2002-01-01,149.473,FL,"Punta Gorda, FL",Punta Gorda
+2003-01-01,152.138,FL,"Punta Gorda, FL",Punta Gorda
+2004-01-01,156.281,FL,"Punta Gorda, FL",Punta Gorda
+2005-01-01,153.407,FL,"Punta Gorda, FL",Punta Gorda
+2006-01-01,154.885,FL,"Punta Gorda, FL",Punta Gorda
+2007-01-01,157.235,FL,"Punta Gorda, FL",Punta Gorda
+2008-01-01,157.736,FL,"Punta Gorda, FL",Punta Gorda
+2009-01-01,156.952,FL,"Punta Gorda, FL",Punta Gorda
+2010-01-01,159.897,FL,"Punta Gorda, FL",Punta Gorda
+2011-01-01,159.926,FL,"Punta Gorda, FL",Punta Gorda
+2012-01-01,162.84,FL,"Punta Gorda, FL",Punta Gorda
+2013-01-01,164.801,FL,"Punta Gorda, FL",Punta Gorda
+2014-01-01,168.208,FL,"Punta Gorda, FL",Punta Gorda
+2015-01-01,172.607,FL,"Punta Gorda, FL",Punta Gorda
+2016-01-01,178.046,FL,"Punta Gorda, FL",Punta Gorda
+2017-01-01,181.998,FL,"Punta Gorda, FL",Punta Gorda
+2018-01-01,185.204,FL,"Punta Gorda, FL",Punta Gorda
+2019-01-01,189.669,FL,"Punta Gorda, FL",Punta Gorda
+2020-01-01,194.711,FL,"Punta Gorda, FL",Punta Gorda
+2000-01-01,141.839,CO,"Pueblo, CO",Pueblo
+2001-01-01,144.13,CO,"Pueblo, CO",Pueblo
+2002-01-01,146.735,CO,"Pueblo, CO",Pueblo
+2003-01-01,147.931,CO,"Pueblo, CO",Pueblo
+2004-01-01,148.578,CO,"Pueblo, CO",Pueblo
+2005-01-01,149.677,CO,"Pueblo, CO",Pueblo
+2006-01-01,151.814,CO,"Pueblo, CO",Pueblo
+2007-01-01,154.348,CO,"Pueblo, CO",Pueblo
+2008-01-01,156.009,CO,"Pueblo, CO",Pueblo
+2009-01-01,157.224,CO,"Pueblo, CO",Pueblo
+2010-01-01,159.401,CO,"Pueblo, CO",Pueblo
+2011-01-01,160.208,CO,"Pueblo, CO",Pueblo
+2012-01-01,160.763,CO,"Pueblo, CO",Pueblo
+2013-01-01,161.096,CO,"Pueblo, CO",Pueblo
+2014-01-01,161.434,CO,"Pueblo, CO",Pueblo
+2015-01-01,163.101,CO,"Pueblo, CO",Pueblo
+2016-01-01,164.883,CO,"Pueblo, CO",Pueblo
+2017-01-01,166.37,CO,"Pueblo, CO",Pueblo
+2018-01-01,167.574,CO,"Pueblo, CO",Pueblo
+2019-01-01,168.409,CO,"Pueblo, CO",Pueblo
+2020-01-01,169.823,CO,"Pueblo, CO",Pueblo
+2000-01-01,111.19,WV,"Morgantown, WV",Morgantown
+2001-01-01,111.942,WV,"Morgantown, WV",Morgantown
+2002-01-01,112.798,WV,"Morgantown, WV",Morgantown
+2003-01-01,114.103,WV,"Morgantown, WV",Morgantown
+2004-01-01,114.911,WV,"Morgantown, WV",Morgantown
+2005-01-01,115.988,WV,"Morgantown, WV",Morgantown
+2006-01-01,117.039,WV,"Morgantown, WV",Morgantown
+2007-01-01,117.927,WV,"Morgantown, WV",Morgantown
+2008-01-01,118.931,WV,"Morgantown, WV",Morgantown
+2009-01-01,120.327,WV,"Morgantown, WV",Morgantown
+2010-01-01,130.314,WV,"Morgantown, WV",Morgantown
+2011-01-01,132.73,WV,"Morgantown, WV",Morgantown
+2012-01-01,134.914,WV,"Morgantown, WV",Morgantown
+2013-01-01,136.085,WV,"Morgantown, WV",Morgantown
+2014-01-01,137.558,WV,"Morgantown, WV",Morgantown
+2015-01-01,138.726,WV,"Morgantown, WV",Morgantown
+2016-01-01,139.668,WV,"Morgantown, WV",Morgantown
+2017-01-01,139.932,WV,"Morgantown, WV",Morgantown
+2018-01-01,139.473,WV,"Morgantown, WV",Morgantown
+2019-01-01,139.76,WV,"Morgantown, WV",Morgantown
+2020-01-01,140.199,WV,"Morgantown, WV",Morgantown
+2000-01-01,124.545,CA,"Napa, CA",Napa
+2001-01-01,126.731,CA,"Napa, CA",Napa
+2002-01-01,128.584,CA,"Napa, CA",Napa
+2003-01-01,129.8,CA,"Napa, CA",Napa
+2004-01-01,130.007,CA,"Napa, CA",Napa
+2005-01-01,129.859,CA,"Napa, CA",Napa
+2006-01-01,130.818,CA,"Napa, CA",Napa
+2007-01-01,131.949,CA,"Napa, CA",Napa
+2008-01-01,133.591,CA,"Napa, CA",Napa
+2009-01-01,134.65,CA,"Napa, CA",Napa
+2010-01-01,136.752,CA,"Napa, CA",Napa
+2011-01-01,137.668,CA,"Napa, CA",Napa
+2012-01-01,138.504,CA,"Napa, CA",Napa
+2013-01-01,139.522,CA,"Napa, CA",Napa
+2014-01-01,140.331,CA,"Napa, CA",Napa
+2015-01-01,140.766,CA,"Napa, CA",Napa
+2016-01-01,140.778,CA,"Napa, CA",Napa
+2017-01-01,139.818,CA,"Napa, CA",Napa
+2018-01-01,138.62,CA,"Napa, CA",Napa
+2019-01-01,137.678,CA,"Napa, CA",Napa
+2020-01-01,135.965,CA,"Napa, CA",Napa
+2010-01-01,116.609,NY,"Watertown-Fort Drum, NY",Watertown
+2011-01-01,117.809,NY,"Watertown-Fort Drum, NY",Watertown
+2012-01-01,120.335,NY,"Watertown-Fort Drum, NY",Watertown
+2013-01-01,118.617,NY,"Watertown-Fort Drum, NY",Watertown
+2014-01-01,118.121,NY,"Watertown-Fort Drum, NY",Watertown
+2015-01-01,116.539,NY,"Watertown-Fort Drum, NY",Watertown
+2016-01-01,113.28,NY,"Watertown-Fort Drum, NY",Watertown
+2017-01-01,113.488,NY,"Watertown-Fort Drum, NY",Watertown
+2018-01-01,112.266,NY,"Watertown-Fort Drum, NY",Watertown
+2019-01-01,110.143,NY,"Watertown-Fort Drum, NY",Watertown
+2020-01-01,108.095,NY,"Watertown-Fort Drum, NY",Watertown
+2010-01-01,85.653,PA,"Bloomsburg-Berwick, PA",Bloomsburg
+2011-01-01,85.448,PA,"Bloomsburg-Berwick, PA",Bloomsburg
+2012-01-01,85.474,PA,"Bloomsburg-Berwick, PA",Bloomsburg
+2013-01-01,85.601,PA,"Bloomsburg-Berwick, PA",Bloomsburg
+2014-01-01,85.553,PA,"Bloomsburg-Berwick, PA",Bloomsburg
+2015-01-01,85.001,PA,"Bloomsburg-Berwick, PA",Bloomsburg
+2016-01-01,84.412,PA,"Bloomsburg-Berwick, PA",Bloomsburg
+2017-01-01,83.893,PA,"Bloomsburg-Berwick, PA",Bloomsburg
+2018-01-01,83.45,PA,"Bloomsburg-Berwick, PA",Bloomsburg
+2019-01-01,83.201,PA,"Bloomsburg-Berwick, PA",Bloomsburg
+2020-01-01,82.884,PA,"Bloomsburg-Berwick, PA",Bloomsburg
+2000-01-01,57.952,ID,"Lewiston, ID-WA",Lewiston
+2001-01-01,57.47,ID,"Lewiston, ID-WA",Lewiston
+2002-01-01,57.635,ID,"Lewiston, ID-WA",Lewiston
+2003-01-01,58.196,ID,"Lewiston, ID-WA",Lewiston
+2004-01-01,58.589,ID,"Lewiston, ID-WA",Lewiston
+2005-01-01,58.966,ID,"Lewiston, ID-WA",Lewiston
+2006-01-01,59.641,ID,"Lewiston, ID-WA",Lewiston
+2007-01-01,59.935,ID,"Lewiston, ID-WA",Lewiston
+2008-01-01,60.26,ID,"Lewiston, ID-WA",Lewiston
+2009-01-01,60.643,ID,"Lewiston, ID-WA",Lewiston
+2010-01-01,61.042,ID,"Lewiston, ID-WA",Lewiston
+2011-01-01,61.428,ID,"Lewiston, ID-WA",Lewiston
+2012-01-01,61.447,ID,"Lewiston, ID-WA",Lewiston
+2013-01-01,61.986,ID,"Lewiston, ID-WA",Lewiston
+2014-01-01,62.108,ID,"Lewiston, ID-WA",Lewiston
+2015-01-01,62.206,ID,"Lewiston, ID-WA",Lewiston
+2016-01-01,62.562,ID,"Lewiston, ID-WA",Lewiston
+2017-01-01,62.988,ID,"Lewiston, ID-WA",Lewiston
+2018-01-01,63.107,ID,"Lewiston, ID-WA",Lewiston
+2019-01-01,63.288,ID,"Lewiston, ID-WA",Lewiston
+2020-01-01,63.575,ID,"Lewiston, ID-WA",Lewiston

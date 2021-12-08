@@ -182,6 +182,7 @@ def get_all_series(api_key, series_df, keyword):
         series_output = get_series(subseries.id[idx], api_key)
         series_output['state'] = subseries.state[idx]
         series_output['msa'] = subseries.msa[idx]
+        series_output['city'] = subseries.city[idx]
         series_output = series_output.rename(columns={'value' : keyword})
         series_output = series_output.drop(columns=['realtime_start', 'realtime_end'])
         
@@ -190,3 +191,46 @@ def get_all_series(api_key, series_df, keyword):
         
     return output
     
+def save_series_data(api_key, series_df, keyword):
+    '''
+    Parameters
+    ----------
+    api_key : string
+        FRED API KEY.
+    series_df : dataframe
+        dataframe of FRED MSA series, including columns "title", "id", "state", and "msa"
+    keyword : string
+        name of overall series (e.g. "Per Capita Personal Income")
+
+    Returns
+    -------
+    saves a csv file with data to fred-data folder
+    '''
+
+    df = get_all_series(api_key, series_df, keyword)
+
+    filename = '..\\fred-data\\' + keyword.replace(':', ' -') + '.csv'
+
+    df.to_csv(filename, index=False)
+    
+    
+def save_all_series_data(api_key, series_df, keyword_list):
+    '''
+
+    Parameters
+    ----------
+    api_key : string
+        FRED API key
+    series_df : dataframe
+        dataframe of FRED MSA series, including columns "title", "id", "state", and "msa"
+    keyword_list : list of strings
+        DESCRIPTION.
+
+    Returns
+    -------
+    saves csv file with data to fred-data folder for all keywords in keyword list
+
+    '''
+    
+    for keyword in keyword_list:
+        save_series_data(api_key, series_df, keyword)
