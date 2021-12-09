@@ -1,0 +1,620 @@
+date,Resident Population,state,msa,city,title,id,frequency,seasonal_adjustment
+2000-01-01,731.712,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2001-01-01,739.531,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2002-01-01,753.67,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2003-01-01,766.154,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2004-01-01,780.865,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2005-01-01,798.722,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2006-01-01,817.973,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2007-01-01,834.685,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2008-01-01,846.582,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2009-01-01,857.903,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2010-01-01,889.581,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2011-01-01,898.123,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2012-01-01,902.091,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2013-01-01,905.143,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2014-01-01,904.75,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2015-01-01,906.283,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2016-01-01,909.571,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2017-01-01,912.592,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2018-01-01,915.269,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2019-01-01,918.865,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2020-01-01,923.63,NM,"Albuquerque, NM",Albuquerque,"Resident Population in Albuquerque, NM (MSA)",ABQPOP,Annual,Not Seasonally Adjusted
+2000-01-01,4281.905,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2001-01-01,4432.95,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2002-01-01,4555.49,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2003-01-01,4673.146,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2004-01-01,4802.3,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2005-01-01,4947.012,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2006-01-01,5119.641,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2007-01-01,5267.527,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2008-01-01,5385.586,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2009-01-01,5475.213,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2010-01-01,5302.733,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2011-01-01,5367.069,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2012-01-01,5445.543,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2013-01-01,5512.111,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2014-01-01,5595.218,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2015-01-01,5688.583,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2016-01-01,5791.874,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2017-01-01,5876.763,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2018-01-01,5951.394,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2019-01-01,6027.231,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2020-01-01,6087.762,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2000-01-01,384.688,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2001-01-01,381.705,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2002-01-01,381.019,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2003-01-01,380.03,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2004-01-01,380.324,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2005-01-01,380.272,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2006-01-01,373.058,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2007-01-01,375.725,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2008-01-01,377.477,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2009-01-01,378.477,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2010-01-01,389.257,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2011-01-01,390.924,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2012-01-01,389.654,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2013-01-01,391.255,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2014-01-01,391.713,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2015-01-01,394.908,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2016-01-01,396.658,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2017-01-01,398.139,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2018-01-01,393.037,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2019-01-01,392.197,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2020-01-01,391.31,TX,"Beaumont-Port Arthur, TX",Beaumont,"Resident Population in Beaumont-Port Arthur, TX (MSA)",BMTPOP,Annual,Not Seasonally Adjusted
+2000-01-01,1053.394,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2001-01-01,1060.335,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2002-01-01,1065.089,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2003-01-01,1073.439,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2004-01-01,1081.705,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2005-01-01,1090.441,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2006-01-01,1103.572,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2007-01-01,1112.838,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2008-01-01,1123.146,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2009-01-01,1131.07,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2010-01-01,1061.728,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2011-01-01,1064.114,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2012-01-01,1067.725,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2013-01-01,1073.11,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2014-01-01,1076.373,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2015-01-01,1080.114,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2016-01-01,1083.318,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2017-01-01,1086.149,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2018-01-01,1088.545,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2019-01-01,1090.916,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2020-01-01,1091.921,AL,"Birmingham-Hoover, AL",Birmingham,"Resident Population in Birmingham-Hoover, AL (MSA)",BIRPOP,Annual,Not Seasonally Adjusted
+2000-01-01,309.387,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2001-01-01,307.023,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2002-01-01,306.123,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2003-01-01,306.154,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2004-01-01,305.911,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2005-01-01,304.426,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2006-01-01,303.509,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2007-01-01,303.401,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2008-01-01,303.331,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2009-01-01,304.214,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2010-01-01,277.821,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2011-01-01,276.86,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2012-01-01,276.77,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2013-01-01,275.52,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2014-01-01,273.728,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2015-01-01,271.0,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2016-01-01,268.344,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2017-01-01,264.411,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2018-01-01,260.335,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2019-01-01,257.365,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2020-01-01,254.145,WV,"Charleston, WV",Charleston,"Resident Population in Charleston, WV (MSA)",CHRPOP,Annual,Not Seasonally Adjusted
+2000-01-01,540.111,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2001-01-01,556.604,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2002-01-01,566.091,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2003-01-01,572.399,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2004-01-01,579.81,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2005-01-01,588.385,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2006-01-01,601.15,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2007-01-01,607.267,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2008-01-01,616.975,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2009-01-01,626.227,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2010-01-01,650.562,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2011-01-01,660.754,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2012-01-01,669.356,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2013-01-01,678.55,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2014-01-01,686.426,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2015-01-01,697.515,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2016-01-01,712.769,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2017-01-01,725.551,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2018-01-01,737.904,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2019-01-01,747.337,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2020-01-01,753.839,CO,"Colorado Springs, CO",Colorado Springs,"Resident Population in Colorado Springs, CO (MSA)",CLRPOP,Annual,Not Seasonally Adjusted
+2000-01-01,170.966,FL,"Crestview-Fort Walton Beach-Destin, FL",Crestview,"Resident Population in Fort Walton Beach-Crestview-Destin, FL (MSA)",FORPOP,Annual,Not Seasonally Adjusted
+2001-01-01,171.966,FL,"Crestview-Fort Walton Beach-Destin, FL",Crestview,"Resident Population in Fort Walton Beach-Crestview-Destin, FL (MSA)",FORPOP,Annual,Not Seasonally Adjusted
+2002-01-01,175.924,FL,"Crestview-Fort Walton Beach-Destin, FL",Crestview,"Resident Population in Fort Walton Beach-Crestview-Destin, FL (MSA)",FORPOP,Annual,Not Seasonally Adjusted
+2003-01-01,178.644,FL,"Crestview-Fort Walton Beach-Destin, FL",Crestview,"Resident Population in Fort Walton Beach-Crestview-Destin, FL (MSA)",FORPOP,Annual,Not Seasonally Adjusted
+2004-01-01,182.22,FL,"Crestview-Fort Walton Beach-Destin, FL",Crestview,"Resident Population in Fort Walton Beach-Crestview-Destin, FL (MSA)",FORPOP,Annual,Not Seasonally Adjusted
+2005-01-01,183.398,FL,"Crestview-Fort Walton Beach-Destin, FL",Crestview,"Resident Population in Fort Walton Beach-Crestview-Destin, FL (MSA)",FORPOP,Annual,Not Seasonally Adjusted
+2006-01-01,182.462,FL,"Crestview-Fort Walton Beach-Destin, FL",Crestview,"Resident Population in Fort Walton Beach-Crestview-Destin, FL (MSA)",FORPOP,Annual,Not Seasonally Adjusted
+2007-01-01,180.911,FL,"Crestview-Fort Walton Beach-Destin, FL",Crestview,"Resident Population in Fort Walton Beach-Crestview-Destin, FL (MSA)",FORPOP,Annual,Not Seasonally Adjusted
+2008-01-01,179.529,FL,"Crestview-Fort Walton Beach-Destin, FL",Crestview,"Resident Population in Fort Walton Beach-Crestview-Destin, FL (MSA)",FORPOP,Annual,Not Seasonally Adjusted
+2009-01-01,178.473,FL,"Crestview-Fort Walton Beach-Destin, FL",Crestview,"Resident Population in Fort Walton Beach-Crestview-Destin, FL (MSA)",FORPOP,Annual,Not Seasonally Adjusted
+2000-01-01,5196.188,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2001-01-01,5354.623,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2002-01-01,5476.578,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2003-01-01,5582.033,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2004-01-01,5689.982,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2005-01-01,5816.407,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2006-01-01,5999.411,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2007-01-01,6156.652,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2008-01-01,6301.085,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2009-01-01,6447.615,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2010-01-01,6392.097,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2011-01-01,6510.55,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2012-01-01,6644.519,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2013-01-01,6753.804,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2014-01-01,6889.603,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2015-01-01,7042.322,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2016-01-01,7195.475,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2017-01-01,7337.707,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2018-01-01,7457.586,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2019-01-01,7574.39,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2020-01-01,7694.138,TX,"Dallas-Fort Worth-Arlington, TX",Dallas,"Resident Population in Dallas-Fort Worth-Arlington, TX (MSA)",DFWPOP,Annual,Not Seasonally Adjusted
+2000-01-01,391.066,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2001-01-01,393.586,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2002-01-01,396.06,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2003-01-01,398.574,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2004-01-01,400.163,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2005-01-01,402.638,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2006-01-01,406.112,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2007-01-01,409.659,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2008-01-01,411.625,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2009-01-01,414.315,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2010-01-01,389.307,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2011-01-01,392.37,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2012-01-01,394.282,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2013-01-01,396.719,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2014-01-01,398.703,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2015-01-01,400.959,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2016-01-01,403.005,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2017-01-01,405.535,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2018-01-01,409.112,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2019-01-01,412.874,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2020-01-01,416.565,IN,"Fort Wayne, IN",Fort Wayne,"Resident Population in Fort Wayne, IN (MSA)",FWAPOP,Annual,Not Seasonally Adjusted
+2000-01-01,97.331,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2001-01-01,96.436,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2002-01-01,96.093,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2003-01-01,96.132,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2004-01-01,97.84,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2005-01-01,97.298,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2006-01-01,97.796,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2007-01-01,96.789,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2008-01-01,97.261,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2009-01-01,97.19,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2010-01-01,98.633,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2011-01-01,98.196,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2012-01-01,99.175,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2013-01-01,100.85,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2014-01-01,101.376,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2015-01-01,101.967,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2016-01-01,102.358,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2017-01-01,102.358,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2018-01-01,102.039,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2019-01-01,101.0,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2020-01-01,100.381,ND,"Grand Forks, ND-MN",Grand Forks,"Resident Population in Grand Forks, ND-MN (MSA)",GRFPOP,Annual,Not Seasonally Adjusted
+2000-01-01,4739.414,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2001-01-01,4851.189,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2002-01-01,4978.638,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2003-01-01,5084.017,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2004-01-01,5190.444,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2005-01-01,5299.567,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2006-01-01,5484.883,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2007-01-01,5597.674,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2008-01-01,5726.705,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2009-01-01,5867.489,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2010-01-01,5947.185,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2011-01-01,6056.008,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2012-01-01,6183.119,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2013-01-01,6327.622,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2014-01-01,6499.375,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2015-01-01,6670.803,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2016-01-01,6806.315,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2017-01-01,6898.912,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2018-01-01,6974.948,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2019-01-01,7063.4,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2020-01-01,7154.478,TX,"Houston-The Woodlands-Sugar Land, TX",Houston,"Resident Population in Houston-The Woodlands-Sugar Land, TX (MSA)",HTNPOP,Annual,Not Seasonally Adjusted
+2000-01-01,152.24,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2001-01-01,150.995,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2002-01-01,149.851,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2003-01-01,148.71,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2004-01-01,147.704,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2005-01-01,146.726,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2006-01-01,145.822,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2007-01-01,145.061,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2008-01-01,144.488,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2009-01-01,143.998,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2010-01-01,143.458,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2011-01-01,142.59,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2012-01-01,141.563,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2013-01-01,138.858,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2014-01-01,137.587,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2015-01-01,136.083,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2016-01-01,134.517,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2017-01-01,133.035,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2018-01-01,131.478,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2019-01-01,130.107,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2020-01-01,128.672,PA,"Johnstown, PA",Johnstown,"Resident Population in Johnstown, PA (MSA)",JHNPOP,Annual,Not Seasonally Adjusted
+2000-01-01,1842.924,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2001-01-01,1865.245,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2002-01-01,1890.419,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2003-01-01,1912.368,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2004-01-01,1935.84,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2005-01-01,1958.504,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2006-01-01,1984.954,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2007-01-01,2011.857,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2008-01-01,2046.083,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2009-01-01,2067.585,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2010-01-01,2013.423,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2011-01-01,2025.864,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2012-01-01,2039.21,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2013-01-01,2054.764,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2014-01-01,2070.383,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2015-01-01,2087.407,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2016-01-01,2108.768,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2017-01-01,2129.425,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2018-01-01,2147.602,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2019-01-01,2161.639,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2020-01-01,2173.212,MO,"Kansas City, MO-KS",Kansas City,"Resident Population in Kansas City, MO-KS (MSA)",KNCPOP,Annual,Not Seasonally Adjusted
+2000-01-01,471.818,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2001-01-01,474.42,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2002-01-01,478.078,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2003-01-01,481.803,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2004-01-01,485.676,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2005-01-01,489.258,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2006-01-01,494.393,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2007-01-01,499.364,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2008-01-01,503.807,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2009-01-01,507.766,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2010-01-01,520.325,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2011-01-01,523.996,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2012-01-01,526.949,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2013-01-01,530.109,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2014-01-01,533.414,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2015-01-01,535.96,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2016-01-01,538.303,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2017-01-01,541.352,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2018-01-01,543.96,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2019-01-01,545.441,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2020-01-01,546.192,PA,"Lancaster, PA",Lancaster,"Resident Population in Lancaster, PA (MSA)",LACPOP,Annual,Not Seasonally Adjusted
+2000-01-01,228.918,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2001-01-01,229.138,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2002-01-01,229.459,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2003-01-01,231.16,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2004-01-01,232.679,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2005-01-01,235.987,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2006-01-01,240.145,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2007-01-01,243.385,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2008-01-01,245.579,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2009-01-01,247.447,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2010-01-01,252.975,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2011-01-01,254.232,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2012-01-01,255.804,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2013-01-01,256.943,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2014-01-01,258.099,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2015-01-01,259.63,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2016-01-01,260.724,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2017-01-01,262.06,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2018-01-01,263.382,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2019-01-01,264.135,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2020-01-01,264.386,VA,"Lynchburg, VA",Lynchburg,"Resident Population in Lynchburg, VA (MSA)",LYNPOP,Annual,Not Seasonally Adjusted
+2000-01-01,504.044,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2001-01-01,511.777,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2002-01-01,519.57,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2003-01-01,526.419,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2004-01-01,533.567,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2005-01-01,540.145,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2006-01-01,547.093,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2007-01-01,554.887,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2008-01-01,562.065,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2009-01-01,570.025,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2010-01-01,606.653,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2011-01-01,613.272,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2012-01-01,619.908,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2013-01-01,627.101,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2014-01-01,633.697,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2015-01-01,640.607,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2016-01-01,648.935,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2017-01-01,655.703,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2018-01-01,660.299,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2019-01-01,665.675,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2020-01-01,670.447,WI,"Madison, WI",Madison,"Resident Population in Madison, WI (MSA)",MDSPOP,Annual,Not Seasonally Adjusted
+2000-01-01,123.564,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2001-01-01,124.775,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2002-01-01,125.209,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2003-01-01,126.853,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2004-01-01,128.254,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2005-01-01,130.104,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2006-01-01,132.542,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2007-01-01,134.979,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2008-01-01,136.579,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2009-01-01,137.612,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2010-01-01,136.946,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2011-01-01,137.566,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2012-01-01,137.773,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2013-01-01,137.958,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2014-01-01,138.323,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2015-01-01,139.275,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2016-01-01,139.959,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2017-01-01,140.963,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2018-01-01,141.803,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2019-01-01,142.842,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2020-01-01,143.982,TN,"Morristown, TN",Morristown,"Resident Population in Morristown, TN (MSA)",MRTPOP,Annual,Not Seasonally Adjusted
+2000-01-01,1315.616,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2001-01-01,1311.131,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2002-01-01,1311.39,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2003-01-01,1312.039,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2004-01-01,1314.721,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2005-01-01,1313.46,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2006-01-01,987.535,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2007-01-01,1109.415,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2008-01-01,1168.547,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2009-01-01,1189.981,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2010-01-01,1195.368,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2011-01-01,1214.209,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2012-01-01,1227.264,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2013-01-01,1240.094,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2014-01-01,1249.547,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2015-01-01,1261.063,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2016-01-01,1268.633,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2017-01-01,1271.46,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2018-01-01,1271.921,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2019-01-01,1273.979,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2020-01-01,1272.258,LA,"New Orleans-Metairie, LA",New Orleans,"Resident Population in New Orleans-Metairie, LA (MSA)",NORPOP,Annual,Not Seasonally Adjusted
+2000-01-01,18352.743,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2001-01-01,18490.029,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2002-01-01,18590.085,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2003-01-01,18671.32,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2004-01-01,18747.431,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2005-01-01,18798.114,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2006-01-01,18825.633,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2007-01-01,18901.167,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2008-01-01,18968.501,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2009-01-01,19069.796,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2010-01-01,18923.437,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2011-01-01,19053.124,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2012-01-01,19150.453,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2013-01-01,19227.457,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2014-01-01,19282.138,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2015-01-01,19322.239,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2016-01-01,19336.456,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2017-01-01,19325.115,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2018-01-01,19289.42,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2019-01-01,19232.494,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2020-01-01,19124.359,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2000-01-01,208.304,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2001-01-01,212.544,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2002-01-01,216.607,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2003-01-01,220.081,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2004-01-01,223.535,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2005-01-01,227.638,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2006-01-01,233.335,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2007-01-01,238.717,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2008-01-01,245.571,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2009-01-01,250.979,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2010-01-01,253.011,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2011-01-01,256.439,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2012-01-01,258.613,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2013-01-01,261.976,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2014-01-01,265.071,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2015-01-01,268.175,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2016-01-01,273.827,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2017-01-01,280.255,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2018-01-01,285.672,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2019-01-01,289.661,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2020-01-01,294.074,WA,"Olympia-Lacey-Tumwater, WA",Olympia,"Resident Population in Olympia-Tumwater, WA (MSA)",OLYPOP,Annual,Not Seasonally Adjusted
+2000-01-01,756.366,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2001-01-01,765.278,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2002-01-01,776.56,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2003-01-01,783.84,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2004-01-01,787.749,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2005-01-01,786.058,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2006-01-01,788.073,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2007-01-01,789.671,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2008-01-01,794.778,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2009-01-01,802.983,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2010-01-01,825.144,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2011-01-01,829.908,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2012-01-01,833.287,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2013-01-01,837.729,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2014-01-01,842.113,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2015-01-01,845.599,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2016-01-01,846.921,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2017-01-01,848.264,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2018-01-01,847.222,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2019-01-01,844.203,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2020-01-01,841.387,CA,"Oxnard-Thousand Oaks-Ventura, CA",Oxnard,"Resident Population in Oxnard-Thousand Oaks-Ventura, CA (MSA)",VENPOP,Annual,Not Seasonally Adjusted
+2000-01-01,148.258,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2001-01-01,149.807,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2002-01-01,152.213,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2003-01-01,154.726,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2004-01-01,157.841,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2005-01-01,161.586,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2006-01-01,163.802,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2007-01-01,163.3,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2008-01-01,163.802,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2009-01-01,164.767,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2010-01-01,169.209,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2011-01-01,169.587,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2012-01-01,171.818,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2013-01-01,174.704,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2014-01-01,178.435,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2015-01-01,181.678,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2016-01-01,183.765,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2017-01-01,184.841,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2018-01-01,186.555,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2019-01-01,173.895,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2020-01-01,171.322,FL,"Panama City, FL",Panama City,"Resident Population in Panama City, FL (MSA)",PANPOP,Annual,Not Seasonally Adjusted
+2000-01-01,5693.275,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2001-01-01,5722.541,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2002-01-01,5755.874,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2003-01-01,5787.788,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2004-01-01,5822.876,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2005-01-01,5850.621,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2006-01-01,5880.912,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2007-01-01,5912.678,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2008-01-01,5940.496,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2009-01-01,5968.252,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2010-01-01,5971.202,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2011-01-01,5996.995,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2012-01-01,6017.788,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2013-01-01,6031.789,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2014-01-01,6049.852,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2015-01-01,6060.137,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2016-01-01,6070.16,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2017-01-01,6082.355,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2018-01-01,6096.805,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2019-01-01,6104.777,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2020-01-01,6107.906,PA,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Philadelphia,"Resident Population in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (MSA)",PCWPOP,Annual,Not Seasonally Adjusted
+2000-01-01,374.521,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2001-01-01,377.155,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2002-01-01,380.629,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2003-01-01,384.547,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2004-01-01,389.177,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2005-01-01,393.788,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2006-01-01,399.279,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2007-01-01,402.476,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2008-01-01,404.771,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2009-01-01,407.125,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2010-01-01,412.041,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2011-01-01,413.027,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2012-01-01,413.552,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2013-01-01,413.975,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2014-01-01,414.632,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2015-01-01,415.218,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2016-01-01,415.911,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2017-01-01,417.601,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2018-01-01,420.407,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2019-01-01,420.375,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2020-01-01,421.017,PA,"Reading, PA",Reading,"Resident Population in Reading, PA (MSA)",RDGPOP,Annual,Not Seasonally Adjusted
+2000-01-01,344.808,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2001-01-01,355.153,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2002-01-01,365.239,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2003-01-01,374.743,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2004-01-01,385.049,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2005-01-01,394.881,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2006-01-01,402.383,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2007-01-01,410.616,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2008-01-01,416.657,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2009-01-01,419.261,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2010-01-01,425.966,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2011-01-01,427.971,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2012-01-01,431.328,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2013-01-01,435.05,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2014-01-01,440.316,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2015-01-01,446.498,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2016-01-01,453.994,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2017-01-01,460.865,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2018-01-01,468.62,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2019-01-01,476.574,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2020-01-01,481.289,NV,"Reno, NV",Reno,"Resident Population in Reno, NV (MSA)",RENPOP,Annual,Not Seasonally Adjusted
+2000-01-01,224.8,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2001-01-01,224.906,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2002-01-01,225.024,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2003-01-01,225.567,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2004-01-01,226.331,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2005-01-01,227.102,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2006-01-01,227.488,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2007-01-01,228.615,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2008-01-01,229.774,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2009-01-01,230.824,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2010-01-01,234.267,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2011-01-01,234.716,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2012-01-01,234.445,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2013-01-01,233.901,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2014-01-01,233.799,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2015-01-01,233.617,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2016-01-01,233.237,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2017-01-01,233.047,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2018-01-01,232.216,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2019-01-01,231.862,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2020-01-01,230.878,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2000-01-01,861.369,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2001-01-01,867.707,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2002-01-01,874.815,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2003-01-01,876.919,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2004-01-01,877.172,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2005-01-01,881.652,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2006-01-01,892.635,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2007-01-01,905.678,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2008-01-01,916.037,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2009-01-01,929.015,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2010-01-01,939.868,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2011-01-01,945.873,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2012-01-01,952.694,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2013-01-01,962.21,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2014-01-01,969.784,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2015-01-01,981.356,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2016-01-01,989.124,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2017-01-01,991.785,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2018-01-01,994.033,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2019-01-01,999.348,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2020-01-01,1006.411,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2000-01-01,151.584,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2001-01-01,150.142,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2002-01-01,150.331,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2003-01-01,150.809,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2004-01-01,151.064,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2005-01-01,149.8,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2006-01-01,149.444,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2007-01-01,148.238,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2008-01-01,147.607,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2009-01-01,147.421,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2010-01-01,151.657,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2011-01-01,150.333,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2012-01-01,151.082,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2013-01-01,151.512,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2014-01-01,151.943,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2015-01-01,150.175,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2016-01-01,150.434,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2017-01-01,151.091,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2018-01-01,151.263,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2019-01-01,151.485,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2020-01-01,152.485,TX,"Wichita Falls, TX",Wichita Falls,"Resident Population in Wichita Falls, TX (MSA)",WIFPOP,Annual,Not Seasonally Adjusted
+2000-01-01,572.045,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2001-01-01,574.528,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2002-01-01,578.622,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2003-01-01,579.8,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2004-01-01,581.206,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2005-01-01,583.759,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2006-01-01,588.228,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2007-01-01,595.342,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2008-01-01,603.205,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2009-01-01,612.683,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2010-01-01,623.898,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2011-01-01,625.391,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2012-01-01,628.264,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2013-01-01,630.518,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2014-01-01,632.986,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2015-01-01,635.769,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2016-01-01,637.989,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2017-01-01,637.847,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2018-01-01,637.971,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2019-01-01,640.763,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2020-01-01,643.768,KS,"Wichita, KS",Wichita,"Resident Population in Wichita, KS (MSA)",WICPOP,Annual,Not Seasonally Adjusted
+2000-01-01,382.749,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2001-01-01,385.397,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2002-01-01,388.885,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2003-01-01,393.622,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2004-01-01,399.49,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2005-01-01,406.555,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2006-01-01,414.969,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2007-01-01,421.589,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2008-01-01,425.766,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2009-01-01,428.937,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2010-01-01,435.42,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2011-01-01,436.749,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2012-01-01,437.551,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2013-01-01,439.041,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2014-01-01,440.616,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2015-01-01,441.911,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2016-01-01,444.012,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2017-01-01,445.924,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2018-01-01,448.417,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2019-01-01,449.341,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
+2020-01-01,450.448,PA,"York-Hanover, PA",York,"Resident Population in York-Hanover, PA (MSA)",YRKPOP,Annual,Not Seasonally Adjusted
