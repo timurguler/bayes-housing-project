@@ -216,7 +216,7 @@ def save_series_data(api_key, series_df, keyword):
 
     df = get_all_series(api_key, series_df, keyword)
 
-    filename = '..\\fred-data\\' + keyword.replace(':', ' -') + '.csv'
+    filename = '..\\fred-data-pres\\' + keyword.replace(':', ' -') + '.csv'
 
     df.to_csv(filename, index=False)
     

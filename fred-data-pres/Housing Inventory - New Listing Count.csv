@@ -1,0 +1,261 @@
+date,Housing Inventory: New Listing Count,state,msa,city,title,id,frequency,seasonal_adjustment
+2016-07-01,14848.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2016-08-01,13340.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2016-09-01,13404.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2016-10-01,12996.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2016-11-01,10848.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2016-12-01,8092.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2017-01-01,11676.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2017-02-01,13496.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2017-03-01,15320.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2017-04-01,14924.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2017-05-01,16028.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2017-06-01,14912.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2017-07-01,14776.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2017-08-01,16868.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2017-09-01,15132.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2017-10-01,14652.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2017-11-01,13196.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2017-12-01,10096.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2018-01-01,12432.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2018-02-01,15868.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2018-03-01,17896.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2018-04-01,18660.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2018-05-01,18964.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2018-06-01,19304.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2018-07-01,17972.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2018-08-01,17908.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2018-09-01,16660.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2018-10-01,17204.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2018-11-01,14788.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2018-12-01,11948.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2019-01-01,16000.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2019-02-01,17880.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2019-03-01,18440.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2019-04-01,20836.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2019-05-01,21296.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2019-06-01,19756.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2019-07-01,19136.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2019-08-01,18488.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2019-09-01,17536.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2019-10-01,17268.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2019-11-01,14440.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2019-12-01,11292.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2020-01-01,15224.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2020-02-01,15508.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2020-03-01,18156.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2020-04-01,14212.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2020-05-01,16420.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2020-06-01,16408.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2020-07-01,15380.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2020-08-01,15744.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2020-09-01,14460.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2020-10-01,14020.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2020-11-01,11756.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2020-12-01,9596.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2021-01-01,10916.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2021-02-01,11520.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2021-03-01,13416.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2021-04-01,14600.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2021-05-01,15528.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2021-06-01,16952.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2021-07-01,16836.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2021-08-01,16132.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2021-09-01,14348.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2021-10-01,14776.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2021-11-01,12796.0,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Housing Inventory: New Listing Count in Atlanta-Sandy Springs-Roswell, GA (CBSA)",NEWLISCOU12060,Monthly,Not Seasonally Adjusted
+2016-07-01,19448.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2016-08-01,16680.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2016-09-01,20160.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2016-10-01,17604.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2016-11-01,16944.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2016-12-01,10660.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2017-01-01,16364.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2017-02-01,19740.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2017-03-01,23932.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2017-04-01,25420.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2017-05-01,27832.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2017-06-01,24496.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2017-07-01,21952.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2017-08-01,20880.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2017-09-01,20340.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2017-10-01,20660.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2017-11-01,16768.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2017-12-01,11540.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2018-01-01,17108.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2018-02-01,20920.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2018-03-01,22904.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2018-04-01,28476.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2018-05-01,29160.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2018-06-01,25740.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2018-07-01,23332.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2018-08-01,21536.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2018-09-01,24296.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2018-10-01,21904.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2018-11-01,18120.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2018-12-01,12736.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2019-01-01,19864.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2019-02-01,20016.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2019-03-01,24472.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2019-04-01,28940.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2019-05-01,31008.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2019-06-01,26904.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2019-07-01,22324.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2019-08-01,24556.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2019-09-01,25752.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2019-10-01,20528.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2019-11-01,17748.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2019-12-01,10276.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2020-01-01,19068.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2020-02-01,21800.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2020-03-01,20372.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2020-04-01,8396.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2020-05-01,18320.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2020-06-01,26540.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2020-07-01,27708.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2020-08-01,26828.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2020-09-01,27224.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2020-10-01,26288.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2020-11-01,18368.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2020-12-01,12492.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2021-01-01,17232.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2021-02-01,15940.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2021-03-01,22228.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2021-04-01,25460.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2021-05-01,26800.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2021-06-01,26256.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2021-07-01,23384.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2021-08-01,24204.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2021-09-01,23792.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2021-10-01,21444.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2021-11-01,17124.0,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Housing Inventory: New Listing Count in New York-Newark-Jersey City, NY-NJ-PA (CBSA)",NEWLISCOU35620,Monthly,Not Seasonally Adjusted
+2016-07-01,312.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2016-08-01,280.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2016-09-01,312.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2016-10-01,284.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2016-11-01,276.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2016-12-01,144.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2017-01-01,252.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2017-02-01,276.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2017-03-01,360.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2017-04-01,348.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2017-05-01,344.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2017-06-01,356.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2017-07-01,324.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2017-08-01,352.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2017-09-01,340.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2017-10-01,288.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2017-11-01,256.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2017-12-01,192.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2018-01-01,212.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2018-02-01,268.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2018-03-01,360.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2018-04-01,324.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2018-05-01,356.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2018-06-01,388.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2018-07-01,372.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2018-08-01,308.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2018-09-01,344.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2018-10-01,284.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2018-11-01,256.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2018-12-01,200.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2019-01-01,196.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2019-02-01,196.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2019-03-01,232.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2019-04-01,336.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2019-05-01,268.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2019-06-01,284.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2019-07-01,264.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2019-08-01,260.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2019-09-01,260.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2019-10-01,288.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2019-11-01,220.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2019-12-01,152.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2020-01-01,196.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2020-02-01,216.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2020-03-01,232.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2020-04-01,188.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2020-05-01,216.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2020-06-01,264.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2020-07-01,232.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2020-08-01,200.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2020-09-01,204.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2020-10-01,176.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2020-11-01,168.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2020-12-01,168.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2021-01-01,140.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2021-02-01,88.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2021-03-01,184.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2021-04-01,208.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2021-05-01,192.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2021-06-01,284.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2021-07-01,248.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2021-08-01,212.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2021-09-01,240.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2021-10-01,208.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2021-11-01,148.0,KS,"Topeka, KS",Topeka,"Housing Inventory: New Listing Count in Topeka, KS (CBSA)",NEWLISCOU45820,Monthly,Not Seasonally Adjusted
+2016-07-01,1468.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2016-08-01,1448.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2016-09-01,1376.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2016-10-01,1316.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2016-11-01,1240.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2016-12-01,900.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2017-01-01,1332.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2017-02-01,1496.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2017-03-01,1612.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2017-04-01,1592.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2017-05-01,1656.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2017-06-01,1612.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2017-07-01,1612.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2017-08-01,1440.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2017-09-01,1396.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2017-10-01,1384.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2017-11-01,1300.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2017-12-01,1016.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2018-01-01,1304.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2018-02-01,1412.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2018-03-01,1540.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2018-04-01,1700.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2018-05-01,1748.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2018-06-01,1540.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2018-07-01,1620.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2018-08-01,1592.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2018-09-01,1308.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2018-10-01,1236.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2018-11-01,1120.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2018-12-01,1100.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2019-01-01,1300.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2019-02-01,1352.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2019-03-01,1436.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2019-04-01,1580.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2019-05-01,1476.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2019-06-01,1408.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2019-07-01,1356.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2019-08-01,1320.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2019-09-01,1116.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2019-10-01,1200.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2019-11-01,908.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2019-12-01,900.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2020-01-01,1048.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2020-02-01,1120.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2020-03-01,1232.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2020-04-01,1048.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2020-05-01,1124.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2020-06-01,1132.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2020-07-01,1164.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2020-08-01,1112.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2020-09-01,1036.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2020-10-01,1048.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2020-11-01,992.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2020-12-01,652.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2021-01-01,740.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2021-02-01,628.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2021-03-01,848.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2021-04-01,924.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2021-05-01,1060.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2021-06-01,1180.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2021-07-01,1196.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2021-08-01,1216.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2021-09-01,972.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2021-10-01,1008.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
+2021-11-01,924.0,OK,"Tulsa, OK",Tulsa,"Housing Inventory: New Listing Count in Tulsa, OK (CBSA)",NEWLISCOU46140,Monthly,Not Seasonally Adjusted
