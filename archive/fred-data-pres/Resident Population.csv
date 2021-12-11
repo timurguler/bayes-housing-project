@@ -1,0 +1,85 @@
+date,Resident Population,state,msa,city,title,id,frequency,seasonal_adjustment
+2000-01-01,4281.905,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2001-01-01,4432.95,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2002-01-01,4555.49,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2003-01-01,4673.146,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2004-01-01,4802.3,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2005-01-01,4947.012,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2006-01-01,5119.641,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2007-01-01,5267.527,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2008-01-01,5385.586,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2009-01-01,5475.213,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2010-01-01,5302.733,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2011-01-01,5367.069,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2012-01-01,5445.543,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2013-01-01,5512.111,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2014-01-01,5595.218,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2015-01-01,5688.583,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2016-01-01,5791.874,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2017-01-01,5876.763,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2018-01-01,5951.394,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2019-01-01,6027.231,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2020-01-01,6087.762,GA,"Atlanta-Sandy Springs-Alpharetta, GA",Atlanta,"Resident Population in Atlanta-Sandy Springs-Roswell, GA (MSA)",ATLPOP,Annual,Not Seasonally Adjusted
+2000-01-01,18352.743,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2001-01-01,18490.029,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2002-01-01,18590.085,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2003-01-01,18671.32,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2004-01-01,18747.431,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2005-01-01,18798.114,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2006-01-01,18825.633,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2007-01-01,18901.167,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2008-01-01,18968.501,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2009-01-01,19069.796,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2010-01-01,18923.437,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2011-01-01,19053.124,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2012-01-01,19150.453,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2013-01-01,19227.457,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2014-01-01,19282.138,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2015-01-01,19322.239,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2016-01-01,19336.456,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2017-01-01,19325.115,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2018-01-01,19289.42,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2019-01-01,19232.494,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2020-01-01,19124.359,NY,"New York-Newark-Jersey City, NY-NJ-PA",New York,"Resident Population in New York-Newark-Jersey City, NY-NJ-PA (MSA)",NYTPOP,Annual,Not Seasonally Adjusted
+2000-01-01,224.8,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2001-01-01,224.906,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2002-01-01,225.024,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2003-01-01,225.567,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2004-01-01,226.331,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2005-01-01,227.102,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2006-01-01,227.488,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2007-01-01,228.615,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2008-01-01,229.774,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2009-01-01,230.824,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2010-01-01,234.267,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2011-01-01,234.716,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2012-01-01,234.445,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2013-01-01,233.901,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2014-01-01,233.799,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2015-01-01,233.617,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2016-01-01,233.237,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2017-01-01,233.047,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2018-01-01,232.216,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2019-01-01,231.862,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2020-01-01,230.878,KS,"Topeka, KS",Topeka,"Resident Population in Topeka, KS (MSA)",TPKPOP,Annual,Not Seasonally Adjusted
+2000-01-01,861.369,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2001-01-01,867.707,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2002-01-01,874.815,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2003-01-01,876.919,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2004-01-01,877.172,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2005-01-01,881.652,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2006-01-01,892.635,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2007-01-01,905.678,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2008-01-01,916.037,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2009-01-01,929.015,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2010-01-01,939.868,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2011-01-01,945.873,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2012-01-01,952.694,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2013-01-01,962.21,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2014-01-01,969.784,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2015-01-01,981.356,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2016-01-01,989.124,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2017-01-01,991.785,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2018-01-01,994.033,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2019-01-01,999.348,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted
+2020-01-01,1006.411,OK,"Tulsa, OK",Tulsa,"Resident Population in Tulsa, OK (MSA)",TULPOP,Annual,Not Seasonally Adjusted

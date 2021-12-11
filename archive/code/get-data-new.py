@@ -15,7 +15,7 @@ import fred_msa
 
 api_key = 'a37b50cd27afbc3ce23a81ddc5541dec'
 
-series = pd.read_csv('..\\fred-data-new\new-series-to-use.csv')
+series = pd.read_csv('..\\fred-data-new\\new-series-to-use.csv')
 
 keywords = ['All Employees: Education and Health Services',
  'All Employees: Federal Government',
@@ -76,4 +76,4 @@ keywords = ['All Employees: Education and Health Services',
  'Resident Population',
  'Unemployment Rate']
 
-fred_msa.save_all_series_data(api_key, series, pres_keywords)
+fred_msa.save_all_series_data(api_key, series, keywords)

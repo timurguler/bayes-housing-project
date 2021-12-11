@@ -43,7 +43,7 @@ for s in ny_employees:
     else:
         employees_series.append(s.split(' in ')[0])
 
-keyword_list = housing_series + employees_series
+keyword_list = keyword_list + housing_series + employees_series
 
 
 

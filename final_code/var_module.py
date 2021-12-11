@@ -77,6 +77,7 @@ def generate_time_data(df, city, order, predictors):
     return df_input
 
 
+
 def write_model_module(input_df, sig=1000000):
 
     nums = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
