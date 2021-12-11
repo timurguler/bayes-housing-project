@@ -35,13 +35,7 @@ def read_data(predictors, path="fred-data-pres\\pres-data.csv"):
 
     df.insert(0, "year_month", df.year + df.month / 100)
 
-    id_cols = [
-        'year_month',
-        'year',
-        'month',
-        'city',
-        'state'
-        ]
+    id_cols = ["year_month", "year", "month", "city", "state"]
     id_cols.extend(predictors)
     df = df[id_cols]
 
@@ -50,37 +44,37 @@ def read_data(predictors, path="fred-data-pres\\pres-data.csv"):
 
 def generate_time_data(df, city, order, predictors):
 
-  df = df.query(F"city== '{city}'").reset_index(drop=True)
+    df = df.query(f"city== '{city}'").reset_index(drop=True)
 
-  df_input = pd.DataFrame()
+    df_input = pd.DataFrame()
 
-  year_months = []
+    year_months = []
 
-  for period in range(order, len(df)):
-    year_month = df.year_month.loc[period]
-    # print(year_month)
-    df2 = df.loc[period-order:period-1]
-    # print(df2)
+    for period in range(order, len(df)):
+        year_month = df.year_month.loc[period]
+        # print(year_month)
+        df2 = df.loc[period - order : period - 1]
+        # print(df2)
 
-    df2['step'] = [i for i in range(order)]
-    df_pivot = df2.pivot(index='city', columns='step', values=predictors).reset_index()
-    df_pivot.columns = [col[0]+"_"+str(col[1]) for col in df_pivot.columns]
-    # print(df_pivot)
+        df2["step"] = [i for i in range(order)]
+        df_pivot = df2.pivot(
+            index="city", columns="step", values=predictors
+        ).reset_index()
+        df_pivot.columns = [col[0] + "_" + str(col[1]) for col in df_pivot.columns]
+        # print(df_pivot)
 
-    # Get relevant outputs
-    query = F"year_month == {year_month}"
-    for col in predictors:
-      df_pivot[col] = df.query(query).reset_index(drop=True)[col].iloc[0]
+        # Get relevant outputs
+        query = f"year_month == {year_month}"
+        for col in predictors:
+            df_pivot[col] = df.query(query).reset_index(drop=True)[col].iloc[0]
+        df_input = pd.concat([df_input, df_pivot])
+        year_months.append(year_month)
+    # print(df_input)
 
-    df_input = pd.concat([df_input, df_pivot])
-    year_months.append(year_month)
-
-  # print(df_input)
-
-  df_input.insert(1, 'year_month',year_months)
-  df_input = df_input.reset_index(drop=True)
-  # df_input.columns=[str(col[0]) + str(col[1]) for col in df_input.columns.values]
-  return df_input
+    df_input.insert(1, "year_month", year_months)
+    df_input = df_input.reset_index(drop=True)
+    # df_input.columns=[str(col[0]) + str(col[1]) for col in df_input.columns.values]
+    return df_input
 
 
 def write_model_module(input_df, sig=1000000):
@@ -113,7 +107,7 @@ def write_model_module(input_df, sig=1000000):
             writer.write("\t\t)\n")
 
             writer.write(
-                f"\t\t{output} = pm.Normal('{output}', theta_{output}, sd=200, observed=input_df.{output})\n"
+                f"\t\t{output} = pm.Normal('{output}', theta_{output}, sd={sig}, observed=input_df.{output})\n"
             )
 
             writer.write("\t\n")
@@ -141,8 +135,8 @@ def generate_advi_posterior(model_comb):
 
 
 def get_initial_prediction(input, year_month, order):
-  
-    nums = ['0','1','2','3','4','5','6','7','8','9']
+
+    nums = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
     outputs = [col for col in input.columns[2:] if col[-1] not in nums]
     new_df = input.query(f"year_month == {year_month}").reset_index(drop=True)
 
@@ -166,8 +160,10 @@ def get_initial_prediction(input, year_month, order):
     return build_df
 
 
-def get_new_prediction(df_preds, input_df, parameters, samples, order, df_stdev=pd.DataFrame(), first=True):
-    nums = ['0','1','2','3','4','5','6','7','8','9']
+def get_new_prediction(
+    df_preds, input_df, parameters, samples, order, df_stdev=pd.DataFrame(), first=True
+):
+    nums = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
     outputs = [col for col in input_df.columns[2:] if col[-1] not in nums]
     # print(df_preds)
     city = df_preds["city_"].iloc[-1]
@@ -339,20 +335,17 @@ def plot_uncertainty(mean_df, std_df, steps):
     ys = []
     dists = []
     for dist in range(steps):
-      mean = mean_df.med_housing_3.loc[dist]
-      std = std_df.med_housing_3.loc[dist]
-      new_xs = np.arange(-4*std+mean, 4*std+mean, 100)
-      xs.extend(new_xs)
-      ys.extend(norm.pdf(new_xs, mean, std))
-      dists.extend([dist+1 for i in range(len(new_xs))])
+        mean = mean_df.med_housing_3.loc[dist]
+        std = std_df.med_housing_3.loc[dist]
+        new_xs = np.arange(-4 * std + mean, 4 * std + mean, 100)
+        xs.extend(new_xs)
+        ys.extend(norm.pdf(new_xs, mean, std))
+        dists.extend([dist + 1 for i in range(len(new_xs))])
+    plot_df = pd.DataFrame(
+        {"median_housing_price": xs, "pdf": ys, "months_in_future": dists}
+    )
 
-    plot_df = pd.DataFrame({
-      'median_housing_price':xs,
-      'pdf':ys,
-      'months_in_future':dists    
-    })
-
-    sns.set(rc = {'figure.figsize':(15,8)})
+    sns.set(rc={"figure.figsize": (15, 8)})
     g = sns.FacetGrid(plot_df, col="months_in_future", col_wrap=4)
     g.map(sns.lineplot, "median_housing_price", "pdf")
     g.fig.subplots_adjust(top=0.9)
