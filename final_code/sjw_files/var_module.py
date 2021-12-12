@@ -172,26 +172,25 @@ def generate_advi_posterior(model_comb, advi_return=False):
         return parameters
 
 
-def get_initial_prediction(input, year_month, order):
+def get_initial_prediction(input, year_month, order, seasonal_vars):
 
     nums = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
     outputs = [col for col in input.columns[2:] if col[-1] not in nums]
     new_df = input.query(f"year_month == {year_month}").reset_index(drop=True)
-
     city = new_df["city_"].loc[0]
     build_df = pd.Series()
 
     for col in outputs:
         for i in range(order, 0, -1):
-
-            # print(i)
-
             if i == order:
                 new_col = f"{col}_{i-1}"
                 build_df[new_col] = new_df[col].loc[0]
             else:
                 new_col = f"{col}_{i-1}"
                 build_df[new_col] = new_df[f"{col}_{i}"].loc[0]
+
+    for var in seasonal_vars:
+        build_df[var] = new_df[var].loc[0]
     build_df = pd.DataFrame(build_df).transpose()
     build_df.insert(0, "city_", city)
     build_df.insert(1, "year_month", year_month)
@@ -239,20 +238,31 @@ def get_new_prediction(
             # If it's an uncertainty parameter we ignore it
             if 'sigma' in param:
                 continue
-
+            
+            # Set a flag for it being a seasonal parameter
+            seasonal_flag = False
+            if 's0' in param:
+                seasonal_flag = True
+                
             # Set a flag for it being an intercept parameter
             intercept_flag = False
             if 'intercept' in param:
                 intercept_flag = True
-            
-            # If it's not an intercept parameter then we'll log this parameter
+                
+            # If it's not an intercept parameter or seasonal parameter then we'll log this parameter
             # Into the new series as belonging to the previous period
-            else:
+            elif not seasonal_flag:
                 num = int(param.split(f"_{output}")[0][-1])
                 if num < order and num > 0:
                     df_new[f"{output}_{str(num-1)}"] = df_preds[
                         f"{output}_{str(num)}"
                     ].iloc[-1]
+            
+            # if it's a seasonal parameter set it to the next seasonal value
+            else:
+                # print(param.split(f"_{output}")[0].split('_s0')[0])
+                df_new[param.split(f"_{output}")[0]] = input_df.query(f"year_month == {year_month - 1}")[param.split(f"_{output}")[0].split('_s0')[0]].iloc[-1]
+                # print(input_df.query(f"year_month == {year_month - 1}"))
             
             # get the mean and standard deviation of the parameter weights in question
             mean = (
@@ -319,14 +329,13 @@ def get_new_prediction(
         if new_num >= 0:
             new_col = col.replace(col[-1], str(new_num))
             df_std[new_col] = df_stdev[col].iloc[-1]
-    df_std
     return df_new, df_std
 
 
 
-def run_projections(order, input, start_year_month, steps, parameters, samples=1000000):
+def run_projections(order, input, start_year_month, steps, parameters,seasonal_vars, samples=1000000):
 
-    df_pred = get_initial_prediction(input=input, year_month=start_year_month, order=order)
+    df_pred = get_initial_prediction(input=input, year_month=start_year_month, order=order, seasonal_vars=seasonal_vars)
     max_num = order - 1
 
     mean_df = pd.DataFrame()
