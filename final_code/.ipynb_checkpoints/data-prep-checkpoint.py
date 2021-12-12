@@ -26,6 +26,8 @@ data = fred_msa.convert_data_to_df(data_dict, ['date', 'year', 'month', 'city', 
 
 data = data.query("year < 2021") # 2020 and before
 
+data.to_csv('..\\cleaned-data\\data-no-normal.csv', index=False)
+
 # columns to convert to float if not already
 cols_to_leave = id_vars + ['housing_median_listing_price']
 
@@ -38,7 +40,14 @@ for col in data:
 to_divide = employee_cols + ['housing_active_listing_count', 'housing_new_listing_count']
 
 # divide by population where applicable and normalize
-normalized = fred_msa.normalize_data(data, to_divide, cols_to_leave, ['housing_median_listing_price'])
+full_normalized = fred_msa.normalize_data(data, to_divide, cols_to_leave, ['housing_median_listing_price'])
+
+no_log = fred_msa.normalize_data(data, to_divide, cols_to_leave, [])
+
+divided = fred_msa.normalize_data(data, to_divide, data.columns, [])
+
+divided.to_csv('..\\cleaned-data\\data-no-normal.csv', index=False)
+no_log.to_csv('..\\cleaned-data\\data-no-transform.csv', index=False)
 normalized.to_csv('..\\cleaned-data\\data-normalized.csv', index=False)
 
 # get params for transformation
