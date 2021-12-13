@@ -8,3 +8,12 @@ This repository contains the code and output graphics for our implementation of 
 
 ## Orientation
 Readers will find all the relevant code in the "final_files>model files" folder. Within this folder is a module containing all of the functions necessary for the running of our VAR model. Feel free to explore this file on its own, however, it will be much more useful to look at the included python notebook "VAR.ipynb". This notebook contains a walkthrough of the implementation of the code in our module and will also output relevant visuals. This notebook can be run for any of the three cities available in our dataset "formatted_data.csv" by changing the name of the field "city" in the notebook and running all of the code again. 
+
+Change predictor mix or city of interest using the cell highlighted below within the VAR notebook. 
+
+![image](https://user-images.githubusercontent.com/79474788/145843496-107d69a9-697a-4db9-b868-a62c8b641147.png)
+
+
+## Images
+In the images file you can find relevant images for all of our models. The files with the "_ci.png" suffix show the model predictions for 2019 with a band around our predictions for the 95% confidence interval as seen below for Atlanta. 
+![atlanta_prediction_ci](https://user-images.githubusercontent.com/79474788/145843405-868d9cd6-32e2-4884-b026-e4b2a3852dde.png)
