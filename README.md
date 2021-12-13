@@ -11,9 +11,12 @@ Readers will find all the relevant code in the "final_files>model files" folder.
 
 Change predictor mix or city of interest using the cell highlighted below within the VAR notebook. 
 
+
 ![image](https://user-images.githubusercontent.com/79474788/145843496-107d69a9-697a-4db9-b868-a62c8b641147.png)
 
 
 ## Images
 In the images file you can find relevant images for all of our models. The files with the "_ci.png" suffix show the model predictions for 2019 with a band around our predictions for the 95% confidence interval as seen below for Atlanta. 
+
+
 ![atlanta_prediction_ci](https://user-images.githubusercontent.com/79474788/145843405-868d9cd6-32e2-4884-b026-e4b2a3852dde.png)
