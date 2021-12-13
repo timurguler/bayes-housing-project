@@ -7,7 +7,7 @@ Contributors: Walter Coleman, Stephen Whetzel, Timur Guler
 This repository contains the code and output graphics for our implementation of vector autoregression (VAR) for predicting median housing price in real estate markets in New York, Atlanta, and Tulsa. The tool is somewhat universalizable as long as the input data matches the format used here and all key variables are updated in the relevant notebook. 
 
 ## Orientation
-Readers will find all the relevant code in the "final_files>model files" folder. Within this folder is a module containing all of the functions necessary for the running of our VAR model. Feel free to explore this file on its own, however, it will be much more useful to look at the included python notebook "VAR.ipynb". This notebook contains a walkthrough of the implementation of the code in our module and will also output relevant visuals. This notebook can be run for any of the three cities available in our dataset "formatted_data.csv" by changing the name of the field "city" in the notebook and running all of the code again. 
+Readers will find all the relevant code in the "final_files>model_files" folder. Within this folder is a module containing all of the functions necessary for the running of our VAR model. Feel free to explore this file on its own, however, it will be much more useful to look at the included python notebook "VAR.ipynb". This notebook contains a walkthrough of the implementation of the code in our module and will also output relevant visuals. This notebook can be run for any of the three cities available in our dataset "formatted_data.csv" by changing the name of the field "city" in the notebook and running all of the code again. 
 
 **Note: there is a slightly counterintuitive convention used in our dataset. Variables with a "_#" suffix ("mean_housing_listing_price_4" for example) refer to a variable from a previous time stamp. The most recent time, t-1 being the largest number. For an order 5 VAR model, this means that "mean_housing_listing_price_4" refers to time t-1 and "mean_housing_listing_price_0" refers to time t-5.**
 
@@ -15,6 +15,8 @@ Change predictor mix or city of interest using the cell highlighted below within
 
 
 ![image](https://user-images.githubusercontent.com/79474788/145843496-107d69a9-697a-4db9-b868-a62c8b641147.png)
+
+The data acquisition folder within the "final_files" folder contains various scripts used to access and process the data. Our final data set is contained in "final_files>model_files" as "formatted_data.csv".
 
 
 ## Images
