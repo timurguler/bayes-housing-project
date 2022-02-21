@@ -1,8 +1,3 @@
-# bayes-housing-project
-Repository for Bayesian ML Final Group Project 2021
-
-Contributors: Walter Coleman, Stephen Whetzel, Timur Guler
-
 ## Overview
 This repository contains the code and output graphics for our implementation of vector autoregression (VAR) for predicting median housing price in real estate markets in New York, Atlanta, and Tulsa. The tool is somewhat universalizable as long as the input data matches the format used here and all key variables are updated in the relevant notebook. 
 
